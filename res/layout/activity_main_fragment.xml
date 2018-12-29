@@ -1,0 +1,82 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white" >
+
+    <include
+        android:id="@+id/title"
+        layout="@layout/title_menu" />
+
+    <ImageView
+        android:id="@+id/iv_showGoal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/title"
+        android:scaleType="centerCrop"
+        android:src="@drawable/tab_main" />
+
+    <cmccsi.mhealth.app.sports.view.HorizontalMarqueeTextView
+        android:id="@+id/tv_showGoal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@id/iv_showGoal"
+        android:background="#aa000000"
+        android:ellipsize="marquee"
+        android:marqueeRepeatLimit="marquee_forever"
+        android:paddingBottom="5dp"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp"
+        android:paddingTop="5dp"
+        android:singleLine="true"
+        android:text="@string/hello_world"
+        android:textColor="@color/white"
+        android:textSize="20sp" />
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/vp_main"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/tv_showGoal" />
+
+    <LinearLayout
+        android:id="@+id/ll_tab_group"
+        android:layout_alignParentBottom="true"
+        android:orientation="horizontal"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.0"
+        android:layout_below="@id/tv_showGoal" >
+
+       <RadioGroup
+            android:id="@+id/main_tab_group"
+            android:layout_width="fill_parent"
+            android:layout_height="60dp"
+            android:layout_gravity="bottom"
+            android:gravity="bottom"
+            android:orientation="horizontal"
+            android:background="@drawable/tab_bt" 
+    
+            android:paddingTop="2.0dip" >
+
+            <RadioButton
+                android:id="@+id/main_tab_health"
+                style="@style/radioButtonStyle"
+                android:checked="true"
+                android:drawableTop="@drawable/tab_health"
+                android:text="运动空间" />
+
+            <RadioButton
+                android:id="@+id/main_tab_corporation"
+                style="@style/radioButtonStyle"
+                android:drawableTop="@drawable/tab_corporation"
+                android:text="排行榜" />
+
+            <RadioButton
+                android:id="@+id/main_tab_play"
+                style="@style/radioButtonStyle"
+                android:drawableTop="@drawable/tab_play"
+                android:text="我的运动圈" />
+        </RadioGroup>
+    </LinearLayout>
+
+</RelativeLayout>

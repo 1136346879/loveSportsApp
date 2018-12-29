@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="white">#ffffff</color>
+    <color name="lucensy">#00000001</color>
+    <color name="cyan">#1eb4da</color>
+    <color name="blue">#836FFF</color>
+    <color name="racelist_bg">#ebebeb</color>
+    <color name="black">#000000</color>
+    <color name="transparent">#00000000</color>
+    <color name="light_orange">#fcb75c</color>
+    <color name="menu_gray">#6f6f71</color>
+    <color name="gray_60">#60777777</color>
+    <color name="gray0">#aaaaaa</color>
+    <color name="gray">#DBDBDB</color>
+    <color name="gray2">#EBEBEB</color>
+    <color name="gray3">#777777</color>
+    <color name="gray4">#444444</color>
+    <color name="mypos">#FFC8E6FF</color>
+    <color name="blue_low">#5CACEE</color>
+    <color name="red">#fe0202</color>
+    <color name="background">#e5e5e5</color>
+    <color name="text_gray">#4F4F4F</color>
+    <color name="green">#8FC41C</color>
+    <color name="green1">#98e20f</color>
+    <color name="gold">#e2c998</color>
+    <color name="blueexpandable">#40bafe</color>
+    <color name="gold_I">#6e4527</color>
+    <color name="gold_II">#FFB89766</color>
+    <color name="org_I">#FFa200</color>
+    <color name="org_IIII">#f49b01</color>
+    <color name="font_title">#6e4627</color>
+    <color name="font_content_value">#f49903</color>
+    <color name="brief_centercolor">#c0c0c0</color>
+    <color name="color_putong">#8fc823</color> <!-- 普通运动小人颜色 -->
+    <color name="coffee">#6b4322</color> <!-- 咖啡色 -->
+     <color name="light_gray">#bebebe</color>
+
+	<color name="bracelet_selected">#22b1f0</color>
+	<color name="bracelet_normal">#333333</color>
+	<color name="green_friend">#00AC00</color>
+</resources>

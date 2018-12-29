@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/rl_container_delete"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/gray_60"
+    android:gravity="center_vertical"
+    android:paddingLeft="25dp"
+    android:paddingRight="25dp" >
+
+    <LinearLayout
+        android:id="@+id/dialog_delete"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/dialog_delete_shape"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/Introduction_delete"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginTop="10dp"
+            android:gravity="center_vertical"
+            android:textColor="@color/green"
+            android:textSize="18sp" />
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="1dp"
+            android:background="@color/gray2" />
+
+        <TextView
+            android:id="@+id/Introduction_delete_detail"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="15dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginTop="15dp"
+            android:textColor="@color/gray4"
+            android:textSize="14sp" />
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="1dp"
+            android:background="@color/gray2" />
+
+        <Button
+            android:id="@+id/btn_dialog_delete_yes"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:background="@drawable/dialog_delete_button_select_share"
+            android:padding="0dp"
+            android:text="确定"
+            android:textColor="@color/green"
+            android:textSize="16sp" />
+
+        <LinearLayout
+            android:id="@+id/ll_dialog_delete_buttons"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:visibility="gone" >
+
+            <Button
+                android:id="@+id/btn_dialog_delete_cancle"
+                android:layout_width="0dp"
+                android:layout_height="40dp"
+                android:layout_weight="1"
+                android:background="@drawable/dialog_delete_button_cancle_select_share"
+                android:padding="0dp"
+                android:text="取消"
+                android:textColor="@color/green"
+                android:textSize="16sp" />
+
+            <View
+                android:layout_width="1dp"
+                android:layout_height="40dp"
+                android:background="@color/gray2" />
+
+            <Button
+                android:id="@+id/btn_dialog_delete_sure"
+                android:layout_width="0dp"
+                android:layout_height="40dp"
+                android:layout_weight="1"
+                android:background="@drawable/dialog_delete_button_sure_select_share"
+                android:padding="0dp"
+                android:text="确定"
+                android:textColor="@color/green"
+                android:textSize="16sp" />
+        </LinearLayout>
+    </LinearLayout>
+
+</RelativeLayout>

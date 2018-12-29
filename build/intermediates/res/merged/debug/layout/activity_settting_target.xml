@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/background"
+    android:orientation="vertical" >
+
+    <include layout="@layout/title_menu2" />
+
+    <EditText
+        android:id="@+id/setting_num"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dip"
+        android:inputType="number"
+        android:hint="@string/textview_input_rank_target" />
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" 
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10.0dip"
+            android:text="@string/textview_runtarget_describe"
+            android:textColor="@android:color/black" />
+
+        <Button
+            android:id="@+id/setting_targer_ok"
+            android:layout_width="100dp"
+            android:layout_height="30dp"
+            android:layout_gravity="right"
+            android:layout_marginRight="5dip"
+            android:background="@drawable/listitem_button_round"
+            android:text="@string/textview_save" />
+
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#8ec31e"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:id="@+id/linearLayout_pedo_brief_title"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <include
+            android:id="@+id/item_header"
+            layout="@layout/title_menu2" />
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/forgetpassword_imageView_photo"
+        android:layout_width="match_parent"
+        android:layout_height="110dp"
+        android:layout_marginBottom="30dp"
+        android:layout_marginTop="30dp"
+        android:src="@drawable/icon_userpicture" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:background="#aad256"
+        android:gravity="center_vertical"
+        android:orientation="horizontal" >
+         <TextView
+            android:id="@+id/textView_username"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:text="    账号  "
+            android:textColor="@color/white"
+            android:textSize="18sp" />
+
+        <cmccsi.mhealth.app.sports.view.EditTextWithDel
+            android:id="@+id/edittext_username"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="#00000000"
+            android:singleLine="true"
+            android:maxLength="20"
+            android:textColorHint="@color/white"
+            android:textColor="@color/white"
+            android:textSize="18sp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:background="#aad256"
+        android:gravity="center_vertical"
+        android:layout_marginTop="2dp"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:text="手机号  "
+            android:textColor="@color/white"
+            android:textSize="18sp" />
+
+        <cmccsi.mhealth.app.sports.view.EditTextWithDel
+            android:id="@+id/edittext_phonenum"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="#00000000"
+            android:inputType="phone"
+            android:textColorHint="@color/white"
+            android:singleLine="true"
+            android:textColor="@color/white"
+            android:textSize="18sp" />
+
+        <Button
+            android:id="@+id/button_send"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:background="#d4cf2b"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:text="获取验证码"
+            android:textColor="@color/white"
+            android:textSize="18sp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="2dp"
+        android:background="#aad256"
+        android:gravity="center_vertical"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:text="验证码  "
+            android:textColor="@color/white"
+            android:textSize="18sp" />
+
+        <cmccsi.mhealth.app.sports.view.EditTextWithDel
+            android:id="@+id/edittext_tempcode"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="#00000000"
+            android:inputType="number"
+            android:maxLength="6"
+            android:textColorHint="@color/white"
+            android:singleLine="true"
+            android:textColor="@color/white"
+            android:textSize="18sp" />
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/button_ok"
+        android:layout_width="fill_parent"
+        android:layout_height="45dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="10dp"
+        android:background="#d2e7a5"
+        android:text="确定"
+        android:textColor="#999e8f"
+        android:textSize="24sp" />
+
+</LinearLayout>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:app="http://schemas.android.com/apk/res/cmccsi.mhealth.portal.sports"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:background="#ffffff"
+    android:gravity="center_vertical"
+    android:orientation="horizontal"
+    android:padding="15dp" >
+
+    <RelativeLayout
+        android:id="@+id/linearLayout_list_item_rank"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1" >
+
+        <ImageView
+            android:id="@+id/imageview_rankidfirst"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="40dp"
+            android:layout_marginTop="2dip"
+            android:contentDescription="@string/image_content_description"
+            android:src="@drawable/rank_id_frist"
+            android:visibility="gone" />
+
+        <RelativeLayout
+            android:id="@+id/layout_content"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/imageview_rankidfirst" >
+
+            <TextView
+                android:id="@+id/textview_rank_seq"
+                android:layout_width="wrap_content"
+                android:layout_height="27dp"
+                android:layout_centerVertical="true"
+                android:gravity="center"
+                android:text="0"
+                android:textColor="@color/black"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/textview_member_name"
+                android:layout_width="wrap_content"
+                android:layout_height="30.0dip"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="8dp"
+                android:layout_toRightOf="@id/textview_rank_seq"
+                android:gravity="center_vertical"
+                android:textColor="@color/black"
+                android:textSize="18sp" />
+
+            <TextView
+                android:id="@+id/textview_group_name"
+                android:layout_width="wrap_content"
+                android:layout_height="30dp"
+                android:layout_centerVertical="true"
+                android:layout_toRightOf="@id/textview_member_name"
+                android:gravity="center_vertical"
+                android:singleLine="true"
+                android:textColor="@drawable/rankitem_groupname_text_color"
+                android:textSize="16sp" />
+        </RelativeLayout>
+
+                    <cmccsi.mhealth.app.sports.view.ScoreBarView
+                        android:id="@+id/regularprogressbar"
+                        android:layout_width="wrap_content"
+            android:layout_height="4dp"
+            android:layout_below="@id/layout_content" />
+    </RelativeLayout>
+
+    <TextView
+        android:id="@+id/tv_stepNum"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="0 步"
+        android:textColor="#000000" />
+
+</LinearLayout>

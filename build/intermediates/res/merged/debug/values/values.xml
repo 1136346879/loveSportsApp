@@ -1,0 +1,849 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="UMageList">
+        <item>年龄</item>
+        <item>&lt;18</item>
+        <item>18-24</item>
+        <item>25-30</item>
+        <item>31-35</item>
+        <item>36-40</item>
+        <item>41-50</item>
+        <item>51-59</item>
+        <item>≥60</item>
+    </string-array>
+    <string-array name="UMgenderList">
+        <item>性别</item>
+        <item>男</item>
+        <item>女</item>
+    </string-array>
+    <string-array name="umeng_fb_contact_key_array">
+        <item>@string/umeng_fb_contact_key_email</item>
+        <item>@string/umeng_fb_contact_key_qq</item>
+s
+                        <item>@string/umeng_fb_contact_key_phone</item>
+        <item>@string/umeng_fb_contact_key_other</item>
+    </string-array>
+    <string-array name="umeng_fb_contact_type_array">
+        <item>@string/umeng_fb_contact_email</item>
+        <item>@string/umeng_fb_contact_qq</item>
+        <item>@string/umeng_fb_contact_phone</item>
+        <item>@string/umeng_fb_contact_other</item>
+    </string-array>
+    <attr format="reference" name="numberPickerDownButtonStyle"/>
+    <attr format="reference" name="numberPickerInputTextStyle"/>
+    <attr format="reference" name="numberPickerStyle"/>
+    <attr format="reference" name="numberPickerUpButtonStyle"/>
+    <bool name="ga_autoActivityTracking">true</bool>
+    <bool name="ga_reportUncaughtExceptions">true</bool>
+    <color name="background">#e5e5e5</color>
+    <color name="black">#000000</color>
+    <color name="blue">#836FFF</color>
+    <color name="blue_low">#5CACEE</color>
+    <color name="blueexpandable">#40bafe</color>
+    <color name="bracelet_normal">#333333</color>
+    <color name="bracelet_selected">#22b1f0</color>
+    <color name="brief_centercolor">#c0c0c0</color>
+    <color name="coffee">#6b4322</color>
+    <color name="color_putong">#8fc823</color>
+    <color name="cyan">#1eb4da</color>
+    <color name="font_content_value">#f49903</color>
+    <color name="font_title">#6e4627</color>
+    <color name="gold">#e2c998</color>
+    <color name="gold_I">#6e4527</color>
+    <color name="gold_II">#FFB89766</color>
+    <color name="gray">#DBDBDB</color>
+    <color name="gray0">#aaaaaa</color>
+    <color name="gray2">#EBEBEB</color>
+    <color name="gray3">#777777</color>
+    <color name="gray4">#444444</color>
+    <color name="gray_60">#60777777</color>
+    <color name="green">#8FC41C</color>
+    <color name="green1">#98e20f</color>
+    <color name="green_friend">#00AC00</color>
+    <color name="light_gray">#bebebe</color>
+    <color name="light_orange">#fcb75c</color>
+    <color name="lucensy">#00000001</color>
+    <color name="menu_gray">#6f6f71</color>
+    <color name="mypos">#FFC8E6FF</color>
+    <color name="org_I">#FFa200</color>
+    <color name="org_IIII">#f49b01</color>
+    <color name="racelist_bg">#ebebeb</color>
+    <color name="red">#fe0202</color>
+    <color name="text_gray">#4F4F4F</color>
+    <color name="transparent">#00000000</color>
+    <color name="umeng_fb_button_send">#99cc33</color>
+    <color name="umeng_fb_gray">#FFD8D8D8</color>
+    <color name="umeng_fb_lightblue">#99cc33</color>
+    <color name="umeng_fb_line">#71d000</color>
+    <color name="umeng_fb_secondary_text_light">#8A000000</color>
+    <color name="umeng_fb_white">#FFFFFF</color>
+    <color name="white">#ffffff</color>
+    <declare-styleable name="MapTypeView"><attr format="reference" name="selectedIcon"/><attr format="reference" name="unselectedIcon"/><attr format="string" name="text"/><attr format="boolean" name="selected"/></declare-styleable>
+    <declare-styleable name="NumberPicker"><attr format="color|reference" name="solidColor"/><attr format="boolean" name="flingable"/><attr format="reference" name="selectionDivider"/><attr format="dimension" name="selectionDividerHeight"/><attr format="dimension" name="selectionDividersDistance"/><attr name="android:minHeight"/><attr name="android:maxHeight"/><attr name="android:minWidth"/><attr name="android:maxWidth"/><attr name="android:orientation"/><attr name="android:fadingEdgeLength"/></declare-styleable>
+    <declare-styleable name="PictureProcessView"><attr format="color" name="overColor"/><attr format="color" name="normalColor"/></declare-styleable>
+    <declare-styleable name="RoundAngleImageView"><attr format="dimension" name="roundWidth"/><attr format="dimension" name="roundHeight"/></declare-styleable>
+    <declare-styleable name="SaundProgressBar"><attr format="reference" name="progressIndicator"/><attr format="dimension" name="textSize"/><attr format="reference|color" name="textColor"/><attr name="textStyle"><flag name="normal" value="0"/><flag name="bold" value="1"/><flag name="italic" value="2"/></attr><attr name="textAlign"><flag name="left" value="0"/><flag name="center" value="1"/><flag name="right" value="2"/></attr><attr format="dimension" name="offset"/></declare-styleable>
+    <dimen name="alphabet_size">12dip</dimen>
+    <dimen name="bottom_tab_font_size">12.0dip</dimen>
+    <dimen name="bottom_tab_padding_drawable">0.0dip</dimen>
+    <dimen name="bottom_tab_padding_up">0.0dip</dimen>
+    <dimen name="margin_left_1">20dp</dimen>
+    <dimen name="margin_top_as_bom">5dp</dimen>
+    <dimen name="size_1">20sp</dimen>
+    <dimen name="text_size_running_date">30sp</dimen>
+    <dimen name="umeng_fb_item_content_size">14sp</dimen>
+    <dimen name="umeng_fb_item_height">48dp</dimen>
+    <dimen name="umeng_fb_item_line_height">0.8dp</dimen>
+    <dimen name="umeng_fb_item_time_size">12sp</dimen>
+    <dimen name="umeng_fb_spinner_padding_left">12dp</dimen>
+    <dimen name="umeng_socialize_pad_window_height">350dip</dimen>
+    <dimen name="umeng_socialize_pad_window_width">580dip</dimen>
+    <item name="button_set_height" type="id"/>
+    <item name="button_set_weight" type="id"/>
+    <item name="edittext_input_your_height" type="id"/>
+    <item name="edittext_input_your_weight" type="id"/>
+    <item name="iamgeview_null" type="id"/>
+    <item name="linearlayout_null" type="id"/>
+    <item name="np__decrement" type="id"/>
+    <item name="np__increment" type="id"/>
+    <item name="textview_null" type="id"/>
+    <integer name="np_config_longAnimTime">500</integer>
+    <string name="MESSAGE_AVARAR_SET_SUCCESS">头像设置完成</string>
+    <string name="MESSAGE_COMFIRM_FAIL">验证失败，请重试</string>
+    <string name="MESSAGE_COMFIRM_PLSINPUTCODE">请输入验证码</string>
+    <string name="MESSAGE_CROP_FAILED">获取失败请重新选择</string>
+    <string name="MESSAGE_CUSTOMER_INFO_EXCEPTION">用户信息验证失败</string>
+    <string name="MESSAGE_GET_SERVERLIST_FAILED">服务器暂时无法使用，请稍后再试</string>
+    <string name="MESSAGE_GOAL_UPLAOD_FAILED">成就设置失败，请稍后重试</string>
+    <string name="MESSAGE_GPS_NODATA">您还没有数据，赶快开启运动吧！</string>
+    <string name="MESSAGE_INTERNET_ERROR">网络异常，请检查网络设置</string>
+    <string name="MESSAGE_INTERNET_NONE">当前没有网络,请查看网络设置</string>
+    <string name="MESSAGE_LOGIN_FALSE">登录失败</string>
+    <string name="MESSAGE_LOGIN_SUCCESS">登录成功</string>
+    <string name="MESSAGE_NOT_ACTIVITY">用户未激活,请先通过电脑激活</string>
+    <string name="MESSAGE_NO_PEDO_DETAIL">运动记录为空</string>
+    <string name="MESSAGE_PASSWORD_ERROE">用户名或密码错误</string>
+    <string name="MESSAGE_PASSWORD_ISEMPTY">密码为空</string>
+    <string name="MESSAGE_PASSWORD_ISTOOLEN">密码长度超过30个字符</string>
+    <string name="MESSAGE_PHONE_ERROR">请输入正确的手机号码</string>
+    <string name="MESSAGE_PHONE_ISEMPTY">账号为空</string>
+    <string name="MESSAGE_PHONE_ISTOOLEN">账号长度超过30个字符</string>
+    <string name="MESSAGE_PHONE_PASSWORD_EXCEPTION">手机号或密码不正确</string>
+    <string name="MESSAGE_SERVER_EXCEPTION">当前网络连接错误，请退出后检查网络</string>
+    <string name="MESSAGE_SERVER_EXCEPTION2">无此账号，请检查拼写</string>
+    <string name="MESSAGE_SERVER_EXCEPTION3">对同一手机号码每天最多请求3次短信验证码</string>
+    <string name="MESSAGE_SYNCHRO_GPS_FAILED">数据同步成功</string>
+    <string name="MESSAGE_SYNCHRO_GPS_SUCCESS">数据同步成功</string>
+    <string name="MESSAGE_UN_SAVE_DATA">数据未保存</string>
+    <string name="MESSAGE_UPDATED_VERSION">当前已经是最新版本</string>
+    <string name="MESSAGE_UPDATE_FALSE">更新失败</string>
+    <string name="MESSAGE_UPDATE_PWD_SUCCESS">修改成功</string>
+    <string name="MESSAGE_UPDATE_SUCCESS">更新成功</string>
+    <string name="MESSAGE_UPLOAD_GPS_SUCCESS">数据上传成功</string>
+    <string name="UMContentTooLong">超过140字了，再简短一些吧</string>
+    <string name="UMDeleteFeedback">删除反馈</string>
+    <string name="UMDeleteMsg">删除信息</string>
+    <string name="UMDeleteThread">删除反馈</string>
+    <string name="UMEmptyFbNotAllowed">请输入你的反馈内容</string>
+    <string name="UMFbList_ListItem_State_Fail">发送失败</string>
+    <string name="UMFbList_ListItem_State_ReSend">失败,轻触以重发</string>
+    <string name="UMFbList_ListItem_State_Resending">重发</string>
+    <string name="UMFbList_ListItem_State_Sending">发送中…</string>
+    <string name="UMFb_Atom_State_Fail">发送失败</string>
+    <string name="UMFb_Atom_State_Resending">发送失败,轻触以重发</string>
+    <string name="UMFb_Atom_State_Sending">发送中…</string>
+    <string name="UMFeedbackContent">请输入您的反馈意见</string>
+    <string name="UMFeedbackConversationTitle">反馈问题</string>
+    <string name="UMFeedbackGoBack"/>
+    <string name="UMFeedbackGotIt">知道了</string>
+    <string name="UMFeedbackListTitle">我的反馈</string>
+    <string name="UMFeedbackSeeDetail">去看看</string>
+    <string name="UMFeedbackSummit">提交</string>
+    <string name="UMFeedbackTitle">每条建议都将帮助我们做得更好。</string>
+    <string name="UMFeedbackUmengTitle">反馈意见</string>
+    <string name="UMNewReplyAlertTitle">您的反馈收到了回复</string>
+    <string name="UMNewReplyFlick">有新的回复</string>
+    <string name="UMNewReplyHint">点击查看</string>
+    <string name="UMNewReplyTitle">有新的回复</string>
+    <string name="UMResendFeedback">重发反馈</string>
+    <string name="UMViewFeedback">查看反馈</string>
+    <string name="UMViewThread">查看反馈</string>
+    <string name="achievement_title">成就</string>
+    <string name="app_name">爱动力</string>
+    <string name="avtivity_detials_radiobutton_left">个人成绩</string>
+    <string name="avtivity_detials_radiobutton_right">团队成绩</string>
+    <string name="bracelet_setting">手环设置</string>
+    <string name="bracelet_setting_pos">佩戴位置</string>
+    <string name="bracelet_setting_pos_left">左手</string>
+    <string name="bracelet_setting_pos_right">右手</string>
+    <string name="bracelet_setting_reset">睡眠闹钟重复</string>
+    <string name="bracelet_setting_resetsport">运动闹钟重复</string>
+    <string name="bracelet_setting_sleep">睡眠闹钟</string>
+    <string name="bracelet_setting_sport">运动闹钟</string>
+    <string name="brief_info">运动情况</string>
+    <string name="campaigncontentactivity_activitydescription">活动说明</string>
+    <string name="campaigncontentactivity_averagenumberofsteps">平均步数排行榜</string>
+    <string name="campaigncontentactivity_awardsetting">奖项设置</string>
+    <string name="campaigncontentactivity_getactivelistinformationfalse">获取活动列表信息失败</string>
+    <string name="campaigncontentactivity_getmsgfalse">获取活动信息失败</string>
+    <string name="campaigncontentactivity_getorderfalse">获取数据排名失败，请稍后尝试重新获取</string>
+    <string name="campaigncontentactivity_noactivitydescription">抱歉，此活动暂无相关说明~</string>
+    <string name="campaigncontentactivity_noactivitydescription1">暂无活动说明</string>
+    <string name="campaigncontentactivity_noaverage">参加活动的第一天，暂无您的排名数据</string>
+    <string name="campaigncontentactivity_noaward">无奖项信息</string>
+    <string name="dialog_area_message">请到设置页面完善您的区域信息！</string>
+    <string name="dialog_area_no">稍后再说</string>
+    <string name="dialog_area_title">提示</string>
+    <string name="dialog_area_yes">现在去</string>
+    <string name="ecg_float_zero">0.0</string>
+    <string name="ecg_hr_rate">心率</string>
+    <string name="ecg_int_zero">0</string>
+    <string name="ecg_month">近1个月</string>
+    <string name="ecg_my_avg">我的均值</string>
+    <string name="ecg_pressure">情绪状态</string>
+    <string name="ecg_semiannual">近6个月</string>
+    <string name="ecg_today">当天</string>
+    <string name="ecg_variant">心率变异率</string>
+    <string name="ecg_week">7天</string>
+    <string name="face_image">我的头像</string>
+    <string name="firmwaredownloadprogressactivity_downloadmsg">固件下载失败</string>
+    <string name="firmwaredownloadprogressactivity_downloadprogress">下载固件，当前进度</string>
+    <string name="firmwareuploadprogressactivity_connectdismiss">手环连接断开</string>
+    <string name="firmwareuploadprogressactivity_connectfalse">连接失败</string>
+    <string name="firmwareuploadprogressactivity_connecting">正在连接设备，请稍等</string>
+    <string name="firmwareuploadprogressactivity_connecttimeout">连接超时</string>
+    <string name="firmwareuploadprogressactivity_device">您的Android系统版本过低，暂不支持蓝牙手环</string>
+    <string name="firmwareuploadprogressactivity_flodererror">固件文件无效</string>
+    <string name="firmwareuploadprogressactivity_isnew">当前固件版本已是最新</string>
+    <string name="firmwareuploadprogressactivity_lowbuttery">手环电量过低，请先充电</string>
+    <string name="firmwareuploadprogressactivity_nofindfloder">未找到手环固件</string>
+    <string name="firmwareuploadprogressactivity_progressing">更新中，当前进度</string>
+    <string name="firmwareuploadprogressactivity_timeout">更新手环固件超时</string>
+    <string name="firmwareuploadprogressactivity_uploadfalse">固件升级失败</string>
+    <string name="firmwareuploadprogressactivity_uploadsuccess">固件升级成功</string>
+    <string name="friend_match_contact_add">确定添加</string>
+    <string name="friend_match_contact_cancle">取消</string>
+    <string name="friend_search">搜索</string>
+    <string name="friend_title">伙伴</string>
+    <string name="ga_trackingId">UA-39613003-2</string>
+    <string name="global_1">一</string>
+    <string name="global_2">二</string>
+    <string name="global_3">三</string>
+    <string name="global_4">四</string>
+    <string name="global_5">五</string>
+    <string name="global_6">六</string>
+    <string name="global_7">日</string>
+    <string name="global_alert">提示</string>
+    <string name="global_cancel">取消</string>
+    <string name="global_ok">确定</string>
+    <string name="global_save">保存</string>
+    <string name="global_week">星期</string>
+    <string name="handaddcontactactivity_addfriend">添加好友...</string>
+    <string name="handaddcontactactivity_searchfalse">搜索失败</string>
+    <string name="handaddcontactactivity_searchfriend">搜索好友...</string>
+    <string name="handaddcontactactivity_searchnofriend">未找到好友</string>
+    <string name="handaddcontactactivity_sendmsg">消息已发送，等待对方同意</string>
+    <string name="handaddcontactactivity_sendmsgfalse">消息发送失败</string>
+    <string name="handaddcontactactivity_title">手动添加好友</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="his_title">历史记录</string>
+    <string name="history_hot">卡路里(千卡)</string>
+    <string name="history_uploadtime">上传时间</string>
+    <string name="hractivity_hearthealthisgood">心率处于健康范围，心脏健康状态良好</string>
+    <string name="hractivity_heartratetrend">心率趋势</string>
+    <string name="hractivity_measurement">测量于</string>
+    <string name="hractivity_riskoftachycardia">存在心动过速风险</string>
+    <string name="hrvactivity_hearthealthisgood">心率变异率反映一段时间内的心脏健康指数，平均值越高心脏越健康</string>
+    <string name="hrvactivity_heartratetrend">心率变异率趋势</string>
+    <string name="hrvactivity_measurement">测量于</string>
+    <string name="image_content_description">is OK</string>
+    <string name="login_title">登录</string>
+    <string name="main_setting">设置</string>
+    <string name="mainfragmentactivity_back">再按一次退出程序</string>
+    <string name="mainfragmentactivity_note">请先到设置页面激活运动设备！</string>
+    <string name="maplistgpsfragment_nosport">您还没有数据，赶快开启运动吧！</string>
+    <string name="maplistgpsfragment_updatefalse">数据同步失败</string>
+    <string name="mapstartrunningfragment_exitmsg">轨迹记录结束后才可退出</string>
+    <string name="mapstartrunningfragment_exitmsg1">你还没有运动轨迹，确定要退出吗？</string>
+    <string name="mapstartrunningfragment_exitmsg2">是否保存您的轨迹数据？</string>
+    <string name="mapstartrunningfragment_exitmsg3">轨迹记录正在进行</string>
+    <string name="mapvieworbitfragment_dailogmsg">您当前的轨迹数据还未上传，是否上传？</string>
+    <string name="mapvieworbitfragment_messagegpsnodata">您还没有数据，赶快开启运动吧！</string>
+    <string name="mapvieworbitfragment_messagesynchrogpssuccess">数据同步成功</string>
+    <string name="mapvieworbitfragment_messageuploadgpssuccess">数据上传成功</string>
+    <string name="message_title">消息</string>
+    <string name="msg_show_club_error">您不属于企业用户，无企业相关信息</string>
+    <string name="nickname">昵称</string>
+    <string name="np_number_picker_decrement_button">Decrement</string>
+    <string name="np_number_picker_increment_button">Increment</string>
+    <string name="np_number_picker_increment_scroll_action">Slide up to increment and down to decrement.</string>
+    <string name="np_number_picker_increment_scroll_mode"><ns1:g example="3" id="value">%s</ns1:g> tap and hold.</string>
+    <string name="pedometer_title">运动</string>
+    <string name="phonestep_uploadfailed">数据同步失败</string>
+    <string name="phonestep_uploading">正在同步数据</string>
+    <string name="phonestep_uploadsuccess">数据同步成功</string>
+    <string name="pull_to_refresh_pull_label" translatable="false">向下拉动可以刷新</string>
+    <string name="pull_to_refresh_refreshing_label" translatable="false">加载中.....</string>
+    <string name="pull_to_refresh_release_label" translatable="false">松开可以刷新</string>
+    <string name="pull_to_refresh_tap_label" translatable="false">点击刷新</string>
+    <string name="racelist_title">活动排行榜</string>
+    <string name="rank_textview_1day">昨日</string>
+    <string name="rank_textview_7day">七日</string>
+    <string name="setting_bracelet">智能蓝牙手环</string>
+    <string name="setting_bracelet_dec">(点击此处可完成手环与手机APP的配对)</string>
+    <string name="setting_paired_device">已配对设备</string>
+    <string name="settingfragmentapp_nowupload">正在上传文件...</string>
+    <string name="share_my_shuju">分享我的简报</string>
+    <string name="stepnum">步数</string>
+    <string name="string_birthday">生日：</string>
+    <string name="string_weight">体重：</string>
+    <string name="telephonenumber">手机号码 :</string>
+    <string name="text_addfriend_find_myself">不能添加自己为好友</string>
+    <string name="text_campaign_empty">对不起，暂时没有相应的活动!</string>
+    <string name="text_device_setting_empty">您目前没有任何计步设备，请到和健康完成添加。</string>
+    <string name="text_device_setting_empty_alone">您目前没有任何计步设备，请先添加设备。</string>
+    <string name="text_height">身高：</string>
+    <string name="text_input_target_weight">请在这里输入您的体重目标是多少(单位：千克)</string>
+    <string name="text_login">登  录</string>
+    <string name="text_remember_password">记住密码</string>
+    <string name="text_share_cancel">取消</string>
+    <string name="text_show_goal_First_indays">预计您绕%1$s一圈还需%2$s天，加油，坚持就是胜利哟</string>
+    <string name="text_show_goal_First_indays_huanghe">预计完成第一次黄河徒步行还需%1$s天，加油，坚持就是胜利哟</string>
+    <string name="text_show_goal_First_inhours">预计您绕%1$s一圈还需%2$s小时，加油，坚持就是胜利哟</string>
+    <string name="text_show_goal_First_inhours_huanghe">预计完成第一次黄河徒步行还需%1$s小时，加油，坚持就是胜利哟</string>
+    <string name="text_show_goal_indays">预计您绕%1$s第%2$s圈还需%3$s天，加油，坚持就是胜利哟</string>
+    <string name="text_show_goal_indays_huanghe">预计完成第%1$s次黄河徒步行还需%2$s天，加油，坚持就是胜利哟</string>
+    <string name="text_show_goal_inhours">预计您绕%1$s第%2$s圈还需%3$s小时，加油，坚持就是胜利哟</string>
+    <string name="text_show_goal_inhours_huanghe">预计完成第%1$s次黄河徒步行还需%2$s小时，加油，坚持就是胜利哟</string>
+    <string name="text_show_goal_percentage">您已完成预定目标的%1$s，也可以选择下列运动目标</string>
+    <string name="text_target_weight">体重目标：</string>
+    <string name="text_wait">努力加载中...</string>
+    <string name="text_zeronum">0</string>
+    <string name="textivew_race3">已结束</string>
+    <string name="textview_aboutapk">关于爱动力</string>
+    <string name="textview_autologin">自动登录</string>
+    <string name="textview_avgStep">平均步数</string>
+    <string name="textview_binddevice">设备管理</string>
+    <string name="textview_boot_run">开机启动:</string>
+    <string name="textview_circle_friend_weixin">分享到朋友圈</string>
+    <string name="textview_daxiao">大小:</string>
+    <string name="textview_feedback">意见反馈</string>
+    <string name="textview_forgetpwd">忘记密码</string>
+    <string name="textview_friend_weixin">发给微信好友</string>
+    <string name="textview_help">关于</string>
+    <string name="textview_input_rank_target">请输入运动目标</string>
+    <string name="textview_inspect_version">检查新版本</string>
+    <string name="textview_mygroup">所 属  组：</string>
+    <string name="textview_packname">文件名：SportHealth.apk</string>
+    <string name="textview_race0">敬请期待</string>
+    <string name="textview_race_now">进行中</string>
+    <string name="textview_rankid">序号</string>
+    <string name="textview_ranknow">您的名次</string>
+    <string name="textview_runtarget">运动目标：</string>
+    <string name="textview_runtarget_describe">在这里您可以设置您每天的运动目标步数(单位：步)</string>
+    <string name="textview_save">保 存</string>
+    <string name="textview_share">选择要分享的内容</string>
+    <string name="textview_thistext">This is Content</string>
+    <string name="textview_version">当前版本：</string>
+    <string name="textview_ym_sendtime">This is State or Send Time</string>
+    <string name="umeng_common_action_cancel">取消</string>
+    <string name="umeng_common_action_continue">继续</string>
+    <string name="umeng_common_action_info_exist">正在下载中.</string>
+    <string name="umeng_common_action_pause">暂停</string>
+    <string name="umeng_common_download_failed">下载失败</string>
+    <string name="umeng_common_download_notification_prefix">正在下载: </string>
+    <string name="umeng_common_info_interrupt">下载出错啦，请检查网络后继续。</string>
+    <string name="umeng_common_network_break_alert">请连接网络后再尝试！</string>
+    <string name="umeng_fb_back">返回</string>
+    <string name="umeng_fb_change_contact_title">更改联系信息</string>
+    <string name="umeng_fb_contact_email">邮箱</string>
+    <string name="umeng_fb_contact_info">联系方式</string>
+    <string name="umeng_fb_contact_info_hint">QQ, 电话等我们能联系您的联系方式</string>
+    <string name="umeng_fb_contact_key_email">email</string>
+    <string name="umeng_fb_contact_key_other">plain</string>
+    <string name="umeng_fb_contact_key_phone">phone</string>
+    <string name="umeng_fb_contact_key_qq">qq</string>
+    <string name="umeng_fb_contact_other">其他</string>
+    <string name="umeng_fb_contact_phone">手机</string>
+    <string name="umeng_fb_contact_qq">QQ</string>
+    <string name="umeng_fb_contact_save">保存</string>
+    <string name="umeng_fb_feedback">意见反馈</string>
+    <string name="umeng_fb_notification_content_formatter_multiple_msg">收到来自开发者的 %d 条回复。</string>
+    <string name="umeng_fb_notification_content_formatter_single_msg">新回复: %s</string>
+    <string name="umeng_fb_notification_ticker_text">有新的回复</string>
+    <string name="umeng_fb_reply_content_default">你好，欢迎您反馈使用产品的感受和建议</string>
+    <string name="umeng_fb_send">发送</string>
+    <string name="umeng_fb_send_fail">发送失败</string>
+    <string name="umeng_fb_sending">正在发送…</string>
+    <string name="umeng_fb_time_minutes_ago">%d分钟前</string>
+    <string name="umeng_fb_time_pre_year_format">yy/MM/dd HH:mm:ss</string>
+    <string name="umeng_fb_time_right_now">刚刚</string>
+    <string name="umeng_fb_time_this_year_format">MM/dd HH:mm:ss</string>
+    <string name="umeng_fb_title">用户反馈</string>
+    <string name="umeng_fb_write_contact_title">填写联系信息</string>
+    <string name="umeng_socialize_back" translatable="false">返回</string>
+    <string name="umeng_socialize_comment" translatable="false">评论</string>
+    <string name="umeng_socialize_friends" translatable="false">关注的好友</string>
+    <string name="umeng_socialize_msg_hor" translatable="false">小时前</string>
+    <string name="umeng_socialize_msg_min" translatable="false">分钟前</string>
+    <string name="umeng_socialize_msg_sec" translatable="false">秒前</string>
+    <string name="umeng_socialize_near_At" translatable="false">最近\@的好友</string>
+    <string name="umeng_socialize_network_break_alert" translatable="false">请连接网络后再尝试！</string>
+    <string name="umeng_socialize_send" translatable="false">发布</string>
+    <string name="umeng_socialize_tip_blacklist" translatable="false">对不起，因为违反了用户协议您已被禁言.</string>
+    <string name="umeng_socialize_tip_loginfailed" translatable="false">登录失败..</string>
+    <string name="umeng_socialize_ucenter_login_title_guide" translatable="false">游客登录</string>
+    <string name="umeng_socialize_ucenter_login_title_platform" translatable="false">登录帐号</string>
+    <string name="xlistview_footer_hint_normal">查看更多</string>
+    <string name="xlistview_footer_hint_ready">松开手指载入更多</string>
+    <string name="xlistview_header_hint_loading">正在加载...</string>
+    <string name="xlistview_header_hint_normal">下拉刷新</string>
+    <string name="xlistview_header_hint_ready">松开手指刷新数据</string>
+    <string name="xlistview_header_last_time">上次更新时间：</string>
+    <style name="AiTheme" parent="android:Theme.NoTitleBar">
+        <item name="numberPickerUpButtonStyle">@style/AiWidget.ImageButton.NumberPickerUpButton</item>
+        <item name="numberPickerDownButtonStyle">@style/AiWidget.ImageButton.NumberPickerDownButton</item>
+        <item name="numberPickerInputTextStyle">@style/AiWidget.EditText.NumberPickerInputText</item>
+        <item name="numberPickerStyle">@style/AiWidget.NumberPicker</item>
+    </style>
+    <style name="AiTheme.Light" parent="android:Theme.Light.NoTitleBar">
+        <item name="numberPickerUpButtonStyle">@style/AiWidget.ImageButton.NumberPickerUpButton.Light</item>
+        <item name="numberPickerDownButtonStyle">@style/AiWidget.ImageButton.NumberPickerDownButton.Light</item>
+        <item name="numberPickerInputTextStyle">@style/AiWidget.EditText.NumberPickerInputText.Light</item>
+        <item name="numberPickerStyle">@style/AiWidget.NumberPicker</item>
+    </style>
+    <style name="AiThemeSample">
+        <item name="numberPickerUpButtonStyle">@style/AiWidget.ImageButton.NumberPickerUpButton</item>
+        <item name="numberPickerDownButtonStyle">@style/AiWidget.ImageButton.NumberPickerDownButton</item>
+        <item name="numberPickerInputTextStyle">@style/AiWidget.EditText.NumberPickerInputText</item>
+        <item name="numberPickerStyle">@style/AiWidget.NumberPicker</item>
+    </style>
+    <style name="AiThemeSample.Light">
+        <item name="numberPickerUpButtonStyle">@style/AiWidget.ImageButton.NumberPickerUpButton.Light</item>
+        <item name="numberPickerDownButtonStyle">@style/AiWidget.ImageButton.NumberPickerDownButton.Light</item>
+        <item name="numberPickerInputTextStyle">@style/AiWidget.EditText.NumberPickerInputText.Light</item>
+        <item name="numberPickerStyle">@style/AiWidget.NumberPicker</item>
+    </style>
+    <style name="AiWidget">
+        <item name="android:textAppearance">?android:attr/textAppearance</item>
+    </style>
+    <style name="AiWidget.EditText">
+        <item name="android:focusable">true</item>
+        <item name="android:focusableInTouchMode">true</item>
+        <item name="android:clickable">true</item>
+        <item name="android:textAppearance">?android:attr/textAppearanceMediumInverse</item>
+        <item name="android:textColor">?android:attr/textColorPrimary</item>
+        <item name="android:gravity">center_vertical</item>
+    </style>
+    <style name="AiWidget.EditText.NumberPickerInputText">
+        <item name="android:paddingTop">13sp</item>
+        <item name="android:paddingBottom">13sp</item>
+        <item name="android:paddingLeft">2sp</item>
+        <item name="android:paddingRight">2sp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:background">@null</item>
+    </style>
+    <style name="AiWidget.EditText.NumberPickerInputText.Light" parent="AiWidget.EditText.NumberPickerInputText"/>
+    <style name="AiWidget.ImageButton">
+        <item name="android:focusable">true</item>
+        <item name="android:clickable">true</item>
+        <item name="android:scaleType">center</item>
+        <item name="android:background">@android:drawable/btn_default</item>
+    </style>
+    <style name="AiWidget.ImageButton.NumberPickerDownButton">
+        <item name="android:background">@null</item>
+        <item name="android:src">@drawable/np_numberpicker_down_btn_holo_dark</item>
+        <item name="android:paddingTop">22dip</item>
+        <item name="android:paddingBottom">16dip</item>
+    </style>
+    <style name="AiWidget.ImageButton.NumberPickerDownButton.Light" parent="AiWidget.ImageButton.NumberPickerDownButton">
+        <item name="android:src">@drawable/np_numberpicker_down_btn_holo_light</item>
+    </style>
+    <style name="AiWidget.ImageButton.NumberPickerUpButton">
+        <item name="android:background">@null</item>
+        <item name="android:src">@drawable/np_numberpicker_up_btn_holo_dark</item>
+        <item name="android:paddingTop">16dip</item>
+        <item name="android:paddingBottom">22dip</item>
+    </style>
+    <style name="AiWidget.ImageButton.NumberPickerUpButton.Light" parent="AiWidget.ImageButton.NumberPickerUpButton">
+        <item name="android:src">@drawable/np_numberpicker_up_btn_holo_light</item>
+    </style>
+    <style name="AiWidget.Light.NumberPicker" parent="AiWidget.NumberPicker"/>
+    <style name="AiWidget.NumberPicker">
+        <item name="android:orientation">vertical</item>
+        <item name="android:fadingEdge">vertical</item>
+        <item name="android:fadingEdgeLength">50dip</item>
+        <item name="solidColor">@android:color/transparent</item>
+        <item name="flingable">true</item>
+        <item name="selectionDivider">@drawable/dialog_set_time_divider</item>
+        <item name="selectionDividerHeight">2dip</item>
+        <item name="android:minWidth">48dip</item>
+        <item name="android:maxHeight">200dip</item>
+    </style>
+    <style name="AppTheme" parent="android:Theme.Light"/>
+    <style name="CustomDialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowAnimationStyle">@android:style/Animation.Dialog</item>
+        <item name="android:windowSoftInputMode">stateUnspecified|adjustPan</item>
+    </style>
+    <style name="CustomProgressDialog" parent="@style/CustomDialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+    <style name="Dialog_GPS" parent="@android:style/Theme.Dialog">
+        <item name="android:windowBackground">@drawable/bg_gps_round_corner</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+    <style name="ListItemTextStyle">
+        <item name="android:textSize">15sp</item>
+        <!-- <item name="android:textStyle">bold</item> -->
+        <item name="android:textColor">@drawable/textcolor_while2black</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="MMTabButton">
+        <item name="android:textSize">12.0dip</item>
+        <item name="android:textAppearance">@null</item>
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:layout_width">0.0dip</item>
+        <item name="android:layout_height">42dp</item>
+        <item name="android:button">@null</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:layout_weight">1.0</item>
+        <item name="android:paddingBottom">0.0dip</item>
+        <item name="android:paddingTop">0.0dip</item>
+    </style>
+    <style name="MyCheckBox" parent="@android:style/Widget.CompoundButton.CheckBox">
+        <item name="android:button">@drawable/checkbox_selector</item>
+        <item name="android:paddingLeft">5.0dip</item>
+        <item name="android:maxHeight">10.0dip</item>
+    </style>
+    <style name="PopupAnimation" parent="android:Animation">
+        <item name="android:windowEnterAnimation">@anim/ani_in</item>
+        <item name="android:windowExitAnimation">@anim/ani_out</item>
+    </style>
+    <style name="PopupAnimation2" parent="android:Animation">
+        <item name="android:windowEnterAnimation">@anim/pop_enter</item>
+        <item name="android:windowExitAnimation">@anim/pop_exit</item>
+    </style>
+    <style name="Theme.AppStartLoad" parent="android:Theme">
+        <item name="android:windowBackground">@drawable/loading</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+    <style name="Theme.AppStartLoadTranslucent" parent="android:Theme">
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+    <style name="Theme.UMDefault" parent="android:style/Theme.NoTitleBar">
+    </style>
+    <style name="Theme.UMDialog" parent="android:style/Theme.Dialog">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+    </style>
+    <style name="Widget"/>
+    <style name="Widget.ProgressBar">
+        <item name="android:indeterminateOnly">true</item>
+        <item name="android:indeterminateBehavior">repeat</item>
+        <item name="android:indeterminateDuration">3500</item>
+        <item name="android:minWidth">48dip</item>
+        <item name="android:maxWidth">48dip</item>
+        <item name="android:minHeight">48dip</item>
+        <item name="android:maxHeight">48dip</item>
+    </style>
+    <style name="Widget.ProgressBar.RegularProgressBar">
+        <item name="android:indeterminateOnly">false</item>
+        <item name="android:progressDrawable">@drawable/progressbar</item>
+        <item name="android:indeterminateDrawable">@android:drawable/progress_indeterminate_horizontal</item>
+        <item name="android:minHeight">1dip</item>
+        <item name="android:maxHeight">10dip</item>
+    </style>
+    <style name="activitydetails_list1_rankname">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:text">名</item>
+    </style>
+    <style name="activitydetails_list1_ranknum">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">25sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="activitydetails_list1_text_stepname">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_gravity">bottom</item>
+        <item name="android:textColor">#000000</item>
+        <item name="android:textSize">13sp</item>
+        <item name="android:text">距离入围:</item>
+    </style>
+    <style name="activitydetails_list1_textrank">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_gravity">center_horizontal</item>
+        <item name="android:text">您目前是第</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+    <style name="activitydetails_list1_title">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_gravity">bottom</item>
+        <item name="android:textColor">#000000</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:text">平均步数奖</item>
+    </style>
+    <style name="activitydetails_list2_image_icon">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginRight">16dip</item>
+        <item name="android:src">@drawable/imageview_activitydetails_listicon</item>
+    </style>
+    <style name="activitydetails_textview_list1_stepnum">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_gravity">bottom</item>
+        <item name="android:textColor">@color/org_I</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:layout_marginLeft">8dip</item>
+    </style>
+    <style name="activitydetials_rank_textdb">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">@color/gold</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="brief_textcolor">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:shadowDx">0</item>
+        <item name="android:shadowDy">0</item>
+        <item name="android:shadowRadius">2</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">26sp</item>
+        <item name="android:textColor">@color/font_content_value</item>
+        <item name="android:shadowColor">@color/brief_centercolor</item>
+    </style>
+    <style name="choicetype" parent="android:Widget.EditText">
+        <item name="android:clickable">true</item>
+        <item name="android:focusable">false</item>
+        <item name="android:layout_marginLeft">10dp</item>
+        <item name="android:textSize">12sp</item>
+    </style>
+    <style name="customdialog" parent="@android:Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item> 
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+    <style name="dialog_defult" parent="@android:style/Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">false</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@color/transparent</item>
+    </style>
+    <style name="dialog_fullscreen">
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+    </style>
+    <style name="dialog_notfullscreen" parent="@android:style/Theme.Dialog">
+        <item name="android:windowNoTitle">true</item>
+    </style>
+    <style name="dialog_withStatusBar">
+        <item name="android:windowFullscreen">false</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+    </style>
+    <style name="fake_tab_button">
+        <item name="android:background">@drawable/bg_fake_tab</item>
+        <item name="android:button">@null</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textColor">#603314</item>
+        <item name="android:textSize">13sp</item>
+    </style>
+    <style name="main_tab_bottom">
+        <item name="android:textSize">@dimen/bottom_tab_font_size</item>
+        <item name="android:textColor">#ffffffff</item>
+        <item name="android:ellipsize">marquee</item>
+        <item name="android:gravity">center</item>
+        <item name="android:paddingTop">@dimen/bottom_tab_padding_up</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:button">@null</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:drawablePadding">@dimen/bottom_tab_padding_drawable</item>
+        <item name="android:layout_weight">1.0</item>
+    </style>
+    <style name="mystyle" parent="android:Animation">
+        <item name="android:windowEnterAnimation">@anim/dialog_enter</item>
+        <item name="android:windowExitAnimation">@anim/dialog_exit</item>
+    </style>
+    <style name="mystylebottom" parent="android:Animation">
+        <item name="android:windowEnterAnimation">@anim/dialog_enter_frombottom</item>
+        <item name="android:windowExitAnimation">@anim/dialog_exit_frombottom</item>
+    </style>
+    <style name="mystyletop" parent="android:Animation">
+        <item name="android:windowEnterAnimation">@anim/dialog_enter_fromtop</item>
+        <item name="android:windowExitAnimation">@anim/dialog_exit_fromtop</item>
+    </style>
+    <style name="mytheme" parent="@android:style/Theme.Light">
+        <item name="android:windowNoTitle"> true </item>
+    </style>
+    <style name="notitle">
+        <item name="android:windowNoTitle">true</item>
+    </style>
+    <style name="progressBarHorizontal" parent="android:Widget.ProgressBar.Horizontal">
+        <item name="android:indeterminateOnly">false</item>
+        <item name="android:progressDrawable">@drawable/progress_horizontal</item>
+        <item name="android:minHeight">5dip</item>
+        <item name="android:maxHeight">5dip</item>
+    </style>
+    <style name="race_radiotitle">
+        <item name="android:gravity">center</item>
+        <item name="android:button">@null</item>
+        <item name="android:includeFontPadding">false</item>
+        <item name="android:textAppearance">@null</item>
+        <item name="android:width">110.0dip</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">@drawable/color_race_title</item>
+        <item name="android:layout_height">40.0dip</item>
+        <item name="android:layout_weight">1.0</item>
+        <item name="android:background">@drawable/select_radiobutton_activitydetails</item>
+    </style>
+    <style name="radioButtonStyle">
+        <item name="android:button">@null</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:gravity">center_horizontal|bottom</item>
+        <item name="android:paddingBottom">5dip</item>
+        <item name="android:textAppearance">@null</item>
+        <item name="android:textColor">@drawable/color_tab_indicator</item>
+        <item name="android:layout_weight">1.0</item>
+    </style>
+    <style name="rank_radoibuttom">
+        <item name="android:gravity">center</item>
+        <item name="android:button">@null</item>
+        <item name="android:includeFontPadding">false</item>
+        <item name="android:textAppearance">@null</item>
+        <item name="android:width">110.0dip</item>
+        <item name="android:textSize">15sp</item>
+        <item name="android:textColor">@drawable/rank_text_color</item>
+        <item name="android:layout_height">40.0dip</item>
+        <item name="android:layout_weight">1.0</item>
+        <item name="android:background">@drawable/select_radiobutton_activitydetails</item>
+    </style>
+    <style name="rank_setting_more">
+        <item name="android:layout_width">15dip</item>
+        <item name="android:layout_height">15dip</item>
+        <item name="android:layout_alignParentRight">true</item>
+        <item name="android:layout_centerVertical">true</item>
+        <item name="android:layout_marginRight">8.0dip</item>
+        <item name="android:src">@drawable/setting_more</item>
+    </style>
+    <style name="rank_title">
+        <item name="android:background">@color/gold_I</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">30.0dip</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">15sp</item>
+    </style>
+    <style name="setting_item">
+        <item name="android:clickable">true</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">40.0dip</item>
+        <item name="android:layout_marginLeft">20.0dip</item>
+        <item name="android:layout_marginTop">10.0dip</item>
+        <item name="android:layout_marginRight">20.0dip</item>
+    </style>
+    <style name="setting_item_and">
+        <item name="android:clickable">true</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">40.0dip</item>
+        <item name="android:layout_marginLeft">20.0dip</item>
+        <!-- <item name="android:layout_marginTop">0dip</item> -->
+        <item name="android:layout_marginRight">20.0dip</item>
+    </style>
+    <style name="setting_item_notclick">
+        <item name="android:clickable">false</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">40.0dip</item>
+        <item name="android:layout_marginLeft">20.0dip</item>
+        <!-- <item name="android:layout_marginTop">0dip</item> -->
+        <item name="android:layout_marginRight">20.0dip</item>
+    </style>
+    <style name="text_basic_style">
+        <item name="android:textColor">#75ffffff</item>
+        <item name="android:shadowDx">10</item>
+        <item name="android:shadowDy">10</item>
+        <item name="android:shadowRadius">90</item>
+    </style>
+    <style name="text_list1_step">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_gravity">bottom</item>
+        <item name="android:textColor">@color/org_I</item>
+        <item name="android:textSize">19sp</item>
+        <item name="android:text">步</item>
+    </style>
+    <style name="textstyle_weightDetails">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_weight">1.0</item>
+        <item name="android:textSize">10sp</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:gravity">center</item>
+    </style>
+    <style name="umeng_socialize_action_bar_item_im">
+        <item name="android:layout_width">25dp</item>
+        <item name="android:layout_height">25dp</item>
+        <item name="android:scaleType">fitCenter</item>
+        <item name="android:layout_centerVertical">true</item>
+    </style>
+    <style name="umeng_socialize_action_bar_item_tv">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:layout_marginLeft">5dp</item>
+        <item name="android:text">999</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="umeng_socialize_action_bar_itemlayout">
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:paddingLeft">4dp</item>
+        <item name="android:paddingTop">4dp</item>
+        <item name="android:paddingRight">4dp</item>
+        <item name="android:gravity">center_vertical</item>
+    </style>
+    <style name="umeng_socialize_dialog_anim_fade">
+        <item name="android:windowEnterAnimation">@anim/umeng_socialize_fade_in</item>
+        <item name="android:windowExitAnimation">@anim/umeng_socialize_fade_out</item>
+    </style>
+    <style name="umeng_socialize_dialog_animations">
+        <item name="android:windowEnterAnimation">@anim/umeng_socialize_slide_in_from_bottom</item>
+        <item name="android:windowExitAnimation">@anim/umeng_socialize_slide_out_from_bottom</item>
+    </style>
+    <style name="umeng_socialize_popup_dialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:background">@android:color/transparent</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:backgroundDimAmount">0.6</item>
+    </style>
+    <style name="umeng_socialize_popup_dialog_anim" parent="@style/umeng_socialize_popup_dialog">
+        <item name="android:windowAnimationStyle">@style/umeng_socialize_dialog_animations</item>
+    </style>
+</resources>

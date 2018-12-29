@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#8ec31e"
+    android:orientation="vertical" >
+
+    <include
+        android:id="@+id/item_header"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        layout="@layout/title_menu2" />
+
+    <ImageView
+        android:id="@+id/registe_imageview_photo"
+        android:layout_width="match_parent"
+        android:layout_height="110dp"
+        android:layout_marginBottom="30dp"
+        android:layout_marginTop="30dp"
+        android:src="@drawable/icon_userpicture" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:background="#aad256"
+        android:gravity="center_vertical"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:id="@+id/registe_textview_username"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:text="    账号  "
+            android:textColor="@color/white"
+            android:textSize="18sp" />
+
+        <cmccsi.mhealth.app.sports.view.EditTextWithDel
+            android:id="@+id/registe_edittext_username"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="#00000000"
+            android:maxLength="20"
+            android:singleLine="true"
+            android:textColor="@color/white"
+            android:textColorHint="#898989"
+            android:textSize="18sp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="2dp"
+        android:background="#aad256"
+        android:gravity="center_vertical"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:id="@+id/registe_textview_password"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:text="    密码  "
+            android:textColor="@color/white"
+            android:textSize="18sp" />
+
+        <cmccsi.mhealth.app.sports.view.EditTextWithDel
+            android:id="@+id/registe_edittext_password"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="#00000000"
+            android:maxLength="20"
+            android:password="true"
+            android:singleLine="true"
+            android:textColor="@color/white"
+            android:textColorHint="#898989"
+            android:textSize="18sp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="2dp"
+        android:background="#aad256"
+        android:gravity="center_vertical"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:id="@+id/registe_textview_password2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="3dp"
+            android:text="确认密码  "
+            android:textColor="@color/white"
+            android:textSize="18sp" />
+
+        <cmccsi.mhealth.app.sports.view.EditTextWithDel
+            android:id="@+id/registe_edittext_password2"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="#00000000"
+            android:maxLength="20"
+            android:password="true"
+            android:singleLine="true"
+            android:textColor="@color/white"
+            android:textColorHint="#898989"
+            android:textSize="18sp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="2dp"
+        android:background="#aad256"
+        android:gravity="center_vertical"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:id="@+id/registe_textview_phonenum"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:text="手机号  "
+            android:textColor="@color/white"
+            android:textSize="18sp" />
+
+        <cmccsi.mhealth.app.sports.view.EditTextWithDel
+            android:id="@+id/registe_edittext_phonenum"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="#00000000"
+            android:inputType="phone"
+            android:maxLength="11"
+            android:singleLine="true"
+            android:textColor="@color/white"
+            android:textColorHint="#898989"
+            android:textSize="18sp" />
+
+        <Button
+            android:id="@+id/registe_button_sendidentifyingcode"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:background="#d4cf2b"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:text="获取验证码"
+            android:textColor="@color/white"
+            android:textSize="18sp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="2dp"
+        android:background="#aad256"
+        android:gravity="center_vertical"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:id="@+id/registe_textview_identifyingcode"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:text="验证码  "
+            android:textColor="@color/white"
+            android:textSize="18sp" />
+
+        <cmccsi.mhealth.app.sports.view.EditTextWithDel
+            android:id="@+id/registe_edittext_identifyingcode"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="#00000000"
+            android:inputType="number"
+            android:maxLength="6"
+            android:singleLine="true"
+            android:textColor="@color/white"
+            android:textColorHint="#898989"
+            android:textSize="18sp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:gravity="center"
+        android:orientation="horizontal" >
+
+        <CheckBox
+            android:id="@+id/registe_RadioButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:button="@drawable/bg_checkbox" />
+        <TextView
+            android:id="@+id/registe_textview_node"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:text="创建用户，表示您已同意"
+            android:textColor="@color/white"
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/registe_textview_node2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="《注册须知》"
+            android:textColor="@color/blue"
+            android:textSize="14sp" />
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/registe_button_ok"
+        android:layout_width="fill_parent"
+        android:layout_height="45dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="10dp"
+        android:background="#d2e7a5"
+        android:text="创建新用户"
+        android:textColor="#999e8f"
+        android:textSize="24sp" />
+
+</LinearLayout>

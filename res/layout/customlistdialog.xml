@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="330dip"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:background="#ffffff"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:id="@+id/layout"
+        android:layout_width="330dip"
+        android:layout_height="match_parent"
+        android:layout_gravity="center"
+        android:background="#ffffff"
+        android:orientation="vertical"
+        android:scrollbars="vertical" >
+
+        <TextView
+            android:id="@+id/tv_customlistdialog_title"
+            android:layout_width="match_parent"
+            android:layout_height="40dip"
+            android:background="#7aaf3b"
+            android:gravity="center"
+            android:layout_gravity="center"
+            android:textColor="#FFFFFF"
+            android:textSize="20dp"/>
+
+        <ListView
+            android:id="@+id/lv_content"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="5dp"
+            android:layout_marginTop="3dp"
+            android:divider="@color/gray"
+            android:dividerHeight="1dp"
+            android:scrollbars="vertical" >
+
+        </ListView>
+
+        <Button
+            android:id="@+id/btn_ok"
+            android:layout_width="100dp"
+            android:layout_height="30dp"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/bg_button"
+            android:text="@string/global_ok"
+            android:textColor="#603314"
+            android:textSize="16sp" />
+
+    </LinearLayout>
+
+</LinearLayout>

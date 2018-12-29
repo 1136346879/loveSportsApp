@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@android:color/transparent"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="80dp"
+        android:layout_marginBottom="2dp"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:layout_marginTop="2dp"
+        android:background="@drawable/mesasgekuw" >
+
+        <TextView
+            android:id="@+id/lim_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@+id/lim_avatar"
+            android:layout_marginLeft="15dp"
+            android:layout_toRightOf="@+id/lim_avatar"
+            android:text="标题"
+            android:textColor="@color/black"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/lim_content"
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/lim_title"
+            android:layout_below="@+id/lim_title"
+            android:layout_marginTop="3dp"
+            android:layout_toLeftOf="@+id/lim_accept_buttom"
+            android:singleLine="true"
+            android:text="this is a very long message that nobody could ever read it all"
+            android:textColor="@color/gray3"
+            android:textSize="14sp" />
+
+        <ImageView
+            android:id="@+id/lim_avatar"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="10dp"
+            android:src="@drawable/slidingmenu_8_on" />
+
+        <TextView
+            android:id="@+id/lim_groupname"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_above="@+id/lim_content"
+            android:layout_alignRight="@+id/lim_content"
+            android:layout_marginLeft="16dp"
+            android:layout_toRightOf="@+id/lim_title"
+            android:singleLine="true"
+            android:text="groupname"
+            android:visibility="gone" />
+
+        <TextView
+            android:id="@+id/lim_accept_buttom"
+            android:layout_width="70dp"
+            android:layout_height="25dp"
+            android:layout_alignBaseline="@+id/lim_title"
+            android:layout_alignParentRight="true"
+            android:layout_alignTop="@+id/lim_title"
+            android:layout_marginRight="10dp"
+            android:background="@drawable/btn_addfriend"
+            android:gravity="center"
+            android:text="点击同意"
+            android:textColor="@color/white"
+            android:textSize="12sp" />
+
+    </RelativeLayout>
+
+</LinearLayout>

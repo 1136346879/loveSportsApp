@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center_vertical"
+    android:orientation="horizontal" >
+
+    <LinearLayout
+        android:id="@+id/lli_mainLLlayout"
+        android:layout_width="fill_parent"
+        android:layout_height="64dp"
+        android:background="@drawable/race_race_item" >
+
+        <cmccsi.mhealth.app.sports.view.RoundAngleImageView
+            android:id="@+id/lli_icon"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="30dp"
+            android:contentDescription="@string/image_content_description"
+            android:src="@drawable/avatar_female_middle"
+            app:roundHeight="5.0dip"
+            app:roundWidth="5.0dip" />
+
+        <TextView
+            android:id="@+id/lli_name"
+            android:layout_width="fill_parent"
+            android:layout_height="30.0dip"
+            android:layout_marginLeft="25dp"
+            android:layout_marginTop="5dp"
+            android:layout_weight="3.5"
+            android:gravity="center|left"
+            android:text="姓名"
+            android:textColor="@color/black"
+            android:textSize="24sp" />
+    </LinearLayout>
+
+</LinearLayout>

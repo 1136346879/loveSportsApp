@@ -1,0 +1,667 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:2:1-390:12
+	package
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:3:5-40
+	android:versionName
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:5:5-32
+		INJECTED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml
+		INJECTED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml
+	android:versionCode
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:4:5-29
+		INJECTED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml
+		INJECTED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:7:5-10:16
+	android:targetSdkVersion
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:9:9-38
+	android:minSdkVersion
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:8:9-35
+uses-feature#android.hardware.bluetooth_le
+ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:12:5-14:35
+	android:required
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:14:9-32
+	android:name
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:13:9-53
+uses-permission#android.permission.BLUETOOTH
+ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:16:5-68
+	android:name
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:16:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:17:5-74
+	android:name
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:17:22-71
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:19:5-79
+	android:name
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:19:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:20:5-81
+	android:name
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:20:22-78
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:21:5-76
+	android:name
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:21:22-73
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:22:5-84
+	android:name
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:22:22-81
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:25:5-79
+	android:name
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:25:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:26:5-81
+	android:name
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:26:22-78
+uses-permission#android.permission.ACCESS_MOCK_LOCATION
+ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:27:5-79
+	android:name
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:27:22-76
+uses-permission#android.permission.ACCESS_GPS
+ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:28:5-69
+	android:name
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:28:22-66
+uses-permission#android.permission.PROCESS_OUTGOING_CALLS
+ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:31:5-81
+	android:name
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:31:22-78
+uses-permission#android.permission.RECEIVE_SMS
+ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:32:5-70
+	android:name
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:32:22-67
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:33:5-71
+	android:name
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:33:22-68
+uses-permission#android.permission.USE_CREDENTIALS
+ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:34:5-74
+	android:name
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:34:22-71
+uses-permission#android.permission.MANAGE_ACCOUNTS
+ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:35:5-74
+	android:name
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:35:22-71
+uses-permission#android.permission.AUTHENTICATE_ACCOUNTS
+ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:36:5-80
+	android:name
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:36:22-77
+uses-permission#android.permission.INTERNET
+ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:37:5-67
+	android:name
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:37:22-64
+uses-permission#com.android.launcher.permission.READ_SETTINGS
+ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:38:5-85
+	android:name
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:38:22-82
+uses-permission#android.permission.WAKE_LOCK
+ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:39:5-68
+	android:name
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:39:22-65
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:40:5-76
+	android:name
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:40:22-73
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:41:5-75
+	android:name
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:41:22-72
+uses-permission#android.permission.READ_CONTACTS
+ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:42:5-72
+	android:name
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:42:22-69
+uses-permission#android.permission.CALL_PHONE
+ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:43:5-69
+	android:name
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:43:22-66
+uses-permission#android.permission.READ_SMS
+ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:44:5-67
+	android:name
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:44:22-64
+uses-permission#android.permission.SEND_SMS
+ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:45:5-67
+	android:name
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:45:22-64
+uses-permission#android.permission.GET_TASKS
+ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:47:5-68
+	android:name
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:47:22-65
+uses-permission#android.permission.CAMERA
+ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:48:5-65
+	android:name
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:48:22-62
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:49:5-71
+	android:name
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:49:22-68
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:50:5-81
+	android:name
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:50:22-78
+uses-permission#android.permission.BROADCAST_STICKY
+ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:51:5-75
+	android:name
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:51:22-72
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:52:5-73
+	android:name
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:52:22-70
+uses-permission#android.permission.VIBRATE
+ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:55:5-66
+	android:name
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:55:22-63
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:56:5-78
+	android:name
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:56:22-75
+supports-screens
+ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:59:5-64:39
+	android:largeScreens
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:61:9-36
+	android:smallScreens
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:64:9-36
+	android:normalScreens
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:62:9-37
+	android:resizeable
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:63:9-34
+	android:anyDensity
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:60:9-34
+uses-permission#android.permission.RUN_INSTRUMENTATION
+ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:66:5-78
+	android:name
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:66:22-75
+instrumentation#android.test.InstrumentationTestRunner
+ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:68:5-71:61
+	android:label
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:70:9-40
+	android:targetPackage
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:71:9-58
+	android:name
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:69:9-62
+application
+ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:73:5-388:19
+	android:label
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:77:9-41
+	android:allowBackup
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:75:9-35
+	android:icon
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:76:9-41
+	android:persistent
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:78:9-34
+	android:name
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:74:9-70
+meta-data#com.baidu.lbsapi.API_KEY
+ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:81:9-83:56
+	android:value
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:83:13-53
+	android:name
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:82:13-52
+uses-library#android.test.runner
+ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:85:9-60
+	android:name
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:85:23-57
+activity#cmccsi.mhealth.app.sports.activity.MainFragmentActivity
+ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:88:9-93:20
+	android:screenOrientation
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:91:13-49
+	android:launchMode
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:90:13-44
+	android:theme
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:92:13-60
+	android:name
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:89:13-83
+activity#cmccsi.mhealth.app.sports.activity.MainFragmentActivity2
+ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:94:9-99:20
+	android:screenOrientation
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:97:13-49
+	android:launchMode
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:96:13-44
+	android:theme
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:98:13-60
+	android:name
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:95:13-84
+activity#cmccsi.mhealth.app.sports.tabhost.TabBaseFragment
+ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:100:9-104:20
+	android:screenOrientation
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:102:13-49
+	android:theme
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:103:13-60
+	android:name
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:101:13-77
+activity#cmccsi.mhealth.app.sports.activity.FragmentContainerActivity
+ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:105:9-110:20
+	android:screenOrientation
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:108:13-49
+	android:launchMode
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:107:13-44
+	android:theme
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:109:13-60
+	android:name
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:106:13-88
+activity#cmccsi.mhealth.app.sports.activity.PreLoadActivity
+ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:111:9-121:20
+	android:screenOrientation
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:114:13-49
+	android:launchMode
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:113:13-44
+	android:theme
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:115:13-54
+	android:name
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:112:13-78
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:116:13-120:29
+action#android.intent.action.MAIN
+ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:117:17-69
+	android:name
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:117:25-66
+category#android.intent.category.LAUNCHER
+ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:119:17-77
+	android:name
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:119:27-74
+activity#cmccsi.mhealth.app.sports.activity.PreLoadForgetPwdActivity
+ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:122:9-126:20
+	android:screenOrientation
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:124:13-49
+	android:theme
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:125:13-60
+	android:name
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:123:13-87
+activity#cmccsi.mhealth.app.sports.activity.PreLoadResetPwdActivity
+ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:127:9-131:20
+	android:screenOrientation
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:129:13-49
+	android:theme
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:130:13-60
+	android:name
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:128:13-86
+activity#cmccsi.mhealth.app.sports.activity.PreLoadAPKUpdateProgressActivity
+ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:132:9-136:20
+	android:screenOrientation
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:134:13-49
+	android:theme
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:135:13-56
+	android:name
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:133:13-95
+activity#cmccsi.mhealth.app.sports.activity.SettingAboutActivity
+ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:137:9-142:20
+	android:screenOrientation
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:140:13-49
+	android:hardwareAccelerated
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:139:13-48
+	android:theme
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:141:13-60
+	android:name
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:138:13-83
+activity#cmccsi.mhealth.app.sports.activity.SettingTargetStepActivity
+ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:143:9-147:20
+	android:screenOrientation
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:145:13-49
+	android:theme
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:146:13-60
+	android:name
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:144:13-88
+activity#cmccsi.mhealth.app.sports.activity.CampaignContentActivity_new
+ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:148:9-152:20
+	android:screenOrientation
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:150:13-49
+	android:theme
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:151:13-60
+	android:name
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:149:13-90
+activity#cmccsi.mhealth.app.sports.activity.WebViewActivity
+ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:153:9-157:20
+	android:screenOrientation
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:155:13-49
+	android:theme
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:156:13-60
+	android:name
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:154:13-78
+activity#cmccsi.mhealth.app.sports.activity.SettingTargetWeightActivity
+ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:158:9-161:63
+	android:screenOrientation
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:160:13-49
+	android:theme
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:161:13-60
+	android:name
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:159:13-90
+activity#cmccsi.mhealth.app.sports.activity.MapSelectTRunType
+ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:162:9-165:63
+	android:screenOrientation
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:164:13-49
+	android:theme
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:165:13-60
+	android:name
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:163:13-80
+activity#cmccsi.mhealth.app.sports.activity.HRActivity
+ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:166:9-170:20
+	android:screenOrientation
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:168:13-49
+	android:theme
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:169:13-60
+	android:name
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:167:13-73
+activity#cmccsi.mhealth.app.sports.activity.HRVActivity
+ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:171:9-175:20
+	android:screenOrientation
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:173:13-49
+	android:theme
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:174:13-60
+	android:name
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:172:13-74
+activity#cmccsi.mhealth.app.sports.activity.MoodActivity
+ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:176:9-180:20
+	android:screenOrientation
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:178:13-49
+	android:theme
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:179:13-60
+	android:name
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:177:13-75
+activity#cmccsi.mhealth.app.sports.ecg.activity.HistoryECGDetailActivity
+ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:181:9-185:20
+	android:screenOrientation
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:183:13-49
+	android:theme
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:184:13-60
+	android:name
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:182:13-91
+activity#cmccsi.mhealth.app.sports.ecg.activity.ECGDetailChartActivity
+ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:186:9-190:20
+	android:screenOrientation
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:188:13-50
+	android:theme
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:189:13-60
+	android:name
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:187:13-89
+activity#cmccsi.mhealth.app.sports.activity.RankingActivity
+ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:191:9-195:20
+	android:screenOrientation
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:193:13-49
+	android:theme
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:194:13-60
+	android:name
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:192:13-78
+service#cmccsi.mhealth.app.sports.service.StepService_GPS
+ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:197:9-205:19
+	android:exported
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:199:13-37
+	android:name
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:198:13-77
+intent-filter#cmccsi.mhealth.app.sports.service.StepService_GPS
+ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:200:13-204:29
+action#cmccsi.mhealth.app.sports.service.StepService_GPS
+ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:201:17-92
+	android:name
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:201:25-89
+data
+ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:203:17-45
+	android:port
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:203:23-42
+service#com.baidu.location.f
+ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:208:9-212:19
+	android:enabled
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:210:13-35
+	android:process
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:211:13-38
+	android:name
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:209:13-48
+service#cmccsi.mhealth.app.sports.device.DeviceManagerService
+ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:213:9-222:19
+	android:enabled
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:215:13-35
+	android:exported
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:216:13-37
+	android:name
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:214:13-81
+intent-filter#cmccsi.mhealth.app.sports.device.DeviceManagerService
+ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:217:13-221:29
+action#cmccsi.mhealth.app.sports.device.DeviceManagerService
+ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:218:17-96
+	android:name
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:218:25-93
+meta-data#UMENG_APPKEY
+ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:225:9-227:56
+	android:value
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:227:13-53
+	android:name
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:226:13-40
+meta-data#UMENG_CHANNEL
+ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:228:9-230:33
+	android:value
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:230:13-30
+	android:name
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:229:13-41
+activity#cmccsi.mhealth.app.sports.activity.FeedBackActivity
+ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:232:9-236:20
+	android:screenOrientation
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:234:13-49
+	android:theme
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:235:13-60
+	android:name
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:233:13-79
+uses-library#com.google.android.maps
+ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:240:9-242:40
+	android:required
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:242:13-37
+	android:name
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:241:13-51
+service#cmccsi.mhealth.app.sports.service.StepService
+ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:244:9-250:19
+	android:exported
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:246:13-37
+	android:name
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:245:13-73
+intent-filter#cmccsi.mhealth.app.sports.service.StepService
+ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:247:13-249:29
+action#cmccsi.mhealth.app.sports.service.StepService
+ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:248:17-88
+	android:name
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:248:25-85
+activity#cmccsi.mhealth.app.sports.pedo.PedometerActivity
+ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:252:9-257:20
+	android:screenOrientation
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:255:13-49
+	android:launchMode
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:254:13-44
+	android:theme
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:256:13-60
+	android:name
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:253:13-76
+activity#cmccsi.mhealth.app.sports.ecg.activity.DeviceSettingActivity
+ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:258:9-262:20
+	android:screenOrientation
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:260:13-49
+	android:theme
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:261:13-60
+	android:name
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:259:13-88
+activity#cmccsi.mhealth.app.sports.ecg.activity.DeviceSettingActivityTest
+ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:263:9-267:20
+	android:screenOrientation
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:265:13-49
+	android:theme
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:266:13-60
+	android:name
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:264:13-92
+activity#cmccsi.mhealth.app.sports.ecg.activity.BraceletSettingActivity
+ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:268:9-272:20
+	android:screenOrientation
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:270:13-49
+	android:theme
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:271:13-49
+	android:name
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:269:13-90
+activity#cmccsi.mhealth.app.sports.ecg.activity.DeviceBindingActivity
+ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:273:9-277:20
+	android:screenOrientation
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:275:13-49
+	android:theme
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:276:13-60
+	android:name
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:274:13-88
+activity#cmccsi.mhealth.app.sports.activity.SettingArea
+ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:278:9-282:20
+	android:screenOrientation
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:280:13-49
+	android:theme
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:281:13-60
+	android:name
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:279:13-74
+activity#com.cmcc.bracelet.lsjx.libs.DingdangSettingActivity
+ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:283:9-287:20
+	android:screenOrientation
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:285:13-49
+	android:theme
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:286:13-60
+	android:name
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:284:13-79
+activity#cmccsi.mhealth.app.sports.pedo.PedometerActivityTest
+ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:289:9-294:20
+	android:screenOrientation
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:292:13-49
+	android:launchMode
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:291:13-44
+	android:theme
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:293:13-60
+	android:name
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:290:13-80
+receiver#cmccsi.mhealth.app.sports.basic.SendMsgBroadCast
+ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:296:9-299:20
+	android:label
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:298:13-45
+	android:name
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:297:13-76
+activity#cmccsi.mhealth.app.sports.activity.MatchContactActivity
+ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:301:9-305:20
+	android:screenOrientation
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:303:13-49
+	android:theme
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:304:13-60
+	android:name
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:302:13-83
+activity#cmccsi.mhealth.app.sports.activity.HandAddContactActivity
+ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:306:9-310:20
+	android:screenOrientation
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:308:13-49
+	android:theme
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:309:13-60
+	android:name
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:307:13-85
+receiver#cmccsi.mhealth.app.sports.broadcast.BootCompletedReceiver
+ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:312:9-316:20
+	android:name
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:312:19-91
+intent-filter#android.intent.action.BOOT_COMPLETED
+ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:313:13-315:29
+	android:priority
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:313:28-51
+action#android.intent.action.BOOT_COMPLETED
+ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:314:17-79
+	android:name
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:314:25-76
+activity#cmccsi.mhealth.app.sports.appversion.PreLoadLoginActivity
+ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:319:9-323:20
+	android:screenOrientation
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:321:13-49
+	android:theme
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:322:13-60
+	android:name
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:320:13-85
+activity#cmccsi.mhealth.app.sports.appversion.AddDeviceActivity
+ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:324:9-328:20
+	android:screenOrientation
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:326:13-49
+	android:theme
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:327:13-60
+	android:name
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:325:13-82
+activity#cmccsi.mhealth.app.sports.appversion.RegisteActivity
+ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:330:9-334:20
+	android:screenOrientation
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:332:13-49
+	android:theme
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:333:13-60
+	android:name
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:331:13-80
+service#cmccsi.mhealth.app.sports.service.UpdateVersionService
+ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:336:9-337:19
+	android:name
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:336:18-87
+activity#cmccsi.mhealth.app.sports.activity.FirmwareDownloadProgressActivity
+ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:339:9-343:20
+	android:screenOrientation
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:341:13-49
+	android:theme
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:342:13-56
+	android:name
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:340:13-95
+activity#cmccsi.mhealth.app.sports.activity.FirmwareUpdateProgressActivity
+ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:344:9-348:20
+	android:screenOrientation
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:346:13-49
+	android:theme
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:347:13-56
+	android:name
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:345:13-93
+activity#cmccsi.mhealth.app.sports.activity.OpinionListActivity
+ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:350:9-354:20
+	android:screenOrientation
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:352:13-49
+	android:theme
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:353:13-60
+	android:name
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:351:13-82
+activity#cmccsi.mhealth.app.sports.activity.OpinionNewActivity
+ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:355:9-359:20
+	android:screenOrientation
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:357:13-49
+	android:theme
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:358:13-60
+	android:name
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:356:13-81
+activity#cmccsi.mhealth.app.sports.activity.OpinionViewActivity
+ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:360:9-364:20
+	android:screenOrientation
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:362:13-49
+	android:theme
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:363:13-60
+	android:name
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:361:13-82
+service#cmccsi.mhealth.app.sports.service.ProtectionService
+ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:366:9-367:19
+	android:name
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:366:18-84
+activity#cmccsi.mhealth.app.sports.appversion.HistorySportActivity
+ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:369:9-373:20
+	android:screenOrientation
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:371:13-49
+	android:theme
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:372:13-60
+	android:name
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:370:13-85
+activity#cmccsi.mhealth.app.sports.pedo.SharePagerActivity
+ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:374:9-378:20
+	android:screenOrientation
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:376:13-49
+	android:theme
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:377:13-60
+	android:name
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:375:13-77
+activity#com.ai.android.picker.test.DarkThemeActivity
+ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:380:9-383:58
+	android:windowSoftInputMode
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:383:13-55
+	android:theme
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:382:13-43
+	android:name
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:381:13-72
+activity#com.ai.android.picker.test.LightThemeActivity
+ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:384:9-387:58
+	android:windowSoftInputMode
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:387:13-55
+	android:theme
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:386:13-49
+	android:name
+		ADDED from F:\minedemo\workspace_as\Sport_androidstudio_app\AndroidManifest.xml:385:13-73

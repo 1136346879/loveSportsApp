@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+
+    <dimen name="bottom_tab_font_size">12.0dip</dimen>
+    <dimen name="bottom_tab_padding_up">0.0dip</dimen>
+    <dimen name="bottom_tab_padding_drawable">0.0dip</dimen>
+	<dimen name="size_1">20sp</dimen>
+	<dimen name="margin_left_1">20dp</dimen>
+	<dimen name="margin_top_as_bom">5dp</dimen>
+	
+	<dimen name="text_size_running_date">30sp</dimen><!--体重控件的高度  -->
+</resources>

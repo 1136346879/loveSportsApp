@@ -1,0 +1,91 @@
+# To enable ProGuard in your project, edit project.properties
+# to define the proguard.config property as described in that file.
+#
+# Add project specific ProGuard rules here.
+# By default, the flags in this file are appended to flags specified
+# in ${sdk.dir}/tools/proguard/proguard-android.txt
+# You can edit the include path and order by changing the ProGuard
+# include property in project.properties.
+#
+# For more details, see
+#   http://developer.android.com/guide/developing/tools/proguard.html
+
+# Add any project specific keep options here:
+
+# If your project uses WebView with JS, uncomment the following
+# and specify the fully qualified class name to the JavaScript interface
+# class:
+#-keepclassmembers class fqcn.of.javascript.interface.for.webview {
+#   public *;
+#}
+-keepattributes Signature
+
+-libraryjars /libs/baidumapapi_v3_5_0.jar
+-libraryjars /libs/libammsdk.jar
+-libraryjars /libs/gson-2.2.3.jar
+-libraryjars /libs/libTGbleManager.jar
+-libraryjars /libs/libammsdk.jar
+-libraryjars /libs/libTGEKG.jar
+-libraryjars /libs/android-support-v4.jar
+-libraryjars /libs/locSDK_6.05.jar
+-libraryjars /libs/libdingdangota.jar
+-libraryjars /libs/activation.jar
+-libraryjars /libs/additionnal.jar
+-libraryjars /libs/mail.jar
+-libraryjars /libs/fastjson-1.1.33.jar
+
+
+-dontwarn com.neurosky.**
+-dontwarn com.alibaba.**
+-dontwarn com.google.android.maps.**
+-dontwarn android.support.v4.**
+-dontwarn org.apache.**
+-dontwarn net.sourceforge.**
+-dontwarn demo.**
+-dontwarn com.sun.**
+-dontwarn javax.activation.**
+
+-keep class com.baidu.** { *; }
+-keep class vi.com.gdi.bgl.android.**{*;}
+
+-keep class com.neurosky.** {*;}
+
+-keep class com.sun.** { *; }
+-keep class javax.** { *; }
+-keep class org.apache.harmony.**{*;}
+-keep class java.security.**{*;}
+
+
+-keep class android.support.v4.** {*;}
+
+-keep class cmccsi.mhealth.app.sports.* {*;}
+-keep class cmccsi.mhealth.app.sports.appversion.* {*;}
+-keep class cmccsi.mhealth.portal.sports.* {*;}
+-keep class cmccsi.mhealth.app.sports.bean.* {*;}
+-keep class cmccsi.mhealth.app.sports.domain.* {*;}
+-keep class cmccsi.mhealth.app.sports.net.* {*;}
+-keep class cmcc.mhealth.ble.*{*;}
+-keep class com.cmcc.bracelet.lsjx.libs.*{*;}
+-keep class net.sourceforge.** {*;}
+-keep public class * extends android.support.v4.** 
+-keep public class * extends android.app.Fragment
+
+-keep class sun.** {*;}  
+-keep class com.** {*;}  
+-keep class org.** {*;} 
+-keep class com.tencent.mm.sdk.openapi.WXMediaMessage {*;}
+-keep class com.tencent.mm.sdk.openapi.** implements com.tencent.mm.sdk.openapi.WXMediaMessage$IMediaObject {*;}
+-keep class com.tencent.mm.sdk.** {
+   *;
+}
+-keep class cmccsi.mhealth.app.sports.activity.WebViewActivity{
+public void aMessage(java.lang.String);
+public void finsh();
+}
+-keepclassmembers class * { 
+public <init>(org.json.JSONObject); 
+} 
+-keep public class cmccsi.mhealth.app.sports.R$*{ public static final int *; }
+
+-dontwarn com.baidu.**
+

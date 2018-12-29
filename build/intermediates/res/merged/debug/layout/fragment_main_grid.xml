@@ -1,0 +1,16 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white" >
+
+    <GridView
+        android:id="@+id/gd_main"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/iv_showGoal"
+        android:numColumns="3"
+        android:paddingTop="40dp"
+        android:verticalSpacing="20dp" >
+    </GridView>
+
+</RelativeLayout>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ebebeb"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <include
+            android:id="@+id/item_header"
+            layout="@layout/title_menu2" />
+    </LinearLayout>
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" >
+
+        <ListView
+            android:id="@+id/lv_match_contact"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" 
+            android:layout_marginBottom="60dp"
+            android:divider="@null">
+        </ListView>
+        <LinearLayout
+            android:layout_height="wrap_content"
+            android:layout_width="fill_parent"
+            android:layout_alignParentBottom="true"
+            android:layout_marginBottom="15dp">
+            <Button 
+                android:id="@+id/btn_match_contact_add"
+                android:layout_height="wrap_content"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="20dp"
+                android:text="@string/friend_match_contact_add"
+                android:background="@drawable/btn_addfriend"
+                android:textColor="@color/white" 
+                android:textSize="20sp"
+                android:paddingTop="10dp"
+                android:paddingBottom="10dp"/>
+            <Button 
+                android:id="@+id/btn_match_contact_cancle"
+                android:layout_height="wrap_content"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_marginRight="10dp"
+                android:text="@string/friend_match_contact_cancle"
+                android:background="@drawable/bg_ev_addfriend_cancle"
+                android:textColor="@color/text_gray"
+                android:textSize="20sp"
+                android:paddingTop="10dp"
+                android:paddingBottom="10dp" />
+            
+        </LinearLayout>
+    </RelativeLayout>
+
+</LinearLayout>

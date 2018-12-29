@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="SaundProgressBar">
+        <attr name="progressIndicator" format="reference" />
+        <attr name="textSize" format="dimension" />
+        <attr name="textColor" format="reference|color" />
+        <attr name="textStyle">
+            <flag name="normal" value="0" />
+            <flag name="bold" value="1" />
+            <flag name="italic" value="2" />
+        </attr>
+        <attr name="textAlign">
+            <flag name="left" value="0" />
+            <flag name="center" value="1" />
+            <flag name="right" value="2" />
+        </attr>
+        <attr name="offset" format="dimension" />
+    </declare-styleable>
+    <declare-styleable name="RoundAngleImageView">
+        <attr name="roundWidth" format="dimension" />
+        <attr name="roundHeight" format="dimension" />
+    </declare-styleable>
+    <declare-styleable name="MapTypeView">
+        <attr name="selectedIcon" format="reference" />
+        <attr name="unselectedIcon" format="reference" />
+        <attr name="text" format="string"></attr>
+        <attr name="selected" format="boolean"></attr>
+    </declare-styleable>
+    
+	<declare-styleable name="PictureProcessView">
+        <attr name="overColor" format="color" />
+        <attr name="normalColor" format="color"></attr>
+    </declare-styleable>
+</resources>

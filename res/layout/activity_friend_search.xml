@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ebebeb"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <include
+            android:id="@+id/item_header"
+            layout="@layout/title_menu2" />
+    </LinearLayout>
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" >
+
+        <LinearLayout
+            android:id="@+id/ll_search_friend"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:orientation="horizontal" >
+
+            <EditText
+                android:id="@+id/et_friend_search_number"
+                android:layout_width="0dp"
+                android:layout_height="35dp"
+                android:layout_marginBottom="15dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginTop="15dp"
+                android:layout_weight="1"
+                android:background="@drawable/bg_ev_searchfriend"
+                android:drawableLeft="@drawable/tab_race_search"
+                android:hint="请输入11位手机号"
+                android:inputType="numberSigned"
+                android:padding="8dp"
+                android:textColor="@color/black"
+                android:textColorHint="@color/gray0"
+                android:textSize="16sp" >
+
+                <requestFocus />
+            </EditText>
+
+            <Button
+                android:id="@+id/btn_friend_search"
+                android:layout_width="wrap_content"
+                android:layout_height="35dp"
+                android:layout_marginBottom="15dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginTop="15dp"
+                android:background="@drawable/brief_radio"
+                android:paddingBottom="5dp"
+                android:paddingTop="5dp"
+                android:text="@string/friend_search"
+                android:textColor="@color/text_gray"
+                android:textSize="16sp" />
+        </LinearLayout>
+
+        <RelativeLayout
+            android:id="@+id/rl_search_friend_item"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/ll_search_friend"
+            android:background="@color/white"
+            android:visibility="gone">
+
+            <ImageView
+                android:id="@+id/iv_search_friend_image"
+                android:layout_width="70dp"
+                android:layout_height="70dp"
+                android:layout_alignParentLeft="true"
+                android:layout_marginLeft="10dp"
+                android:padding="10dp"
+                android:src="@drawable/friend_contact" />
+
+            <TextView
+                android:id="@+id/tv_search_friend_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:layout_toRightOf="@+id/iv_search_friend_image"
+                android:text="康剑"
+                android:textColor="@color/text_gray"
+                android:textSize="18sp" />
+
+            <TextView
+                android:id="@+id/tv_search_friend_mobile"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="15dp"
+                android:layout_marginTop="20dp"
+                android:layout_toRightOf="@+id/tv_search_friend_name"
+                android:text="1-390-139-1872"
+                android:textColor="@color/text_gray"
+                android:textSize="18sp" />
+
+            <CheckBox
+                android:id="@+id/cb_friend_add"
+                android:layout_width="20dp"
+                android:layout_height="20dp"
+                android:layout_alignParentRight="true"
+                android:layout_marginRight="20dp"
+                android:layout_marginTop="20dp"
+                android:background="@drawable/cb_friend_add_selector"
+                android:button="@null"
+                android:visibility="gone" />
+        </RelativeLayout>
+
+        <LinearLayout
+            android:id="@+id/ll_search_friend_add"
+            android:layout_height="wrap_content"
+            android:layout_width="fill_parent"
+            android:layout_alignParentBottom="true"
+            android:layout_marginBottom="15dp"
+            android:visibility="gone">
+            <Button 
+                android:id="@+id/btn_friend_search_add"
+                android:layout_height="wrap_content"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="20dp"
+                android:text="@string/friend_match_contact_add"
+                android:background="@drawable/btn_addfriend"
+                android:textColor="@color/white" 
+                android:textSize="20sp"
+                android:paddingTop="10dp"
+                android:paddingBottom="10dp"/>
+            <Button 
+                android:id="@+id/btn_friend_search_cancle"
+                android:layout_height="wrap_content"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_marginRight="10dp"
+                android:text="@string/friend_match_contact_cancle"
+                android:background="@drawable/bg_ev_addfriend_cancle"
+                android:textColor="@color/text_gray"
+                android:textSize="20sp"
+                android:paddingTop="10dp"
+                android:paddingBottom="10dp" />
+            
+        </LinearLayout>
+    </RelativeLayout>
+
+</LinearLayout>

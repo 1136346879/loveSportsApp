@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/linearLayout_title_menu"
+    android:layout_width="fill_parent"
+    android:layout_height="48dp"
+    android:background="@drawable/bg_title" >
+
+    <ImageButton
+        android:id="@+id/button_input_bg_back"
+        android:layout_width="27dp"
+        android:layout_height="27dp"
+        android:layout_alignParentLeft="true"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="12dp" 
+        android:background="@drawable/back_button_bg"
+        android:contentDescription="@null"
+        android:visibility="invisible" />
+
+    <TextView
+        android:id="@+id/textView_title"
+        android:layout_width="200dip"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:ellipsize="marquee"
+        android:focusable="true"
+        android:focusableInTouchMode="true"
+        android:gravity="center"
+        android:marqueeRepeatLimit="marquee_forever"
+        android:scrollHorizontally="true"
+        android:singleLine="true"
+        android:textColor="#ffffff"
+        android:textSize="22sp" />
+
+    <ImageButton
+        android:id="@+id/imageButton_title"
+        android:layout_width="27dp"
+        android:layout_height="27dp"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:layout_gravity="right|center_vertical"
+        android:layout_marginRight="10dp"
+        android:contentDescription="@null"
+        android:visibility="invisible" />
+
+    <RelativeLayout
+        android:id="@+id/imageButton_title_add"
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:layout_marginRight="12dp"
+        android:gravity="center|right"
+        android:visibility="invisible" >
+
+        <TextView
+            android:id="@+id/textview_title_add"
+            android:layout_width="27dp"
+            android:layout_height="27dp"
+            android:background="@drawable/addfriendbutton" />
+    </RelativeLayout>
+
+    <Button
+        android:id="@+id/button_add"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:layout_marginRight="12dp"
+        android:background="@drawable/set_ok_button"
+        android:visibility="gone" />
+
+</RelativeLayout>

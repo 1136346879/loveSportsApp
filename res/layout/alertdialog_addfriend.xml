@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content" >
+
+    <TextView
+        android:id="@+id/af_click_me_to_dismiss_search_dialog"
+        android:layout_width="match_parent"
+        android:layout_height="fill_parent"
+        android:layout_above="@+id/af_ll"
+        android:background="#55000000" />
+
+    <LinearLayout
+        android:id="@+id/af_ll"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:background="#EEEEEE"
+        android:orientation="vertical"
+        android:paddingBottom="15dp" >
+
+        <EditText
+            android:id="@+id/af_etn_keyword"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="25dp"
+            android:layout_marginLeft="15dp"
+            android:layout_marginRight="15dp"
+            android:layout_marginTop="15dp"
+            android:background="@drawable/bg_ev_searchfriend"
+            android:drawableRight="@drawable/tab_friend_search"
+            android:hint="请输入11位手机号"
+            android:inputType="numberSigned"
+            android:padding="5dp"
+            android:textColor="@color/black"
+            android:textSize="16sp" >
+
+            <requestFocus />
+        </EditText>
+
+        <RelativeLayout
+            android:id="@+id/af_friend_info"
+            android:layout_width="match_parent"
+            android:layout_height="fill_parent" >
+
+            <TextView
+                android:id="@+id/af_tip"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/af_avatar_icon"
+                android:layout_centerHorizontal="true"
+                android:text="查找中..."
+                android:textColor="@color/gray3"
+                android:textSize="16sp" />
+
+            <ImageView
+                android:id="@+id/af_avatar_icon"
+                android:layout_width="90dp"
+                android:layout_height="90dp"
+                android:layout_alignParentTop="true"
+                android:layout_centerHorizontal="true"
+                android:background="@drawable/unknowfriend" />
+
+            <Button
+                android:id="@+id/af_btn_addfriend"
+                android:layout_width="130dp"
+                android:layout_height="45dp"
+                android:layout_alignBaseline="@+id/af_btn_canclefriend"
+                android:layout_alignBottom="@+id/af_btn_canclefriend"
+                android:layout_alignParentRight="true"
+                android:layout_marginRight="15dp"
+                android:background="@drawable/bg_btn_addfriend"
+                android:text="加为好友"
+                android:textColor="@drawable/text_color_add_friend"
+                android:textSize="18sp" />
+
+            <Button
+                android:id="@+id/af_btn_canclefriend"
+                android:layout_width="130dp"
+                android:layout_height="45dp"
+                android:layout_below="@+id/af_tip"
+                android:layout_marginLeft="15dp"
+                android:layout_marginTop="25dp"
+                android:background="@drawable/bg_btn_addfriend_cancel"
+                android:text="取消"
+                android:textColor="#7C7C7C"
+                android:textSize="18sp" />
+        </RelativeLayout>
+    </LinearLayout>
+
+</RelativeLayout>

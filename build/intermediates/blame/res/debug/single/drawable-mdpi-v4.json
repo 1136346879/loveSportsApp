@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\list_pressed_holo_dark.9.png",
+        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\drawable-mdpi\\list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\list_selector_disabled_holo_dark.9.png",
+        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\drawable-mdpi\\list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\imageview_activitydetails_avg.png",
+        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\drawable-mdpi\\imageview_activitydetails_avg.png"
+    },
+    {
+        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\list_pressed_holo_light.9.png",
+        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\drawable-mdpi\\list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\np_numberpicker_selection_divider.9.png",
+        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\drawable-mdpi\\np_numberpicker_selection_divider.9.png"
+    },
+    {
+        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\progress_round.png",
+        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\drawable-mdpi\\progress_round.png"
+    },
+    {
+        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\list_selector_disabled_holo_light.9.png",
+        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\drawable-mdpi\\list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\list_longpressed_holo.9.png",
+        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\drawable-mdpi\\list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\list_focused_holo.9.png",
+        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\drawable-mdpi\\list_focused_holo.9.png"
+    }
+]

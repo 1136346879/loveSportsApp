@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lint>
+    <issue id="HandlerLeak">
+        <ignore path="src/cmcc/mhealth/slidingcontrol/MainCenterActivity.java" />
+    </issue>
+    <issue id="NewApi" severity="ignore" />
+    <issue id="ResourceAsColor">
+        <ignore path="src/cmcc/mhealth/slidingcontrol/WeightFragment.java" />
+    </issue>
+    <issue id="ShowToast">
+        <ignore path="src/cmcc/mhealth/slidingcontrol/MainCenterActivity.java" />
+    </issue>
+    <issue id="ValidFragment" severity="ignore">
+        <ignore path="src/cmcc/mhealth/slidingcontrol/CampaignFragment.java" />
+        <ignore path="src/cmcc/mhealth/slidingcontrol/ListSportsHistoryFragment.java" />
+        <ignore path="src/cmcc/mhealth/slidingcontrol/PedoBriefFragment.java" />
+        <ignore path="src/cmcc/mhealth/slidingcontrol/PedometorFragment.java" />
+        <ignore path="src/cmcc/mhealth/slidingcontrol/RaceListFragment.java" />
+        <ignore path="src/cmcc/mhealth/slidingcontrol/RankFragment.java" />
+        <ignore path="src/cmcc/mhealth/slidingcontrol/SettingFragment.java" />
+        <ignore path="src/cmcc/mhealth/slidingcontrol/WebViewFragment.java" />
+    </issue>
+</lint>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/sample_background"
+    android:orientation="vertical" >
+
+    <include
+        android:id="@+id/item_header"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        layout="@layout/title_menu" />
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="25dp"
+        android:background="#ffffff"
+        android:gravity="center_vertical"
+        android:orientation="horizontal" >
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="5dp"
+            android:layout_weight="1"
+            tools:ignore="UseCompoundDrawables" >
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="3dp"
+            android:layout_weight="1"
+            tools:ignore="UseCompoundDrawables" >
+
+            <ImageView
+                android:id="@+id/imageButton1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="16dip"
+                android:contentDescription="@string/image_content_description"
+                android:src="@drawable/his_titlebar_jiao" />
+
+            <TextView
+                android:id="@+id/history_title_step"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="2dip"
+                android:text="@string/stepnum"
+                android:textColor="#000000"
+                android:textSize="11sp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/linearLayout2"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="3dp"
+            android:layout_weight="1"
+            tools:ignore="UseCompoundDrawables" >
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:contentDescription="@string/image_content_description"
+                android:src="@drawable/his_titlebar_huo" />
+
+            <TextView
+                android:id="@+id/history_title_hot"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="2dip"
+                android:text="@string/history_hot"
+                android:textColor="#000000"
+                android:textSize="11sp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/linearLayout1"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="3dp"
+            android:layout_weight="1"
+            tools:ignore="UseCompoundDrawables" >
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="8dp"
+                android:contentDescription="@string/image_content_description"
+                android:src="@drawable/his_titlebar_time" />
+
+            <TextView
+                android:id="@+id/bp_item_time"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:text="@string/history_uploadtime"
+                android:textColor="#000000"
+                android:textSize="11sp" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="1dip"
+        android:background="#bbc2c6" />
+
+    <cmccsi.mhealth.app.sports.view.XListView
+        android:id="@+id/list_sports_history_input"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:background="#ffffff"
+        android:cacheColorHint="#00000000"
+        android:divider="#f8f8f8"
+        android:dividerHeight="2dip"
+        android:fastScrollEnabled="true"
+        android:listSelector="#00000000" >
+    </cmccsi.mhealth.app.sports.view.XListView>
+
+</LinearLayout>

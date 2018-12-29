@@ -1,0 +1,204 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity" >
+
+    <RelativeLayout
+        android:id="@+id/linearLayout_title_menu"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:background="@drawable/bg_title" >
+
+        <TextView
+            android:id="@+id/textView_title_rank"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:layout_gravity="center"
+            android:text="排行榜"
+            android:textColor="#FFFFFF"
+            android:textSize="26sp" />
+
+        <ImageView
+            android:id="@+id/button_input_bg_back"
+            android:layout_width="27dp"
+            android:layout_height="27dp"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="12dp"
+            android:background="@drawable/back_button_bg" />
+
+        <TextView
+            android:id="@+id/ar_search_button"
+            android:layout_width="27dp"
+            android:layout_height="27dp"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="15dp"
+            android:background="@drawable/white_search"
+            android:textColor="#FFFFFF"
+            android:textSize="22sp"
+            android:visibility="gone" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/rl_tab"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/linearLayout_title_menu"
+        android:background="#F2F2F2" >
+
+        <LinearLayout
+            android:id="@+id/ll_rgtype"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="#ffffff"
+            android:gravity="center"
+            android:orientation="horizontal" >
+
+            <RadioGroup
+                android:id="@+id/rg_personal_team"
+                android:layout_width="80dp"
+                android:layout_height="45dp"
+                android:layout_marginRight="30dp"
+                android:background="@drawable/bg_rank_radio"
+                android:contentDescription="@null"
+                android:orientation="horizontal" >
+
+                <RadioButton
+                    android:id="@+id/rb_personal"
+                    android:layout_width="40dp"
+                    android:layout_height="45dp"
+                    android:background="@drawable/rank_radio_step"
+                    android:button="@null"
+                    android:checked="true"
+                    android:gravity="center"
+                    android:text="个人"
+                    android:textColor="@drawable/brief_radio_text_color"
+                    android:textSize="12sp" />
+
+                <RadioButton
+                    android:id="@+id/rb_team"
+                    android:layout_width="40dp"
+                    android:layout_height="45dp"
+                    android:background="@drawable/rank_radio_step_right"
+                    android:button="@null"
+                    android:gravity="center"
+                    android:text="团队"
+                    android:textColor="@drawable/brief_radio_text_color"
+                    android:textSize="12sp" />
+            </RadioGroup>
+
+            <RadioGroup
+                android:id="@+id/rg_time"
+                android:layout_width="80dp"
+                android:layout_height="45dp"
+                android:background="@drawable/bg_rank_radio"
+                android:contentDescription="@null"
+                android:orientation="horizontal" >
+
+                <RadioButton
+                    android:id="@+id/rb_yestoday"
+                    android:layout_width="40dp"
+                    android:layout_height="45dp"
+                    android:background="@drawable/rank_radio_step"
+                    android:button="@null"
+                    android:checked="true"
+                    android:gravity="center"
+                    android:text="@string/rank_textview_1day"
+                    android:textColor="@drawable/brief_radio_text_color"
+                    android:textSize="12sp" />
+
+                <RadioButton
+                    android:id="@+id/rb_sevendays"
+                    android:layout_width="40dp"
+                    android:layout_height="45dp"
+                    android:background="@drawable/rank_radio_step_right"
+                    android:button="@null"
+                    android:gravity="center"
+                    android:text="@string/rank_textview_7day"
+                    android:textColor="@drawable/brief_radio_text_color"
+                    android:textSize="12sp" />
+            </RadioGroup>
+        </LinearLayout>
+
+        <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/ll_rgtype"
+            android:background="#F2F2F2" >
+
+            <cmccsi.mhealth.app.sports.view.SyncHorizontalScrollView
+                android:id="@+id/mHsv"
+                android:layout_width="fill_parent"
+                android:layout_height="40dip"
+                android:fadingEdge="none"
+                android:scrollbars="none" >
+
+                <RelativeLayout
+                    android:id="@+id/rl_nav"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="top"
+                    android:background="#5AB0EB" >
+
+                    <RadioGroup
+                        android:id="@+id/rg_nav_content"
+                        android:layout_width="fill_parent"
+                        android:layout_height="38dip"
+                        android:layout_alignParentTop="true"
+                        android:background="#F2F2F2"
+                        android:orientation="horizontal" >
+                    </RadioGroup>
+
+                    <ImageView
+                        android:id="@+id/iv_nav_indicator"
+                        android:layout_width="1dip"
+                        android:layout_height="5dip"
+                        android:layout_alignParentBottom="true"
+                        android:background="#2ad0f2"
+                        android:contentDescription="EEEEEEEEEEEEE"
+                        android:scaleType="matrix" />
+                </RelativeLayout>
+            </cmccsi.mhealth.app.sports.view.SyncHorizontalScrollView>
+
+            <ImageView
+                android:id="@+id/iv_nav_left"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_centerVertical="true"
+                android:contentDescription="DDDDDDDDDDDDD"
+                android:paddingBottom="1dip"
+                android:src="@drawable/iv_navagation_scroll_left"
+                android:visibility="gone" >
+            </ImageView>
+
+            <ImageView
+                android:id="@+id/iv_nav_right"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:contentDescription="AAAAAAAAAAAAAAA"
+                android:paddingBottom="1dip"
+                android:src="@drawable/iv_navagation_scroll_right"
+                android:visibility="visible" >
+            </ImageView>
+        </RelativeLayout>
+    </RelativeLayout>
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/mViewPager"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_below="@id/rl_tab"
+        android:layout_gravity="center"
+        android:background="#ffffff"
+        android:flipInterval="30"
+        android:persistentDrawingCache="animation" />
+
+</RelativeLayout>

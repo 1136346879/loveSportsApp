@@ -1,0 +1,68 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/white"
+    tools:context="cmccsi.mhealth.app.sports.ecg.activity.HistoryECGDetailActivity" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <include
+            android:id="@+id/item_header"
+            layout="@layout/title_menu2" />
+    </LinearLayout>
+
+    <RadioGroup
+        android:id="@+id/radioGroup1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:padding="8dp" >
+
+        <RadioButton
+            android:id="@+id/radio0"
+            style="@style/fake_tab_button"
+            android:layout_width="0dp"
+            android:layout_height="26dp"
+            android:layout_weight="1"
+            android:checked="true"
+            android:text="@string/ecg_today" />
+
+        <RadioButton
+            android:id="@+id/radio1"
+            style="@style/fake_tab_button"
+            android:layout_width="0dp"
+            android:layout_height="26dp"
+            android:layout_marginLeft="6dp"
+            android:layout_marginRight="6dp"
+            android:layout_weight="1"
+            android:text="@string/ecg_week" />
+
+        <RadioButton
+            android:id="@+id/radio2"
+            style="@style/fake_tab_button"
+            android:layout_width="0dp"
+            android:layout_height="26dp"
+            android:layout_weight="1"
+            android:text="@string/ecg_month" />
+
+        <RadioButton
+            android:id="@+id/radio3"
+            style="@style/fake_tab_button"
+            android:layout_width="0dp"
+            android:layout_height="26dp"
+            android:layout_marginLeft="6dp"
+            android:layout_weight="1"
+            android:text="@string/ecg_semiannual" />
+    </RadioGroup>
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/pager"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+</LinearLayout>

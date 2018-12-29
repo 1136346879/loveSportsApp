@@ -1,0 +1,159 @@
+[
+    {
+        "outputFile": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\values-1920x1080\\values-1920x1080.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 51,
+                    "endOffset": 102
+                },
+                "from": {
+                    "file": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\values-1920x1080\\dimens.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endColumn": 51,
+                        "endOffset": 104
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 107,
+                    "endColumn": 52,
+                    "endOffset": 155
+                },
+                "from": {
+                    "file": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\values-1920x1080\\dimens.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 408,
+                        "endColumn": 52,
+                        "endOffset": 456
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 160,
+                    "endColumn": 52,
+                    "endOffset": 208
+                },
+                "from": {
+                    "file": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\values-1920x1080\\dimens.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 551,
+                        "endColumn": 52,
+                        "endOffset": 599
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 213,
+                    "endColumn": 51,
+                    "endOffset": 260
+                },
+                "from": {
+                    "file": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\values-1920x1080\\dimens.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 489,
+                        "endColumn": 51,
+                        "endOffset": 536
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 265,
+                    "endColumn": 52,
+                    "endOffset": 313
+                },
+                "from": {
+                    "file": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\values-1920x1080\\dimens.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 199,
+                        "endColumn": 52,
+                        "endOffset": 247
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 318,
+                    "endColumn": 45,
+                    "endOffset": 359
+                },
+                "from": {
+                    "file": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\values-1920x1080\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 131,
+                        "endColumn": 45,
+                        "endOffset": 172
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 364,
+                    "endColumn": 53,
+                    "endOffset": 413
+                },
+                "from": {
+                    "file": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\values-1920x1080\\dimens.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 353,
+                        "endColumn": 53,
+                        "endOffset": 402
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 418,
+                    "endColumn": 55,
+                    "endOffset": 469
+                },
+                "from": {
+                    "file": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\values-1920x1080\\dimens.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 274,
+                        "endColumn": 55,
+                        "endOffset": 325
+                    }
+                }
+            }
+        ]
+    }
+]

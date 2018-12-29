@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/at_details_lin"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical" >
+
+    <include
+        android:id="@+id/detail_title"
+        android:layout_width="match_parent"
+        android:layout_height="54dp"
+        layout="@layout/title_menu2" />
+
+    <RadioGroup
+        android:id="@+id/radiogroup_activitydetails"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" >
+
+        <RadioButton
+            android:id="@+id/radiobutton_personal"
+            style="@style/rank_radoibuttom"
+            android:checked="true"
+            android:text="@string/avtivity_detials_radiobutton_left" />
+
+        <RadioButton
+            android:id="@+id/radiobutton_group"
+            style="@style/rank_radoibuttom"
+            android:text="@string/avtivity_detials_radiobutton_right" />
+    </RadioGroup>
+
+    <LinearLayout
+        android:id="@+id/ll_activitydetails_top"
+        android:layout_width="fill_parent"
+        android:layout_height="100dp"
+        android:layout_marginTop="5dp"
+        android:background="@drawable/bg_activity_details"
+        android:orientation="vertical"
+        android:visibility="gone" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="0dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:orientation="horizontal" >
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="3"
+                android:gravity="center"
+                android:orientation="vertical" >
+
+                <ImageView
+                    android:id="@+id/iamgeview_activitydetails_avater"
+                    android:layout_width="50dp"
+                    android:layout_height="40dp"
+                    android:layout_margin="5dp"
+                    android:contentDescription="@string/image_content_description"
+                    android:src="@drawable/avatar_male_middle" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="7"
+                android:gravity="center"
+                android:orientation="horizontal" >
+
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:gravity="center_vertical"
+                    android:orientation="vertical" >
+
+                    <TextView
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginBottom="6dp"
+                        android:layout_marginTop="5dp"
+                        android:gravity="center"
+                        android:text="@string/textview_avgStep"
+                        android:textColor="@color/white"
+                        android:textSize="14sp" />
+
+                    <TextView
+                        android:id="@+id/textview_activitydetails_avgstep"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="center"
+                        android:text="@string/text_zeronum"
+                        android:textColor="@color/white"
+                        android:textSize="16sp" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/ll_activity_persent"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:gravity="center_vertical"
+                    android:orientation="vertical"
+                    android:visibility="gone" >
+
+                    <TextView
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginBottom="6dp"
+                        android:layout_marginTop="5dp"
+                        android:gravity="center"
+                        android:text="达标率"
+                        android:textColor="@color/white"
+                        android:textSize="14sp" />
+
+                    <TextView
+                        android:id="@+id/tv_activity_persent"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="center"
+                        android:text="@string/text_zeronum"
+                        android:textColor="@color/white"
+                        android:textSize="16sp" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:gravity="center_vertical"
+                    android:orientation="vertical" >
+
+                    <TextView
+                        android:id="@+id/textview_activitydetails_textrankname"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginBottom="6dp"
+                        android:layout_marginTop="5dp"
+                        android:gravity="center"
+                        android:text="@string/textview_ranknow"
+                        android:textColor="@color/white"
+                        android:textSize="14sp" />
+
+                    <LinearLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="center"
+                        android:orientation="horizontal" >
+
+                        <TextView
+                            android:id="@+id/textview_activitydetails_list1_rankid"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:gravity="center"
+                            android:text="@string/text_zeronum"
+                            android:textColor="@color/white"
+                            android:textSize="16sp" />
+
+                        <TextView
+                            android:id="@+id/textview_activitydetails_list1_rankid_t"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:gravity="center"
+                            android:text="名"
+                            android:textColor="@color/white"
+                            android:textSize="16sp" />
+                    </LinearLayout>
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:gravity="center_vertical" >
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="5dp"
+                android:layout_weight="3"
+                android:gravity="center"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/textview_activitydetails_name"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="李国良"
+                    android:textColor="@color/white"
+                    android:textSize="14sp" />
+
+                <TextView
+                    android:id="@+id/textview_activitydetails_group"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="2dp"
+                    android:singleLine="true"
+                    android:text="中移全通系统集成部"
+                    android:textColor="@color/white"
+                    android:textSize="12sp" 
+                    android:ellipsize="marquee"
+                    android:marqueeRepeatLimit="marquee_forever"
+                    android:focusable="true"/>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="7"
+                android:gravity="center"
+                android:orientation="horizontal" >
+
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="5dp"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:orientation="vertical"
+                    android:paddingLeft="5dp" >
+
+                    <TextView
+                        android:id="@+id/tv_descript"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="5dp"
+                        android:layout_weight="1"
+                        android:drawableLeft="@drawable/icon_activity_step"
+                        android:drawablePadding="5dp"
+                        android:drawableRight="@drawable/icon_down"
+                        android:gravity="center_vertical"
+                        android:text="活动说明"
+                        android:textColor="@color/white"
+                        android:textSize="14sp" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginRight="10dp"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:orientation="vertical"
+                    android:paddingLeft="5dp" >
+
+                    <TextView
+                        android:id="@+id/tv_Medal"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="1dp"
+                        android:layout_weight="1"
+                        android:drawableLeft="@drawable/icon_activity_medal"
+                        android:drawablePadding="5dp"
+                        android:drawableRight="@drawable/icon_down"
+                        android:gravity="center_vertical"
+                        android:text="奖项设置"
+                        android:textColor="@color/white"
+                        android:textSize="14sp" />
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+
+    <RelativeLayout
+        android:id="@+id/rl_leveltitle"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="#F2F2F2" >
+
+        <cmccsi.mhealth.app.sports.view.SyncHorizontalScrollView
+            android:id="@+id/mHsv"
+            android:layout_width="fill_parent"
+            android:layout_height="40dip"
+            android:fadingEdge="none"
+            android:scrollbars="none" >
+
+            <RelativeLayout
+                android:id="@+id/rl_nav"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="top"
+                android:background="#5AB0EB" >
+
+                <RadioGroup
+                    android:id="@+id/rg_nav_content"
+                    android:layout_width="fill_parent"
+                    android:layout_height="38dip"
+                    android:layout_alignParentTop="true"
+                    android:background="#F2F2F2"
+                    android:orientation="horizontal" >
+                </RadioGroup>
+
+                <ImageView
+                    android:id="@+id/iv_nav_indicator"
+                    android:layout_width="1dip"
+                    android:layout_height="5dip"
+                    android:layout_alignParentBottom="true"
+                    android:background="#2ad0f2"
+                    android:contentDescription="EEEEEEEEEEEEE"
+                    android:scaleType="matrix" />
+            </RelativeLayout>
+        </cmccsi.mhealth.app.sports.view.SyncHorizontalScrollView>
+
+        <ImageView
+            android:id="@+id/iv_nav_left"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:contentDescription="DDDDDDDDDDDDD"
+            android:paddingBottom="1dip"
+            android:src="@drawable/iv_navagation_scroll_left"
+            android:visibility="gone" >
+        </ImageView>
+
+        <ImageView
+            android:id="@+id/iv_nav_right"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:contentDescription="AAAAAAAAAAAAAAA"
+            android:paddingBottom="1dip"
+            android:src="@drawable/iv_navagation_scroll_right"
+            android:visibility="visible" >
+        </ImageView>
+    </RelativeLayout>
+
+    <TextView
+        android:id="@+id/tv_list_description"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:gravity="center_horizontal"
+        android:text=""
+        android:textColor="@color/gray3"
+        android:textSize="16sp" />
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/mViewPager"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:background="#ffffff"
+        android:flipInterval="30" />
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/mViewPager_group"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:background="#ffffff"
+        android:flipInterval="30"
+        android:visibility="gone" />
+
+</LinearLayout>

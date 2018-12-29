@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/linearLayout_title_menu"
+    android:layout_width="fill_parent"
+    android:layout_height="48dp"
+    android:background="@drawable/bg_title" >
+
+    <ImageButton
+        android:id="@+id/button_input_bg_back"
+        android:layout_width="27dp"
+        android:layout_height="27dp"
+        android:layout_alignParentLeft="true"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="12dp"
+        android:contentDescription="@null"
+        android:visibility="invisible" />
+
+    <TextView
+        android:id="@+id/textView_title"
+        android:layout_width="200dip"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:ellipsize="marquee"
+        android:focusable="true"
+        android:focusableInTouchMode="true"
+        android:gravity="center"
+        android:marqueeRepeatLimit="marquee_forever"
+        android:scrollHorizontally="true"
+        android:singleLine="true"
+        android:textColor="#ffffff"
+        android:textSize="22sp" />
+
+    <ImageButton
+        android:id="@+id/imageButton_title"
+        android:layout_width="27dp"
+        android:layout_height="27dp"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:layout_gravity="right|center_vertical"
+        android:layout_marginRight="10dp"
+        android:contentDescription="@null"
+        android:visibility="gone" />
+
+    <RelativeLayout
+        android:id="@+id/imageButton_title_add"
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:layout_marginRight="12dp"
+        android:gravity="center|right"
+        android:visibility="invisible">
+
+        <TextView
+            android:id="@+id/textview_title_add"
+            android:layout_width="27dp"
+            android:layout_height="27dp"
+            android:background="@drawable/addfriendbutton"/>
+        <TextView
+            android:id="@+id/textview_title_add_text"
+            android:layout_width="wrap_content"
+            android:layout_height="27dp"
+            android:gravity="center"
+            android:textColor="@color/white"
+            android:textSize="16sp"
+            android:text="添加"
+            android:visibility="gone"/>
+    </RelativeLayout>
+
+    <Button
+        android:id="@+id/button_add"
+        android:layout_width="40dp"
+        android:layout_height="27dp"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:layout_marginRight="12dp"
+        android:background="@drawable/login_button"
+        android:text="保存"
+        android:textColor="@color/white"
+        android:textSize="14sp"
+        android:visibility="gone" />
+
+</RelativeLayout>

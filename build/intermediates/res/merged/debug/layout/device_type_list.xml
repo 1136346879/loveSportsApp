@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:gravity="center"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/tv_device_type_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@null"
+        android:paddingTop="10dp"
+        android:paddingBottom="10dp"
+        android:text="@string/setting_paired_device"
+        android:textColor="@color/gray4"
+        android:textSize="16sp"
+        android:gravity="center" />
+    <View 
+        android:layout_height="1dp"
+        android:layout_width="match_parent"
+        android:background="@color/gray3"/>
+
+    <ListView
+        android:id="@+id/lv_device_type_list"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:stackFromBottom="true"
+        android:divider="@null" />
+
+</LinearLayout>

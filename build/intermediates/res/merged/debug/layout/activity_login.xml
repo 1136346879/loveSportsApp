@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <include
+        android:id="@+id/title"
+        layout="@layout/title_menu" />
+    
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/title"
+        android:scaleType="fitXY"
+        android:src="@drawable/bg_layout" />
+
+    <LinearLayout
+        android:id="@+id/linearLayout2"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:background="@drawable/bg_layout_round_corner"
+        android:gravity="center_horizontal"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:id="@+id/linearLayout_phone"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content" >
+
+            <EditText
+                android:id="@+id/edittelphone"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:background="#ffffff"
+                android:drawableLeft="@drawable/login_drawable_user"
+                android:drawablePadding="5dp"
+                android:hint="手机号码/用户名"
+                android:paddingBottom="10dp"
+                android:paddingTop="10dp"
+                android:textColor="#000000"
+                android:textCursorDrawable="@null"
+                android:textSize="18sp" />
+        </LinearLayout>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="2px"
+            android:background="#CECECE" />
+
+        <RelativeLayout
+            android:id="@+id/linearLayout_password"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content" >
+
+            <EditText
+                android:id="@+id/editPassword"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="#ffffff"
+                android:drawableLeft="@drawable/login_drawable_passwd"
+                android:drawablePadding="5dp"
+                android:hint="密码"
+                android:inputType="textPassword"
+                android:paddingBottom="10dp"
+                android:paddingTop="10dp"
+                android:textColor="#000000"
+                android:textCursorDrawable="@null"
+                android:textSize="18sp" />
+        </RelativeLayout>
+    </LinearLayout>
+
+    <RelativeLayout
+        android:id="@+id/linearLayout1"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:layout_below="@+id/bt_OK"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="5dp"
+        android:layout_marginRight="30dp" >
+
+        <TextView
+            android:id="@+id/textView_forgetpwd"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:clickable="true"
+            android:paddingLeft="5dp"
+            android:text="@string/textview_forgetpwd"
+            android:textColor="@color/blue"
+            android:textSize="15sp"
+            />
+
+        <TextView
+            android:id="@+id/textView_register"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_toRightOf="@id/textView_forgetpwd"
+            android:clickable="true"
+            android:gravity="right"
+            android:linksClickable="true"
+            android:paddingLeft="20dp"
+            android:text="注册"
+            android:textColor="@color/blue"
+            android:textSize="15sp"
+             />
+
+        <Button
+            android:layout_width="100dp"
+            android:layout_height="28dp"
+            android:layout_alignBottom="@+id/textView_forgetpwd"
+            android:layout_centerHorizontal="true"
+            android:background="@drawable/login_button"
+            android:text="@string/text_login"
+            android:textColor="#ffffff"
+            android:visibility="gone" />
+    </RelativeLayout>
+
+    <LinearLayout
+        android:id="@+id/linearLayout3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignRight="@+id/linearLayout2"
+        android:layout_below="@+id/linearLayout2"
+        android:gravity="center" >
+
+        <CheckBox
+            android:id="@+id/checkBoxRemember"
+            style="@style/MyCheckBox"
+            android:layout_width="30dp"
+            android:layout_height="40dp"
+            android:gravity="right|center_vertical"
+            android:maxHeight="40dp"
+            android:paddingLeft="10dp"
+            android:textColor="#0c7aad" />
+
+        <TextView
+            android:id="@+id/textView3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="50dp"
+            android:text="@string/text_remember_password"
+            android:textColor="#989898" />
+
+        <CheckBox
+            android:id="@+id/checkBoxAuto"
+            style="@style/MyCheckBox"
+            android:layout_width="30dp"
+            android:layout_height="40dp"
+            android:gravity="right|center_vertical"
+            android:maxHeight="40dp"
+            android:paddingLeft="10dp"
+            android:textColor="#0c7aad" />
+
+        <TextView
+            android:id="@+id/textView4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/textview_autologin"
+            android:textColor="#989898"
+            android:visibility="visible" />
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/bt_OK"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@id/linearLayout2"
+        android:layout_alignRight="@id/linearLayout2"
+        android:layout_below="@+id/linearLayout3"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="30dp"
+        android:scaleType="fitXY"
+        android:src="@drawable/login_click" />
+
+</RelativeLayout>

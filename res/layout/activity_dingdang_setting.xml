@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ebebeb"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <include
+            android:id="@+id/item_header"
+            layout="@layout/title_menu2" />
+    </LinearLayout>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#ebebeb"
+        android:scrollbars="none" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#fff"
+                android:gravity="center_vertical"
+                android:padding="6dp" >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="8dp"
+                    android:text="@string/bracelet_setting_pos"
+                    android:textColor="#7aaf3b"
+                    android:textSize="20sp" />
+
+                <RadioGroup
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="right"
+                    android:orientation="horizontal" >
+
+                    <RadioButton
+                        android:id="@+id/dingdang_radio_left"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/bracelet_setting_pos_left"
+                        android:textColor="#7aaf3b"
+                        android:textSize="16sp" />
+
+                    <RadioButton
+                        android:id="@+id/dingdang_radio_right"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="10dp"
+                        android:layout_marginRight="10dp"
+                        android:text="@string/bracelet_setting_pos_right"
+                        android:textColor="#7aaf3b"
+                        android:textSize="16sp" />
+                </RadioGroup>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="3dp"
+                android:background="#99cc33" >
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#fff"
+                android:orientation="vertical" >
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center_vertical"
+                    android:orientation="horizontal"
+                    android:paddingBottom="6dp"
+                    android:paddingLeft="10dp"
+                    android:paddingRight="10dp"
+                    android:paddingTop="6dp" >
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:text="@string/bracelet_setting_sport"
+                        android:textColor="#7aaf3b"
+                        android:textSize="20sp" />
+
+                    <ToggleButton
+                        android:id="@+id/dingdang_tb_sport"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="right"
+                        android:layout_marginRight="6dp"
+                        android:background="@drawable/bg_toggle"
+                        android:textOff=""
+                        android:textOn="" />
+                </LinearLayout>
+
+                <com.ai.android.picker.TimePicker
+                    android:id="@+id/dingdang_tp_sport"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal" />
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="4dp"
+                    android:background="#fff"
+                    android:orientation="vertical" >
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="10dp"
+                        android:layout_marginTop="6dp"
+                        android:layout_weight="1"
+                        android:text="@string/bracelet_setting_resetsport"
+                        android:textColor="#7aaf3b"
+                        android:textSize="20sp" />
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginBottom="6dp"
+                        android:layout_marginTop="6dp"
+                        android:gravity="center_vertical" >
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="12dp"
+                            android:text="@string/global_week"
+                            android:textColor="#7aaf3b"
+                            android:textSize="14sp" />
+
+                        <HorizontalScrollView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:scrollbars="none" >
+
+                            <LinearLayout
+                                android:id="@+id/dingdang_ll_sport"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:gravity="center_vertical" >
+
+                                <CheckBox
+                                    android:id="@+id/tp_week11"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:layout_marginLeft="8dp"
+                                    android:button="@drawable/bg_checkbox"
+                                    android:text="@string/global_1"
+                                    android:textColor="#7aaf3b"
+                                    android:textSize="14sp" />
+
+                                <CheckBox
+                                    android:id="@+id/tp_week12"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:layout_marginLeft="8dp"
+                                    android:button="@drawable/bg_checkbox"
+                                    android:text="@string/global_2"
+                                    android:textColor="#7aaf3b"
+                                    android:textSize="14sp" />
+
+                                <CheckBox
+                                    android:id="@+id/tp_week13"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:layout_marginLeft="8dp"
+                                    android:button="@drawable/bg_checkbox"
+                                    android:text="@string/global_3"
+                                    android:textColor="#7aaf3b"
+                                    android:textSize="14sp" />
+
+                                <CheckBox
+                                    android:id="@+id/tp_week14"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:layout_marginLeft="8dp"
+                                    android:button="@drawable/bg_checkbox"
+                                    android:text="@string/global_4"
+                                    android:textColor="#7aaf3b"
+                                    android:textSize="14sp" />
+
+                                <CheckBox
+                                    android:id="@+id/tp_week15"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:layout_marginLeft="8dp"
+                                    android:button="@drawable/bg_checkbox"
+                                    android:text="@string/global_5"
+                                    android:textColor="#7aaf3b"
+                                    android:textSize="14sp" />
+
+                                <CheckBox
+                                    android:id="@+id/tp_week16"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:layout_marginLeft="8dp"
+                                    android:button="@drawable/bg_checkbox"
+                                    android:text="@string/global_6"
+                                    android:textColor="#7aaf3b"
+                                    android:textSize="14sp" />
+
+                                <CheckBox
+                                    android:id="@+id/tp_week17"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:layout_marginLeft="8dp"
+                                    android:button="@drawable/bg_checkbox"
+                                    android:text="@string/global_7"
+                                    android:textColor="#7aaf3b"
+                                    android:textSize="14sp" />
+                            </LinearLayout>
+                        </HorizontalScrollView>
+                    </LinearLayout>
+                </LinearLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="4dp"
+                android:background="#fff"
+                android:orientation="vertical" >
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center_vertical"
+                    android:orientation="horizontal"
+                    android:paddingBottom="6dp"
+                    android:paddingLeft="10dp"
+                    android:paddingRight="10dp"
+                    android:paddingTop="6dp" >
+
+                    <TextView
+                        android:id="@+id/textView1"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:text="@string/bracelet_setting_sleep"
+                        android:textColor="#7aaf3b"
+                        android:textSize="20sp" />
+
+                    <ToggleButton
+                        android:id="@+id/dingdang_tb_sleep"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="right"
+                        android:layout_marginRight="6dp"
+                        android:background="@drawable/bg_toggle"
+                        android:textOff=""
+                        android:textOn="" />
+                </LinearLayout>
+
+                <com.ai.android.picker.TimePicker
+                    android:id="@+id/dingdang_tp_sleep"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="4dp"
+                    android:background="#fff"
+                    android:orientation="vertical" >
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="10dp"
+                        android:layout_marginTop="6dp"
+                        android:layout_weight="1"
+                        android:text="@string/bracelet_setting_reset"
+                        android:textColor="#7aaf3b"
+                        android:textSize="20sp" />
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginBottom="6dp"
+                        android:layout_marginTop="6dp"
+                        android:gravity="center_vertical" >
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="12dp"
+                            android:text="@string/global_week"
+                            android:textColor="#7aaf3b"
+                            android:textSize="14sp" />
+
+                        <HorizontalScrollView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:scrollbars="none" >
+
+                            <LinearLayout
+                                android:id="@+id/dingdang_ll_sleep"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:gravity="center_vertical" >
+
+                                <CheckBox
+                                    android:id="@+id/cb_week11"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:layout_marginLeft="8dp"
+                                    android:button="@drawable/bg_checkbox"
+                                    android:text="@string/global_1"
+                                    android:textColor="#7aaf3b"
+                                    android:textSize="14sp" />
+
+                                <CheckBox
+                                    android:id="@+id/cb_week12"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:layout_marginLeft="8dp"
+                                    android:button="@drawable/bg_checkbox"
+                                    android:text="@string/global_2"
+                                    android:textColor="#7aaf3b"
+                                    android:textSize="14sp" />
+
+                                <CheckBox
+                                    android:id="@+id/cb_week13"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:layout_marginLeft="8dp"
+                                    android:button="@drawable/bg_checkbox"
+                                    android:text="@string/global_3"
+                                    android:textColor="#7aaf3b"
+                                    android:textSize="14sp" />
+
+                                <CheckBox
+                                    android:id="@+id/cb_week14"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:layout_marginLeft="8dp"
+                                    android:button="@drawable/bg_checkbox"
+                                    android:text="@string/global_4"
+                                    android:textColor="#7aaf3b"
+                                    android:textSize="14sp" />
+
+                                <CheckBox
+                                    android:id="@+id/cb_week15"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:layout_marginLeft="8dp"
+                                    android:button="@drawable/bg_checkbox"
+                                    android:text="@string/global_5"
+                                    android:textColor="#7aaf3b"
+                                    android:textSize="14sp" />
+
+                                <CheckBox
+                                    android:id="@+id/cb_week16"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:layout_marginLeft="8dp"
+                                    android:button="@drawable/bg_checkbox"
+                                    android:text="@string/global_6"
+                                    android:textColor="#7aaf3b"
+                                    android:textSize="14sp" />
+
+                                <CheckBox
+                                    android:id="@+id/cb_week17"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:layout_marginLeft="8dp"
+                                    android:button="@drawable/bg_checkbox"
+                                    android:text="@string/global_7"
+                                    android:textColor="#7aaf3b"
+                                    android:textSize="14sp" />
+                            </LinearLayout>
+                        </HorizontalScrollView>
+                    </LinearLayout>
+                </LinearLayout>
+            </LinearLayout>
+			<TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center_horizontal"
+                android:paddingTop="10dp"
+                android:text="保存成功后，进入运动页面连接手环后生效"
+                android:textColor="@color/gray3" />
+            <Button
+                android:id="@+id/dingdang_btn_save"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginBottom="5dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:layout_marginTop="5dp"
+                android:background="@drawable/sample_button_click_bg"
+                android:text="@string/global_save"
+                android:textColor="#fff"
+                android:textSize="20sp" />
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

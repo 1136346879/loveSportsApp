@@ -1,0 +1,187 @@
+﻿<!doctype html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1,user-scalable=no">
+    <link rel="stylesheet" href="topbar.css"/>
+    <title>分享计步</title>
+    <style>
+    	html{
+    		font-size: 10px;
+    	}
+        *{
+            box-sizing: border-box;
+        }
+        body{
+        	padding:1rem,0,1rem,1rem;
+        	font-size: 1.4rem;
+        	overflow: hidden;
+        	font-family: "微软雅黑";
+        }
+        .user-header-container{
+              position: absolute;
+			  width: 5rem;
+			  height: 5rem;
+			  top: 6%;
+			  left: 4%;
+			  border-radius: 5rem;
+			  background-image: url(images/anonymousBG.gif);
+			  background-repeat: no-repeat;
+			  background-position: center;
+			  background-size: 100%;
+			  z-index: 2;
+			  border: 0.3rem solid #FDFEFE;
+        }
+        .user-dialog{
+        	  background-color: #FFB33A;
+			  color: white;
+			  padding: 0.5rem;
+			  position: absolute;
+			  top: 17%;
+			  font-size: 1.6rem;
+			  left: 27%;
+			  border-radius: 0.3rem;
+        }
+        .sj{
+        	  width: 1rem;
+			  height: 1rem;
+			  position: absolute;
+			  background-image: url(images/share-sanjiao.png);
+			  background-repeat: no-repeat;
+			  background-position: center;
+			  background-size: 100%;
+			  top: 95%;
+        }
+        .step-container{
+        	border: 0.1rem solid #9F9E9E;
+        	border-radius: 0.4rem;
+        	float: left;
+        	width: 100%;
+        	color: #9F9E9E;
+        	padding: 1rem 0.5rem;
+        	font-size: 1.3rem;
+        	line-height: 1.6rem;
+        	margin-top: 1rem;
+        }
+        .step-container > div{
+        	text-align: center;
+        	float: left;
+        	width: 50%;
+        	padding: 0 1rem;
+        	font-size: 1.4rem;
+        }
+        .color2A96E9{
+        	color: #2A96E9;
+        }
+        .colorFE8F76{
+        	color: #FE8F76;
+        	font-size: 2.4rem;
+        	margin-bottom: 0.6rem;
+        }
+        .source-container{
+        	float: left;
+        	margin-top: 1rem;
+        	position: relative;
+        	width: 100%;
+        }
+        .source-container img{
+        	width: 6rem;
+        	height: 6rem;
+        }
+    </style>
+</head>
+<body>
+    <div>
+        
+    	<div style="position: relative;">
+    		<img style = "width:100%;" src="images/share-img.png" />
+    		<div class="user-header-container" id = "userPic"></div>
+    		<div class="user-dialog">
+    			<span id = "time">8月25日</span>
+    			累计走了
+    			<span class = "stepClass" id="stepClassNo"></span>
+    			步</span>
+    			<div class="sj"></div>
+    		</div>
+    		<div class="step-container">
+				<div style="border-right: 1px solid #9F9E9E;">
+					<div class="colorFE8F76">
+						<span class = "stepClass" id="stepClass"></span>
+						<span>步</span>
+					</div>
+					<div>
+						<span>≈</span>
+						<span class="color2A96E9" id = "carriage">48</span>
+						<span>辆火车厢的长度</span>
+					</div>
+				</div> 
+				<div>
+					<div class="colorFE8F76">
+						<span id = "kcal" >800</span>
+						<span>kCal</span>
+					</div>
+					<div>
+						<span>≈</span>
+						<span class="color2A96E9" id = "drumstick">20</span>
+						<span>个鸡腿的热量</span>
+					</div>
+				</div>  
+    		</div>
+    		<div class="source-container" style="text-align: center;">
+    			<div style="text-align: center;">
+    				<div>
+    					<img src="images/qrcode.png" style="width: 12rem;height: 12rem;"/>
+    				</div>
+    				<div>
+    					扫码下载
+    				</div>
+    			</div>
+    		</div>
+    	</div>
+    </div>
+    <script>
+    	var drumstick = 390;
+    	var carriage = 25;
+    	window.onload = function(){
+            var step = getUrlParam('step');
+            var kcal = getUrlParam('kcal');
+            var m = getUrlParam('m');
+            var time = getUrlParam('time');
+            var target = getUrlParam('target');
+            var userId = getUrlParam('userId');
+            var drumstickNum = parseInt(kcal) / drumstick;
+            var carriageNum = parseInt(m) / carriage;
+			getObjFromId("time").innerHTML = formatTime(time);
+			getObjFromId("kcal").innerHTML = kcal;
+			getObjFromId("drumstick").innerHTML = drumstickNum.toFixed();
+			getObjFromId("stepClass").innerHTML = step;
+			getObjFromId("stepClassNo").innerHTML = step;
+			getObjFromId("carriage").innerHTML = carriageNum.toFixed();
+			var picurl = getUrlParam('picurl');
+			getObjFromId("userPic").style.backgroundImage = "url("+picurl+")";
+    	};
+
+		//时间格式转换
+    	function formatTime(time){
+    		if(typeof(time) == "undefined"){
+    			return;
+    		}
+    		var month = parseInt(time.substring(5,7));
+    		var day = parseInt(time.substring(8,10));
+    		return month + "月" + day + "日";
+    	}
+
+		//获取参数
+        function getUrlParam(name) {
+            var reg = new RegExp("(^|&)" + name + "=([^&]*)(&|$)"); //构造一个含有目标参数的正则表达式对象
+            var r = window.location.search.substr(1).match(reg);  //匹配目标参数
+            if (r != null) return unescape(r[2]); return null; //返回参数值
+        }
+		//获取DOM对象
+        function getObjFromId(id){
+            return document.getElementById(id);
+        }
+    </script>
+</body>
+</html>

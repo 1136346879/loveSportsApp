@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical" >
+
+    <ImageView
+        android:id="@+id/mmf_iv1"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:src="@drawable/avatar_female_middle" />
+
+    <TextView
+        android:id="@+id/mmf_tv1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="title"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textColor="#818181"
+        android:textSize="15sp" />
+
+</LinearLayout>

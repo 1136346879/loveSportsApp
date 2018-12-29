@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg_ecg_detail"
+    android:orientation="vertical"
+    android:paddingBottom="18dp"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp"
+    android:paddingTop="18dp" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="140dp"
+            android:background="@drawable/bg_his_ecg"
+            android:baselineAligned="false"
+            android:gravity="center_vertical"
+            android:orientation="horizontal"
+            android:padding="18dp" >
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="90dip"
+                android:background="@drawable/ecg_hr_detaillogo"
+                android:gravity="left"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:id="@+id/textView_hr"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="2dp"
+                    android:layout_marginTop="35dp"
+                    android:gravity="center_horizontal"
+                    android:minWidth="40dp"
+                    android:text="@string/ecg_int_zero"
+                    android:textColor="#000000"
+                    android:textSize="28sp" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/ll_ecg_hr"
+                android:layout_width="0dp"
+                android:layout_height="90dip"
+                android:layout_weight="1"
+                android:orientation="horizontal"
+                android:paddingLeft="5dp" >
+
+                <org.xclcharts.views.StaticSplineChartView
+                    android:id="@+id/chart_hr"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent" />
+            </LinearLayout>
+
+            <RelativeLayout
+                android:layout_width="wrap_content"
+                android:layout_height="90dp"
+                android:paddingTop="16dp" >
+
+                <TextView
+                    android:id="@+id/hr_chinese"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerHorizontal="true"
+                    android:text="@string/ecg_hr_rate"
+                    android:textColor="#000000"
+                    android:textSize="12sp" />
+
+                <TextView
+                    android:id="@+id/textView_hr_av"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/hr_chinese"
+                    android:layout_centerHorizontal="true"
+                    android:text="@string/ecg_float_zero"
+                    android:textColor="#000000"
+                    android:textSize="28sp" />
+
+                <TextView
+                    android:id="@+id/textView11"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/textView_hr_av"
+                    android:gravity="center"
+                    android:text="@string/ecg_my_avg"
+                    android:textColor="#000000"
+                    android:textSize="10sp"
+                    tools:ignore="SmallSp" />
+            </RelativeLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="140dp"
+            android:layout_marginBottom="15dp"
+            android:layout_marginTop="15dp"
+            android:background="@drawable/bg_his_ecg"
+            android:baselineAligned="false"
+            android:gravity="center_vertical"
+            android:orientation="horizontal"
+            android:padding="18dp" >
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="90dip"
+                android:background="@drawable/ecg_hrv_detaillogo"
+                android:gravity="left"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:id="@+id/textView_hrv"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="2dp"
+                    android:layout_marginTop="35dp"
+                    android:gravity="center_horizontal"
+                    android:minWidth="40dp"
+                    android:text="@string/ecg_int_zero"
+                    android:textColor="#000000"
+                    android:textSize="28sp" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/ll_ecg_hrv"
+                android:layout_width="0dp"
+                android:layout_height="90dip"
+                android:layout_weight="1"
+                android:orientation="horizontal"
+                android:paddingLeft="5dp" >
+
+                <org.xclcharts.views.StaticSplineChartView
+                    android:id="@+id/chart_hrv"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent" />
+            </LinearLayout>
+
+            <RelativeLayout
+                android:layout_width="wrap_content"
+                android:layout_height="90dp"
+                android:paddingTop="1dp" >
+
+                <TextView
+                    android:id="@+id/hrv_chinese"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerHorizontal="true"
+                    android:gravity="center_horizontal"
+                    android:maxEms="3"
+                    android:singleLine="false"
+                    android:text="@string/ecg_variant"
+                    android:textColor="#000000"
+                    android:textSize="12sp" />
+
+                <TextView
+                    android:id="@+id/textView_hrv_av"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/hrv_chinese"
+                    android:layout_centerHorizontal="true"
+                    android:text="@string/ecg_float_zero"
+                    android:textColor="#000000"
+                    android:textSize="28sp" />
+
+                <TextView
+                    android:id="@+id/textView_hr_av2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/textView_hrv_av"
+                    android:layout_centerHorizontal="true"
+                    android:text="@string/ecg_my_avg"
+                    android:textColor="#000000"
+                    android:textSize="10sp"
+                    tools:ignore="SmallSp" />
+            </RelativeLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="140dp"
+            android:background="@drawable/bg_his_ecg"
+            android:baselineAligned="false"
+            android:gravity="center_vertical"
+            android:orientation="horizontal"
+            android:padding="18dp" >
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="90dip"
+                android:background="@drawable/ecg_mood_detaillogo"
+                android:gravity="left"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:id="@+id/textView_stress"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="2dp"
+                    android:layout_marginTop="35dp"
+                    android:gravity="center_horizontal"
+                    android:minWidth="40dp"
+                    android:text="@string/ecg_int_zero"
+                    android:textColor="#000000"
+                    android:textSize="28sp" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/ll_ecg_mood"
+                android:layout_width="0dp"
+                android:layout_height="90dip"
+                android:layout_weight="1"
+                android:orientation="horizontal"
+                android:paddingLeft="5dp" >
+
+                <org.xclcharts.views.StaticSplineChartView
+                    android:id="@+id/chart_mood"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent" />
+            </LinearLayout>
+
+            <RelativeLayout
+                android:layout_width="wrap_content"
+                android:layout_height="90dp"
+                android:paddingTop="15dp" >
+
+                <TextView
+                    android:id="@+id/stress_chinese"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerHorizontal="true"
+                    android:text="@string/ecg_pressure"
+                    android:textColor="#000000"
+                    android:textSize="12sp" />
+
+                <TextView
+                    android:id="@+id/textView_stress_av"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/stress_chinese"
+                    android:layout_centerHorizontal="true"
+                    android:text="@string/ecg_float_zero"
+                    android:textColor="#000000"
+                    android:textSize="28sp" />
+
+                <TextView
+                    android:id="@+id/textView_hr_av3"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/textView_stress_av"
+                    android:layout_centerHorizontal="true"
+                    android:text="@string/ecg_my_avg"
+                    android:textColor="#000000"
+                    android:textSize="10sp"
+                    tools:ignore="SmallSp" />
+            </RelativeLayout>
+        </LinearLayout>
+    </LinearLayout>
+
+</ScrollView>

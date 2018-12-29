@@ -1,0 +1,1965 @@
+android.support.annotation.AnimRes
+android.support.annotation.AnimatorRes
+android.support.annotation.AnyRes
+android.support.annotation.ArrayRes
+android.support.annotation.AttrRes
+android.support.annotation.BoolRes
+android.support.annotation.ColorRes
+android.support.annotation.DimenRes
+android.support.annotation.DrawableRes
+android.support.annotation.FractionRes
+android.support.annotation.IdRes
+android.support.annotation.IntDef
+android.support.annotation.IntegerRes
+android.support.annotation.InterpolatorRes
+android.support.annotation.LayoutRes
+android.support.annotation.MenuRes
+android.support.annotation.NonNull
+android.support.annotation.Nullable
+android.support.annotation.PluralsRes
+android.support.annotation.RawRes
+android.support.annotation.StringDef
+android.support.annotation.StringRes
+android.support.annotation.StyleRes
+android.support.annotation.StyleableRes
+android.support.annotation.XmlRes
+cmccsi.mhealth.app.sports.BuildConfig
+cmccsi.mhealth.app.sports.R:
+    10:10:public R()
+cmccsi.mhealth.app.sports.activity.CampaignContentActivity_new:
+    protected static final java.lang.String TAG
+cmccsi.mhealth.app.sports.activity.CampaignViewFragment_new:
+    private static final int SUCCESS
+    private static final int FAIL
+    149:149:public java.lang.String getmPhonenum()
+    157:157:public java.lang.String getmPassword()
+    165:165:public int getClubId()
+cmccsi.mhealth.app.sports.activity.FirmwareDownloadProgressActivity:
+    private static final java.lang.String TAG
+    private static final int DOWNLOAD_SUCCESSED
+    private static final int DOWNLOAD_FAILED
+    private static final int DOWNLOAD_PRCENT
+    private static final int DOWNLOAD_SET_SIZE
+    int internet
+    249:253:private void delFile(java.lang.String)
+cmccsi.mhealth.app.sports.activity.FirmwareUpdateProgressActivity:
+    private static final java.lang.String TAG
+    private static final int REQUEST_ENABLE_BT
+cmccsi.mhealth.app.sports.activity.HandAddContactActivity:
+    private static final java.lang.String TAG
+cmccsi.mhealth.app.sports.activity.MainFragmentActivity:
+    public static final int TAB_HEALTH
+    public static final int TAB_CORPORATION
+    public static final int TAB_PLAY
+cmccsi.mhealth.app.sports.activity.MainFragmentActivity$FragmentAdapter:
+    public static final int TAB_COUNT
+cmccsi.mhealth.app.sports.activity.MainFragmentActivity2:
+    public static final int TAB_HEALTH
+    public static final int TAB_CORPORATION
+    public static final int TAB_PLAY
+cmccsi.mhealth.app.sports.activity.MainFragmentActivity2$FragmentAdapter:
+    public static final int TAB_COUNT
+cmccsi.mhealth.app.sports.activity.MapListGPSFragment:
+    protected static final int SUCCESS
+    314:336:private void showAskDialog(int)
+    313:313:static synthetic void access$3(cmccsi.mhealth.app.sports.activity.MapListGPSFragment,int)
+    1:1:static synthetic void access$6(cmccsi.mhealth.app.sports.activity.MapListGPSFragment,java.lang.String)
+    310:310:static synthetic java.util.List access$7(cmccsi.mhealth.app.sports.activity.MapListGPSFragment)
+    35:35:static synthetic android.support.v4.app.FragmentActivity access$8(cmccsi.mhealth.app.sports.activity.MapListGPSFragment)
+cmccsi.mhealth.app.sports.activity.MapListGPSFragment$2
+cmccsi.mhealth.app.sports.activity.MapListGPSFragment$myOnItemlongClickListener
+cmccsi.mhealth.app.sports.activity.MapSelectTRunType$MapTypeAdapter:
+    public static final java.lang.String KEY_IMGRES
+    public static final java.lang.String KEY_NAME
+cmccsi.mhealth.app.sports.activity.MapStartRunningFragment:
+    private static final java.lang.String TAG
+    protected static final int TIME_CHANGE
+    private static final int NOTIFICATION
+    private com.baidu.mapapi.map.InfoWindow mInfoWindow
+    124:124:public void setType(java.lang.String)
+    386:398:public boolean isServiceRunning(android.content.Context,java.lang.String)
+    529:550:private void setOnMarkClickListener()
+    561:561:private int getWalkDistance()
+    1021:1022:private void restartService()
+    104:104:static synthetic com.baidu.mapapi.map.Marker access$12(cmccsi.mhealth.app.sports.activity.MapStartRunningFragment)
+    552:552:static synthetic int access$13(cmccsi.mhealth.app.sports.activity.MapStartRunningFragment)
+    105:105:static synthetic void access$14(cmccsi.mhealth.app.sports.activity.MapStartRunningFragment,com.baidu.mapapi.map.InfoWindow)
+    105:105:static synthetic com.baidu.mapapi.map.InfoWindow access$15(cmccsi.mhealth.app.sports.activity.MapStartRunningFragment)
+    103:103:static synthetic com.baidu.mapapi.map.Marker access$16(cmccsi.mhealth.app.sports.activity.MapStartRunningFragment)
+cmccsi.mhealth.app.sports.activity.MapStartRunningFragment$5
+cmccsi.mhealth.app.sports.activity.MapViewOrbitFragment:
+    private static final int handl_showData
+    181:216:private void drawLine(java.util.List)
+cmccsi.mhealth.app.sports.activity.MatchContactActivity:
+    private static final java.lang.String TAG
+cmccsi.mhealth.app.sports.activity.OpinionListActivity:
+    private static final int error1
+    private static final int error2
+    private static final int success
+cmccsi.mhealth.app.sports.activity.OpinionListActivity$GetNetMsgThread:
+    197:197:public boolean isThreadRuning()
+cmccsi.mhealth.app.sports.activity.OpinionNewActivity:
+    private static final int error1
+    private static final int error2
+    private static final int success
+cmccsi.mhealth.app.sports.activity.OpinionNewActivity$PutNetMsgThread:
+    166:166:public boolean isThreadRuning()
+cmccsi.mhealth.app.sports.activity.PreLoadAPKUpdateProgressActivity:
+    int internet
+    279:283:private void delFile(java.lang.String)
+cmccsi.mhealth.app.sports.activity.PreLoadActivity:
+    private static final java.lang.String INTENT_ACCOUNT_INFO
+    private static final java.lang.String TAG
+    private static final int WHAT_LOAD_FINISHED
+    private boolean bNewInsatall
+    157:174:private void showDialog()
+    177:178:private void exit()
+    176:176:static synthetic void access$8(cmccsi.mhealth.app.sports.activity.PreLoadActivity)
+cmccsi.mhealth.app.sports.activity.PreLoadActivity$3
+cmccsi.mhealth.app.sports.activity.PreLoadActivity$4
+cmccsi.mhealth.app.sports.activity.PreLoadForgetPwdActivity:
+    private static final java.lang.String TAG
+    private java.lang.String mStatus
+    private java.lang.String mTempCode
+    private java.lang.String mNewPwd
+    private int mResultNet
+    private static final int timeHandlerInt
+    private static final int error1
+    private static final int error2
+    private static final int error3
+    private static final int error4
+    private static final int ok
+    private static final int error5
+cmccsi.mhealth.app.sports.activity.PreLoadResetPwdActivity:
+    private static final java.lang.String TAG
+    private java.lang.String mPhoneNum
+    private java.lang.String mStatus
+    private java.lang.String mTempCode
+    protected java.lang.String mResultStatus
+    private static final int error1
+    private static final int error2
+    private static final int error3
+    private static final int error4
+    private static final int error5
+cmccsi.mhealth.app.sports.activity.RankingActivity:
+    public static final java.lang.String ARGUMENTS_RANK
+    public static final java.lang.String ISAREARANK
+    public static final java.lang.String RANK_AREA
+    public static final java.lang.String RANK_GROUP
+cmccsi.mhealth.app.sports.activity.SettingArea:
+    private static final int AREA_TYPE_PROVINCE
+    private static final int AREA_TYPE_CITY
+    private static final int AREA_TYPE_COUNTY
+    private static final int SAVE_STATUS_SUCCESS
+    private static final int SAVE_STATUS_FAIL
+cmccsi.mhealth.app.sports.activity.WebViewActivity:
+    private static final java.lang.String TAG
+    148:150:public void aMessage(java.lang.String)
+    153:154:public void clickOnAndroid()
+    191:198:public void finsh()
+cmccsi.mhealth.app.sports.activity.avatar.CropImageActivity:
+    private static final boolean RECYCLE_INPUT
+cmccsi.mhealth.app.sports.activity.avatar.CropImageView:
+    49:54:protected void zoomIn()
+    58:63:protected void zoomOut()
+cmccsi.mhealth.app.sports.activity.avatar.CropUtil:
+    22:22:public CropUtil()
+cmccsi.mhealth.app.sports.activity.avatar.HighlightView:
+    private static final java.lang.String TAG
+    public static final int GROW_NONE
+    public static final int GROW_LEFT_EDGE
+    public static final int GROW_RIGHT_EDGE
+    public static final int GROW_TOP_EDGE
+    public static final int GROW_BOTTOM_EDGE
+    public static final int MOVE
+    71:72:public void setHidden(boolean)
+cmccsi.mhealth.app.sports.activity.avatar.ImageViewTouchBase:
+    private static final java.lang.String TAG
+    protected int mLastXTouchPos
+    protected int mLastYTouchPos
+    static final float SCALE_RATE
+    349:354:protected void zoomToPoint(float,float,float)
+    357:358:protected void zoomIn()
+    361:362:protected void zoomOut()
+    365:377:protected void zoomIn(float)
+    380:400:protected void zoomOut(float)
+cmccsi.mhealth.app.sports.activity.avatar.RotateBitmap:
+    public static final java.lang.String TAG
+    32:35:public RotateBitmap(android.graphics.Bitmap,int)
+    90:94:public void recycle()
+cmccsi.mhealth.app.sports.adapter.ActivityRankListAdapter
+cmccsi.mhealth.app.sports.adapter.ActivityRankListAdapter$ViewHolder
+cmccsi.mhealth.app.sports.adapter.ArrayListAdapter:
+    protected android.widget.ListView mListView
+    public abstract android.view.View getView(int,android.view.View,android.view.ViewGroup)
+    56:56:public java.util.List getList()
+    60:70:public void setList(java.lang.Object[])
+    73:73:public android.widget.ListView getListView()
+    77:78:public void setListView(android.widget.ListView)
+    81:83:public void removeList()
+    86:86:public android.content.Context getContext()
+cmccsi.mhealth.app.sports.adapter.CommonAutoCompleteAdapter
+cmccsi.mhealth.app.sports.adapter.CommonAutoCompleteAdapter$ArrayFilter
+cmccsi.mhealth.app.sports.adapter.CommonAutoCompleteAdapter$ViewHolder
+cmccsi.mhealth.app.sports.adapter.CommonFragmentPagerAdapter:
+    13:14:public CommonFragmentPagerAdapter(android.support.v4.app.FragmentManager)
+    17:19:public CommonFragmentPagerAdapter(android.support.v4.app.FragmentManager,java.util.ArrayList)
+cmccsi.mhealth.app.sports.adapter.GPSXListViewAdapter:
+    private static final java.lang.String TAG
+cmccsi.mhealth.app.sports.adapter.OpinionListAdapter:
+    38:42:public void clearDeviceList()
+cmccsi.mhealth.app.sports.adapter.RaceDetailAdapter
+cmccsi.mhealth.app.sports.adapter.RaceDetailAdapter$Holder
+cmccsi.mhealth.app.sports.adapter.RaceInvitedAdapter
+cmccsi.mhealth.app.sports.adapter.RaceInvitedAdapter$ViewHolder
+cmccsi.mhealth.app.sports.appversion.AddDeviceActivity:
+    private static final java.lang.String TAG
+    private static final long SCAN_PERIOD
+    private static final long BLE_TYPE_PERIOD
+    private static final int REQUEST_ENABLE_BT
+cmccsi.mhealth.app.sports.appversion.AddDeviceActivity$6:
+    600:600:public void realTimeEKGDataReceived(int,java.lang.Object)
+cmccsi.mhealth.app.sports.appversion.MResource
+cmccsi.mhealth.app.sports.appversion.OpinionInstance:
+    25:25:public java.lang.String getFeedbackId()
+    33:33:public int getFeedbackTypeDict()
+    115:122:public static cmccsi.mhealth.app.sports.appversion.OpinionInstance paseGetFeedbackList(java.lang.String)
+cmccsi.mhealth.app.sports.appversion.PreLoadLoginActivity:
+    private static final int WHAT_LOAD_FINISHED
+    257:276:private void loadContect(java.lang.String,java.lang.String,java.lang.String)
+    62:62:static synthetic java.lang.String access$12()
+cmccsi.mhealth.app.sports.appversion.PreLoadLoginActivity$7
+cmccsi.mhealth.app.sports.appversion.RegisteActivity:
+    private static final int timeHandlerInt
+    private static final int error1
+    private static final int error2
+    private static final int error3
+    private static final int error4
+    private static final int ok
+    private static final int error5
+    private static final int error6
+cmccsi.mhealth.app.sports.appversion.SettingFragmentApp:
+    protected static final java.lang.String TAG
+    private android.widget.TextView mTextViewSettingWeight
+    private android.widget.TextView mTextViewSettingStepLen
+    private java.lang.String mMembername
+    private android.widget.TextView mTextViewNewPwd
+    private static final int IMAGE_REQUEST_CODE
+    private static final int CAPTURE_IMAGE_ACTIVITY_REQUEST_CODE
+    private static final int PHOTO_CROP_REQUEST_CODE
+    private static final int AREA_SETTING_ACTIVITY_REQUEST_CODE
+    protected static final int TO_UPLOAD_FILE
+    protected static final int UPLOAD_FILE_DONE
+    private static final int UPLOAD_IN_PROCESS
+    private static final int UPLOAD_INIT_PROCESS
+    private android.widget.LinearLayout mLinearLayoutHeight
+    private android.widget.LinearLayout mLinearLayoutTargetWeight
+    183:185:public SettingFragmentApp(int)
+cmccsi.mhealth.app.sports.appversion.WebReader:
+    27:27:public WebReader()
+cmccsi.mhealth.app.sports.appversion.WebServiceManage:
+    25:25:public WebServiceManage()
+cmccsi.mhealth.app.sports.basic.AuthUtl
+cmccsi.mhealth.app.sports.basic.Base64:
+    public static final boolean ENCODE
+    public static final boolean DECODE
+    private static final int MAX_LINE_LENGTH
+    private static final byte EQUALS_SIGN
+    private static final byte NEW_LINE
+    private static final byte WHITE_SPACE_ENC
+    private static final byte EQUALS_SIGN_ENC
+    51:52:private Base64()
+    55:57:public static byte[] decode(java.lang.String)
+    62:115:public static byte[] decode(byte[],int,int)
+    120:154:public static java.lang.Object decodeToObject(java.lang.String)
+    161:161:public static java.lang.String decodeToString(java.lang.String)
+    210:246:public static java.lang.String encodeObject(java.io.Serializable)
+    251:251:public static java.lang.String encodeString(java.lang.String,boolean)
+    256:288:public static void main(java.lang.String[])
+    294:302:private static byte[] decode4to3(byte[])
+    308:338:private static int decode4to3(byte[],int,byte[],int)
+    353:356:private static byte[] encode3to4(byte[],int)
+    359:359:static synthetic byte[] access$0(byte[],int,int,byte[],int)
+    24:24:static synthetic byte[] access$1()
+    305:305:static synthetic int access$2(byte[],int,byte[],int)
+    352:352:static synthetic byte[] access$3(byte[],int)
+    293:293:static synthetic byte[] access$4(byte[])
+cmccsi.mhealth.app.sports.basic.Base64$InputStream
+cmccsi.mhealth.app.sports.basic.Base64$OutputStream
+cmccsi.mhealth.app.sports.basic.BaseFragment:
+    private static final java.lang.String TAG
+    153:178:public org.achartengine.renderer.XYMultipleSeriesRenderer getBarRenderer()
+    225:226:public void setOnFragmentDestroyListener(cmccsi.mhealth.app.sports.basic.BaseFragment$OnFragmentDestroyListener)
+    229:231:public java.lang.String getMyName()
+    235:235:public java.lang.String getAvater()
+    240:240:public java.lang.String getPhoneNum()
+    245:245:public java.lang.String getGender()
+cmccsi.mhealth.app.sports.basic.BaseWebViewFragment:
+    private static android.webkit.WebView rootWebView
+    protected java.lang.String rootURL
+    17:70:protected void logicMethod()
+    protected abstract android.webkit.WebView setWebView()
+    protected abstract java.lang.String setURL()
+    77:80:protected android.webkit.WebView getWebView()
+    85:86:public void javaCallJS()
+    90:91:public void javaCallJS(java.lang.String)
+    94:94:public void jsCallJava()
+    97:97:public void jsCallJava(java.lang.String)
+cmccsi.mhealth.app.sports.basic.BaseWebViewFragment$1
+cmccsi.mhealth.app.sports.basic.SampleFragment:
+    protected static final java.lang.String TAG
+    protected java.lang.String mTitle
+cmccsi.mhealth.app.sports.basic.WebAppInterface
+cmccsi.mhealth.app.sports.bean.ActivityDetailData
+cmccsi.mhealth.app.sports.bean.ActivityDetailMessageInfo
+cmccsi.mhealth.app.sports.bean.ActivityInfo:
+    62:63:public void initialData()
+    66:84:private void sortGroupPkInfo()
+cmccsi.mhealth.app.sports.bean.ActivityMedalInfo
+cmccsi.mhealth.app.sports.bean.AreaInfo:
+    18:21:public AreaInfo(int,java.lang.String)
+    29:30:public void setOrgId(int)
+    35:36:public void setOrgName(java.lang.String)
+cmccsi.mhealth.app.sports.bean.AuthUser:
+    private java.lang.String userName
+    private java.lang.String userPassword
+    private java.lang.String userNickName
+    private java.lang.String userIdCardNumber
+    private java.lang.String userGender
+    private java.lang.String userGenderDict
+    private java.util.Date userBirthday
+    private java.lang.String userNation
+    private java.lang.String userNationDict
+    private java.lang.String userNationality
+    private java.lang.String userNationalityDict
+    private java.lang.String userWedlock
+    private java.lang.String userWedlockDict
+    private java.lang.String userReligion
+    private java.lang.String userReligionDict
+    private java.lang.String userEducation
+    private java.lang.String userEducationDict
+    private java.lang.String userEmail
+    private java.lang.String userTelephoneNumber
+    private java.lang.String userPreferredMobile
+    private java.lang.String userPostalAddress
+    private java.lang.String userPostalCode
+    private java.lang.String userFaxNumber
+    private java.lang.String userQq
+    private java.lang.String userLocationProvince
+    private java.lang.String userLocationCity
+    private java.lang.String userLocationArea
+    private java.lang.String userLocationStreet
+    private java.lang.String userCompany
+    private java.lang.String userDepart
+    private java.lang.String userRemark
+    private java.lang.String userTag
+    private java.lang.String userUsertype
+    private java.lang.String userUsertypeDict
+    private java.lang.String userPic
+    private java.lang.String userSignature
+    private java.lang.String userDescription
+    private java.util.Date userAccountRegistertime
+    private java.util.Date userAccountEndtime
+    private java.lang.String userStatus
+    private java.lang.String userStatusDict
+    private java.util.Date userPwdModifiedDate
+    private java.util.Date lastLoginTime
+    private java.lang.Integer createUserId
+    private java.util.Date createTime
+    private java.lang.Integer updateUserId
+    private java.util.Date updateTime
+    private java.lang.String passwordModifyFlag
+    private java.lang.String operateState
+    private java.lang.String userExtensions
+    270:271:public void setUserId(java.lang.Integer)
+    274:274:public java.lang.String getUserName()
+    278:279:public void setUserName(java.lang.String)
+    286:287:public void setUserUid(java.lang.String)
+    290:290:public java.lang.String getUserPassword()
+    294:295:public void setUserPassword(java.lang.String)
+    298:298:public java.lang.String getUserNickName()
+    302:303:public void setUserNickName(java.lang.String)
+    306:306:public java.lang.String getUserIdCardNumber()
+    310:311:public void setUserIdCardNumber(java.lang.String)
+    314:314:public java.lang.String getUserGender()
+    318:319:public void setUserGender(java.lang.String)
+    322:322:public java.lang.String getUserGenderDict()
+    326:327:public void setUserGenderDict(java.lang.String)
+    330:330:public java.util.Date getUserBirthday()
+    334:335:public void setUserBirthday(java.util.Date)
+    338:338:public java.lang.String getUserNation()
+    342:343:public void setUserNation(java.lang.String)
+    346:346:public java.lang.String getUserNationDict()
+    350:351:public void setUserNationDict(java.lang.String)
+    354:354:public java.lang.String getUserNationality()
+    358:359:public void setUserNationality(java.lang.String)
+    362:362:public java.lang.String getUserNationalityDict()
+    366:367:public void setUserNationalityDict(java.lang.String)
+    370:370:public java.lang.String getUserWedlock()
+    374:375:public void setUserWedlock(java.lang.String)
+    378:378:public java.lang.String getUserWedlockDict()
+    382:383:public void setUserWedlockDict(java.lang.String)
+    386:386:public java.lang.String getUserReligion()
+    390:391:public void setUserReligion(java.lang.String)
+    394:394:public java.lang.String getUserReligionDict()
+    398:399:public void setUserReligionDict(java.lang.String)
+    402:402:public java.lang.String getUserEducation()
+    406:407:public void setUserEducation(java.lang.String)
+    410:410:public java.lang.String getUserEducationDict()
+    414:415:public void setUserEducationDict(java.lang.String)
+    418:418:public java.lang.String getUserEmail()
+    422:423:public void setUserEmail(java.lang.String)
+    426:426:public java.lang.String getUserTelephoneNumber()
+    430:431:public void setUserTelephoneNumber(java.lang.String)
+    434:434:public java.lang.String getUserPreferredMobile()
+    438:439:public void setUserPreferredMobile(java.lang.String)
+    442:442:public java.lang.String getUserPostalAddress()
+    446:447:public void setUserPostalAddress(java.lang.String)
+    450:450:public java.lang.String getUserPostalCode()
+    454:455:public void setUserPostalCode(java.lang.String)
+    458:458:public java.lang.String getUserFaxNumber()
+    462:463:public void setUserFaxNumber(java.lang.String)
+    466:466:public java.lang.String getUserQq()
+    470:471:public void setUserQq(java.lang.String)
+    474:474:public java.lang.String getUserLocationProvince()
+    478:479:public void setUserLocationProvince(java.lang.String)
+    482:482:public java.lang.String getUserLocationCity()
+    486:487:public void setUserLocationCity(java.lang.String)
+    490:490:public java.lang.String getUserLocationArea()
+    494:495:public void setUserLocationArea(java.lang.String)
+    498:498:public java.lang.String getUserLocationStreet()
+    502:503:public void setUserLocationStreet(java.lang.String)
+    506:506:public java.lang.String getUserCompany()
+    510:511:public void setUserCompany(java.lang.String)
+    514:514:public java.lang.String getUserDepart()
+    518:519:public void setUserDepart(java.lang.String)
+    522:522:public java.lang.String getUserRemark()
+    526:527:public void setUserRemark(java.lang.String)
+    530:530:public java.lang.String getUserTag()
+    534:535:public void setUserTag(java.lang.String)
+    538:538:public java.lang.String getUserUsertype()
+    542:543:public void setUserUsertype(java.lang.String)
+    546:546:public java.lang.String getUserUsertypeDict()
+    550:551:public void setUserUsertypeDict(java.lang.String)
+    554:554:public java.lang.String getUserPic()
+    558:559:public void setUserPic(java.lang.String)
+    562:562:public java.lang.String getUserSignature()
+    566:567:public void setUserSignature(java.lang.String)
+    570:570:public java.lang.String getUserDescription()
+    574:575:public void setUserDescription(java.lang.String)
+    578:578:public java.util.Date getUserAccountRegistertime()
+    582:583:public void setUserAccountRegistertime(java.util.Date)
+    586:586:public java.util.Date getUserAccountEndtime()
+    590:591:public void setUserAccountEndtime(java.util.Date)
+    594:594:public java.lang.String getUserStatus()
+    598:599:public void setUserStatus(java.lang.String)
+    602:602:public java.lang.String getUserStatusDict()
+    606:607:public void setUserStatusDict(java.lang.String)
+    610:610:public java.util.Date getUserPwdModifiedDate()
+    614:615:public void setUserPwdModifiedDate(java.util.Date)
+    618:618:public java.util.Date getLastLoginTime()
+    622:623:public void setLastLoginTime(java.util.Date)
+    626:626:public java.lang.Integer getCreateUserId()
+    630:631:public void setCreateUserId(java.lang.Integer)
+    634:634:public java.util.Date getCreateTime()
+    638:639:public void setCreateTime(java.util.Date)
+    642:642:public java.lang.Integer getUpdateUserId()
+    646:647:public void setUpdateUserId(java.lang.Integer)
+    650:650:public java.util.Date getUpdateTime()
+    654:655:public void setUpdateTime(java.util.Date)
+    658:658:public java.lang.String getPasswordModifyFlag()
+    662:663:public void setPasswordModifyFlag(java.lang.String)
+    666:666:public java.lang.String getOperateState()
+    670:671:public void setOperateState(java.lang.String)
+    674:674:public java.lang.String getUserExtensions()
+    678:679:public void setUserExtensions(java.lang.String)
+cmccsi.mhealth.app.sports.bean.BackInfo:
+    41:41:public java.lang.String getMessage()
+    45:46:public void setMessage(java.lang.String)
+cmccsi.mhealth.app.sports.bean.ClubData
+cmccsi.mhealth.app.sports.bean.ClubListInfo
+cmccsi.mhealth.app.sports.bean.CommonBottomMenuItem:
+    15:15:public int getId()
+    19:20:public void setId(int)
+    27:28:public void setMenuName(java.lang.String)
+    35:36:public void setMenuIcon(int)
+cmccsi.mhealth.app.sports.bean.CommonUserSearchInfos
+cmccsi.mhealth.app.sports.bean.ContactInfo:
+    19:26:public ContactInfo(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,boolean)
+    27:32:public ContactInfo(java.lang.String,java.lang.String,java.lang.String,java.lang.String)
+    40:41:public void setUserid(java.lang.String)
+    43:43:public java.lang.String getUid()
+    46:47:public void setUid(java.lang.String)
+cmccsi.mhealth.app.sports.bean.ContectData
+cmccsi.mhealth.app.sports.bean.ContectGroupData
+cmccsi.mhealth.app.sports.bean.ContectGroupInfo
+cmccsi.mhealth.app.sports.bean.ContectInfo
+cmccsi.mhealth.app.sports.bean.DataDetailPedo:
+    39:44:public int getStepNumSum()
+    48:55:public int getSNYXP5Sum()
+    67:86:public int getStrengthSum(int)
+cmccsi.mhealth.app.sports.bean.DataECG:
+    23:27:public DataECG(java.lang.String)
+    37:61:public int compareCreatetime(cmccsi.mhealth.app.sports.bean.DataECG)
+cmccsi.mhealth.app.sports.bean.DataPedometor
+cmccsi.mhealth.app.sports.bean.DetailGPSData:
+    public java.lang.String dataType
+    public java.lang.String phoneNum
+cmccsi.mhealth.app.sports.bean.DeviceTypeInfo:
+    16:25:public DeviceTypeInfo(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)
+    28:28:public java.lang.String getProductPara()
+    32:33:public void setProductPara(java.lang.String)
+    36:36:public java.lang.String getProductName()
+    40:41:public void setProductName(java.lang.String)
+    44:45:public void setProductPic(java.lang.String)
+    48:48:public java.lang.String getProductAppTag()
+    52:53:public void setProductAppTag(java.lang.String)
+    56:56:public java.lang.String getProductDesc()
+    60:61:public void setProductDesc(java.lang.String)
+    64:64:public java.lang.String getIsBtDevice()
+    68:69:public void setIsBtDevice(java.lang.String)
+    72:72:public java.lang.String getProductPic()
+    76:76:public java.lang.String getBtPrefix()
+    80:81:public void setBtPrefix(java.lang.String)
+cmccsi.mhealth.app.sports.bean.ECGSummary:
+    80:100:public int compareDate(cmccsi.mhealth.app.sports.bean.ECGSummary)
+cmccsi.mhealth.app.sports.bean.GPSListInfo:
+    103:115:public GPSListInfo(android.os.Parcel)
+cmccsi.mhealth.app.sports.bean.GoalInfo:
+    private static final int ESTIMATERATE
+    private static final long KILOMETER
+    private static final int HOUR_PASS_LINE
+    private static final int HOURS_PER_DAY
+    75:75:public long getRemainDays()
+    79:79:public double getLatestRate()
+    83:83:public double getCurrentDistance()
+    87:87:public long getCircleNum()
+cmccsi.mhealth.app.sports.bean.Group1Info:
+    public java.lang.String step
+    public java.lang.String distant
+    public java.lang.String calory
+    public java.lang.String complianceday
+cmccsi.mhealth.app.sports.bean.Group7Info:
+    public java.lang.String step
+    public java.lang.String distant
+    public java.lang.String calory
+    public java.lang.String complianceday
+cmccsi.mhealth.app.sports.bean.GroupIdInfo
+cmccsi.mhealth.app.sports.bean.GroupInfo
+cmccsi.mhealth.app.sports.bean.GroupMemberInfo
+cmccsi.mhealth.app.sports.bean.GroupMemberPkInfo
+cmccsi.mhealth.app.sports.bean.GroupPkInfo
+cmccsi.mhealth.app.sports.bean.GroupRankInfo
+cmccsi.mhealth.app.sports.bean.GroupRankUpdateVersion
+cmccsi.mhealth.app.sports.bean.JsonResult:
+    private cmccsi.mhealth.app.sports.bean.PageInfo pageInfo
+    private java.util.Date syncDate
+    private java.util.List dataList
+    43:44:public void setResultCode(java.lang.String)
+    47:47:public java.lang.String getResultMsg()
+    51:52:public void setResultMsg(java.lang.String)
+    55:55:public cmccsi.mhealth.app.sports.bean.PageInfo getPageInfo()
+    59:60:public void setPageInfo(cmccsi.mhealth.app.sports.bean.PageInfo)
+    67:68:public void setData(java.lang.Object)
+    71:71:public java.util.List getDataList()
+    75:76:public void setDataList(java.util.List)
+    79:79:public java.util.Map getDataMap()
+    83:84:public void setDataMap(java.util.Map)
+    87:87:public java.util.Date getSyncDate()
+    91:92:public void setSyncDate(java.util.Date)
+cmccsi.mhealth.app.sports.bean.ListActivity:
+    63:78:public int compare(cmccsi.mhealth.app.sports.bean.ListActivity)
+cmccsi.mhealth.app.sports.bean.LoginInterfase
+cmccsi.mhealth.app.sports.bean.MedalInfo
+cmccsi.mhealth.app.sports.bean.Member1Info:
+    public java.lang.String distant
+    public java.lang.String calory
+    public java.lang.String complianceday
+cmccsi.mhealth.app.sports.bean.Member7Info:
+    public java.lang.String step
+    public java.lang.String distant
+    public java.lang.String calory
+    public java.lang.String complianceday
+cmccsi.mhealth.app.sports.bean.MenuItem
+cmccsi.mhealth.app.sports.bean.MultAddFriendsBackInfo:
+    45:45:public java.lang.String getMessage()
+    49:50:public void setMessage(java.lang.String)
+    53:53:public java.lang.String getFriendNumbers()
+    57:58:public void setFriendNumbers(java.lang.String)
+    61:61:public java.lang.String getSendNumbers()
+    65:66:public void setSendNumbers(java.lang.String)
+cmccsi.mhealth.app.sports.bean.OrgnizeMemberInfo:
+    public java.lang.String member7avgdist
+    public java.lang.String memberscore
+    public java.lang.String memberinforev2
+cmccsi.mhealth.app.sports.bean.OrgnizeMemberSum
+cmccsi.mhealth.app.sports.bean.OrgnizememSeq
+cmccsi.mhealth.app.sports.bean.PageInfo
+cmccsi.mhealth.app.sports.bean.PedoRankBriefInfo:
+    private static final long serialVersionUID
+    59:59:public int getLevel()
+    101:101:public java.lang.String getDayCount()
+    105:106:public void setDayCount(java.lang.String)
+    109:109:public java.lang.String getType()
+    113:114:public void setType(java.lang.String)
+    117:117:public int get_id()
+    121:122:public void set_id(int)
+    125:125:public java.lang.String getDate()
+    129:130:public void setDate(java.lang.String)
+    133:133:public int getRankGroup()
+    137:138:public void setRankGroup(int)
+cmccsi.mhealth.app.sports.bean.PedoRankDetailInfo:
+    private static final long serialVersionUID
+    31:41:public PedoRankDetailInfo(int,java.lang.String,java.lang.String,int,java.lang.String,java.lang.String,int,int,java.lang.String)
+    46:46:public int getRank()
+    70:70:public java.lang.String getDayCount()
+    73:74:public void setDayCount(java.lang.String)
+    76:76:public java.lang.String getType()
+    79:80:public void setType(java.lang.String)
+    82:82:public int get_id()
+    85:86:public void set_id(int)
+    88:88:public int getLevel()
+    91:92:public void setLevel(int)
+    94:94:public int getRankGroup()
+    97:98:public void setRankGroup(int)
+    100:100:public java.lang.String getDate()
+    103:104:public void setDate(java.lang.String)
+cmccsi.mhealth.app.sports.bean.PedometorInfo
+cmccsi.mhealth.app.sports.bean.RaceData:
+    26:26:public java.lang.String getRacedetail()
+    30:31:public void setRacedetail(java.lang.String)
+    34:34:public java.lang.String getStarted()
+    38:39:public void setStarted(java.lang.String)
+    42:42:public java.lang.String getRaceid()
+    46:47:public void setRaceid(java.lang.String)
+    50:50:public java.lang.String getRacename()
+    54:55:public void setRacename(java.lang.String)
+    58:58:public java.lang.String getFounderphone()
+    62:63:public void setFounderphone(java.lang.String)
+    66:66:public java.lang.String getFoundername()
+    70:71:public void setFoundername(java.lang.String)
+    74:74:public java.lang.String getStarttime()
+    78:79:public void setStarttime(java.lang.String)
+    82:82:public java.lang.String getEndtime()
+    86:87:public void setEndtime(java.lang.String)
+    90:90:public java.lang.String getType()
+    94:95:public void setType(java.lang.String)
+    98:98:public java.lang.String getMembernum()
+    102:103:public void setMembernum(java.lang.String)
+    106:106:public java.lang.String getTitlepicurl()
+    110:111:public void setTitlepicurl(java.lang.String)
+cmccsi.mhealth.app.sports.bean.RaceMemberData:
+    public java.lang.String sex
+    public java.lang.String memberstepname
+    public java.lang.String memberstepvalue
+    public java.lang.String groupname
+    public java.lang.String groupid
+    public java.lang.String memberphone
+    public java.lang.String membername
+    public java.lang.String avatar
+    public java.lang.String nickname
+    31:31:public java.lang.String getNickname()
+    38:39:public void setNickname(java.lang.String)
+    42:42:public java.lang.String getSex()
+    46:47:public void setSex(java.lang.String)
+    50:50:public java.lang.String getMemberstepname()
+    54:55:public void setMemberstepname(java.lang.String)
+    58:58:public java.lang.String getMemberstepvalue()
+    62:63:public void setMemberstepvalue(java.lang.String)
+    66:66:public java.lang.String getGroupname()
+    70:71:public void setGroupname(java.lang.String)
+    74:74:public java.lang.String getGroupid()
+    78:79:public void setGroupid(java.lang.String)
+    82:82:public java.lang.String getMemberphone()
+    86:87:public void setMemberphone(java.lang.String)
+    90:90:public java.lang.String getMembername()
+    94:95:public void setMembername(java.lang.String)
+    98:98:public java.lang.String getAvatar()
+    102:103:public void setAvatar(java.lang.String)
+    106:106:public java.lang.String getMemberseq()
+    110:111:public void setMemberseq(java.lang.String)
+cmccsi.mhealth.app.sports.bean.RankInfo:
+    15:16:public void setName(java.lang.String)
+    18:18:public int getRank()
+    21:22:public void setRank(int)
+    27:28:public void setGroup(java.lang.String)
+    30:30:public int getValue()
+    33:34:public void setValue(int)
+    36:36:public java.lang.String getUnit()
+    39:40:public void setUnit(java.lang.String)
+    42:42:public int getWcl()
+    45:46:public void setWcl(int)
+    51:52:public void setStep(int)
+cmccsi.mhealth.app.sports.bean.RankUserBean
+cmccsi.mhealth.app.sports.bean.RankingDate:
+    private static final java.lang.String TAG
+cmccsi.mhealth.app.sports.bean.RequestData:
+    27:28:public void setAvatar(java.lang.String)
+    33:34:public void setIsoldmsgs(boolean)
+    37:37:public java.lang.String getRequesttype()
+    41:42:public void setRequesttype(java.lang.String)
+    49:50:public void setRaceid(java.lang.String)
+    53:53:public java.lang.String getRacetype()
+    57:58:public void setRacetype(java.lang.String)
+    65:66:public void setPhonenum(java.lang.String)
+    73:74:public void setName(java.lang.String)
+    81:82:public void setMsg(java.lang.String)
+cmccsi.mhealth.app.sports.bean.Response
+cmccsi.mhealth.app.sports.bean.RunType:
+    10:10:public int getId()
+    14:15:public void setId(int)
+    18:18:public int getImage_type()
+    22:22:public java.lang.String getTextview_type()
+    37:47:public static cmccsi.mhealth.app.sports.bean.RunType$TYPE ID2String(int)
+cmccsi.mhealth.app.sports.bean.RunType$TYPE
+cmccsi.mhealth.app.sports.bean.ServersInfo:
+    private java.lang.String serverName
+    public java.lang.String contactfile
+    public java.lang.String groupfile
+    public java.lang.String serverversion
+    3:3:public ServersInfo()
+    10:10:public java.lang.String getServerversion()
+    14:15:public void setServerversion(java.lang.String)
+    18:18:public java.lang.String getGroupfile()
+    22:23:public void setGroupfile(java.lang.String)
+    26:26:public java.lang.String getServerName()
+    30:31:public void setServerName(java.lang.String)
+    34:34:public java.lang.String getContactfile()
+    38:39:public void setContactfile(java.lang.String)
+cmccsi.mhealth.app.sports.bean.SimplePostInfo:
+    7:7:public java.lang.String getInfo()
+    11:12:public void setInfo(java.lang.String)
+cmccsi.mhealth.app.sports.bean.TempCodeInfo
+cmccsi.mhealth.app.sports.bean.UpdateVersionJson:
+    private static final java.lang.String TAG
+    public java.lang.String inserttime
+    14:20:public UpdateVersionJson(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)
+cmccsi.mhealth.app.sports.bean.UserRankInfo
+cmccsi.mhealth.app.sports.bean.VitalSigInfoData
+cmccsi.mhealth.app.sports.bean.VitalSignInfo
+cmccsi.mhealth.app.sports.bean.VitalSignInfoDataBean
+cmccsi.mhealth.app.sports.bean.VitalSignUploadState
+cmccsi.mhealth.app.sports.bean.VitalSignUploadStateSuccess
+cmccsi.mhealth.app.sports.bean.WeightInfo
+cmccsi.mhealth.app.sports.bean.WeightInfoData
+cmccsi.mhealth.app.sports.bean.netJsonBase
+cmccsi.mhealth.app.sports.common.AlertDialogs
+cmccsi.mhealth.app.sports.common.AlertDialogs$1
+cmccsi.mhealth.app.sports.common.AlertDialogs$2
+cmccsi.mhealth.app.sports.common.AlertDialogs$3
+cmccsi.mhealth.app.sports.common.AlertDialogs$onChoicedTeamListener
+cmccsi.mhealth.app.sports.common.ArrayAccumulator
+cmccsi.mhealth.app.sports.common.CatchUserDialog
+cmccsi.mhealth.app.sports.common.CatchUserDialog$1
+cmccsi.mhealth.app.sports.common.CatchUserDialog$2
+cmccsi.mhealth.app.sports.common.CatchUserDialog$3
+cmccsi.mhealth.app.sports.common.CatchUserDialog$4
+cmccsi.mhealth.app.sports.common.CatchUserDialog$5
+cmccsi.mhealth.app.sports.common.CatchUserDialog$6
+cmccsi.mhealth.app.sports.common.CatchUserDialog$UserCapturedListener
+cmccsi.mhealth.app.sports.common.Common:
+    public static final java.lang.String COMMON_DATE_YYYYMMDD
+    private static final java.lang.String COMMON_DATE_YYYY_MM_DD_MID
+    private static final java.lang.String COMMON_DATE_YYYYdMMdDDdMID
+    private static final java.lang.String COMMON_DATE_YYYY_M_D_DOT
+    private static final java.lang.String COMMON_DATE_YYYY_HH_mm_MID
+    private static final java.lang.String COMMON_DATE_H_m
+    private static final java.lang.String COMMON_DATE_M_D_CN
+    private static final java.lang.String COMMON_DATE_M_D_CN2
+    private static final java.lang.String COMMON_DATE_M_D_CN3
+    private static final java.lang.String COMMON_DATE_YYYYMMDDHHmmss
+    private static final java.lang.String COMMON_DATE_YYYYMMDDHH
+    public static final java.lang.String COMMON_DATE_YYYY_MM_DD_MID_CREATETIME
+    private static final java.lang.String COMMON_DATE_YYYY_MM_DD_MID_SERVERTIME
+    public static final java.lang.String COMMON_DATE_HHmmss_SERVERTIME
+    106:123:public static java.lang.String FormatTimeHHmmss(int)
+    170:204:public static java.lang.String TimeFormatter(java.util.Date)
+    210:210:public static long getDateTimeFromTime(long)
+    233:234:public static java.lang.String getDateAsYYYY_MM_DD_MID(long)
+    253:271:public static java.lang.String getRankUpdateYYYYMMDD()
+    291:309:public static java.lang.String getRankUpdateYYYYMMDD_Tmp(java.lang.String)
+    326:330:public static boolean isRankUpdate(java.lang.String,java.lang.String)
+    339:340:public static java.lang.String getDateAsMMDD(long)
+    349:350:public static java.lang.String getDateAsHHmm(long)
+    364:365:public static java.lang.String getDateAsM_d2(long)
+    368:369:public static java.lang.String getDateAsM_d3(long)
+    397:404:public static long getDateFromStrDot(java.lang.String)
+    408:414:public static java.lang.String getCurrentDayLongTimeDot(long)
+    423:430:public static long getDateFromStrFromServel(java.lang.String)
+    440:442:public static java.lang.String getDateAsH_m(long)
+    448:450:public static java.lang.String Formatyyyy_MM_dd(java.lang.String)
+    469:471:public static java.lang.String FormatyyyyMMdd_MID(java.lang.String)
+    480:480:public static java.lang.String FormatCharDay()
+    484:494:public static long getDateFromYYYYMMDD(java.lang.String)
+    498:508:public static long getDateFromYYYY_MM_DD(java.lang.String)
+    512:522:public static long getDateFromYYYYMMDDHHMMSS(java.lang.String)
+    541:552:public static long getDateFromCOMMON_DATE_YYYY_MM_DD_MID(java.lang.String)
+    564:566:public static java.lang.String getYesterdayAsYYYYMMDD(long)
+    585:586:public static java.lang.String getDateAsYYYYMMDDHH(long)
+    599:600:public static java.lang.String getDateFromLongToStr(long)
+    605:607:public static java.lang.String getDateFromLongToStr(java.lang.String)
+    612:612:public static long getYesterday(long)
+    616:617:public static java.lang.String getDateFromTime(long,java.text.SimpleDateFormat)
+    627:639:public static java.lang.String getYYYYMMDDToYYYY_MM_DD(java.lang.String)
+    662:663:public static int px2dip(android.content.Context,float)
+    673:684:public static int calstrToInt(java.lang.String)
+    694:697:public static java.lang.String m2km(int)
+    707:717:public static java.lang.String m2km(java.lang.String)
+    786:795:public static java.lang.String getNumber(java.lang.String)
+    800:806:public static int getAndroidSDKVersion()
+    810:822:public static java.lang.String InputToStr(java.io.InputStream)
+    844:846:public static void collapseSoftInputMethod(android.content.Context,android.view.View)
+cmccsi.mhealth.app.sports.common.Config:
+    public static final boolean isMail
+    public static final boolean ISALONE
+    public static final java.lang.String SC_ACTION
+    public static final java.lang.String STEP_SENDING_ACTION
+    public static final java.lang.String UPLOADSTATUS_ACTION
+    public static final java.lang.String PHONESTEP_STOP_ACTION
+    public static final java.lang.String PHONESTEP_STARTUPLOAD_ACTION
+    public static final java.lang.String PHONESTEP_UPLOAD_ACTION
+    public static final java.lang.String PHONESTEP_STOP_NOSAVE_ACTION
+    private static final java.lang.String TAG
+    public static final java.lang.String UPDATE_SERVER
+    public static final java.lang.String RACE_PIC_SERVER_ROOT
+    public static final java.lang.String RACE_TITLE_PIC
+    public static final java.lang.String SERVER_NAME
+    public static final java.lang.String SERVER_NAME_LOGIN
+    public static final java.lang.String SERVER_DESTINY
+    public static final java.lang.String UPDATE_APKNAME
+    public static final java.lang.String UPDATE_VERJSON
+    public static final java.lang.String CONTACT_LIST
+    public static final java.lang.String UPDATE_SAVENAME
+    public static final java.lang.String PEDO_UPLOAD_URL
+    public static final java.lang.String ECG_UPLOAD_URL
+    34:34:public Config()
+    143:145:public static java.lang.String getAppName(android.content.Context)
+cmccsi.mhealth.app.sports.common.Constants:
+    public static final java.lang.String APP_NAME
+    public static final int DEFAULT_CLUBID
+    public static final java.lang.String APP_ID
+    public static final java.lang.String APP_ID_Alone
+    public static final int GROUP_YESTERDAY
+    public static final int GROUP_7DAY
+    public static final java.lang.String IShangPath
+    public static final java.lang.String PedoBriefActivity
+    public static final java.lang.String ListSportsHistoryActivity
+    public static final java.lang.String RankActivity
+    public static final java.lang.String RaceContentActivity
+    public static final java.lang.String SettingActivity
+    public static final long DAY_MILLSECONDS
+    public static final java.lang.String ExtraHeight
+    public static final java.lang.String ExtraWtight
+    public static final java.lang.String NOTIFI_FLAG
+    public static final java.lang.String SERVICE_RUNNING_NAME
+    public static final int RANK_SELECT_PK
+    public static final int SUCCESS
+    public static final int FAIL
+    public static final int NODATA
+    public static boolean OPENED
+    public static final int MESSAGE_LOGIN_SUCCESS
+    public static final int MESSAGE_LOGIN_FALSE
+    public static final int MESSAGE_CUSTOMER_INFO_EXCEPTION
+    public static final int MESSAGE_PASSWORD_ERROE
+    public static final int MESSAGE_NOT_ACTIVITY
+    public static final int MESSAGE_PHONE_PASSWORD_EXCEPTION
+    public static final int MESSAGE_PHONE_ERROR
+    public static final int MESSAGE_PHONE_ISEMPTY
+    public static final int MESSAGE_PASSWORD_ISEMPTY
+    public static final int MESSAGE_PASSWORD_ISTOOLEN
+    public static final int MESSAGE_PHONE_ISTOOLEN
+    public static final int MESSAGE_NO_PEDO_DETAIL
+    public static final int MESSAGE_INTERNET_NONE
+    public static final int MESSAGE_INTERNET_ERROR
+    public static final int MESSAGE_SERVER_EXCEPTION
+    public static final int MESSAGE_SERVER_EXCEPTION2
+    public static final int MESSAGE_SERVER_EXCEPTION3
+    public static final int MESSAGE_UPDATE_SUCCESS
+    public static final int MESSAGE_UPDATE_FALSE
+    public static final int MESSAGE_UPDATED_VERSION
+    public static final int MESSAGE_UPDATE_PWD_SUCCESS
+    public static final int MESSAGE_CROP_FAILED
+    public static final int MESSAGE_AVARAR_SET_SUCCESS
+    public static final int MESSAGE_COMFIRM_FAIL
+    public static final int MESSAGE_PLS_INPUT_CODE
+    public static final int MESSAGE_GET_SERVERLIST_FAILED
+    public static final java.lang.String PEDOMEOTR_FOOD_CANDY
+    public static final java.lang.String PEDOMEOTR_FOOD_CHOCOLATES
+    public static final java.lang.String PEDOMEOTR_FOOD_CHICHEN_LEG
+    public static final java.lang.String PEDOMEOTR_FOOD_PIZZA
+    5:5:public Constants()
+cmccsi.mhealth.app.sports.common.ConstantsBitmaps:
+    8:8:public ConstantsBitmaps()
+cmccsi.mhealth.app.sports.common.CustomHttpClient:
+    private static final java.lang.String CHARSET_UTF8
+    private static final java.lang.String CHARSET_GB2312
+    40:42:private CustomHttpClient()
+    83:109:public static varargs java.lang.String getFromWebByHttpClient(java.lang.String,org.apache.http.NameValuePair[])
+cmccsi.mhealth.app.sports.common.Encrypt:
+    10:10:public Encrypt()
+cmccsi.mhealth.app.sports.common.GetWindowBitmap:
+    15:15:public GetWindowBitmap()
+    74:87:private static void savePic(android.graphics.Bitmap,java.lang.String)
+    91:92:public static void shoot(android.app.Activity,android.view.View)
+cmccsi.mhealth.app.sports.common.HttpUtils:
+    7:7:public HttpUtils()
+    16:16:public static varargs java.lang.String getByHttpClient(java.lang.String,org.apache.http.NameValuePair[])
+cmccsi.mhealth.app.sports.common.ImageUtil:
+    protected static final java.lang.String TAG
+    private static final int HARD_CACHE_CAPACITY
+    android.graphics.drawable.BitmapDrawable bd
+    395:406:public static android.graphics.Bitmap zoomImage(android.graphics.Bitmap,double,double)
+    416:420:private static void deleteImageFromLocal(java.lang.String)
+    456:458:public static byte[] Bitmap2Bytes(android.graphics.Bitmap)
+    462:484:public static android.graphics.Bitmap toConformBitmap(android.graphics.Bitmap,android.graphics.Bitmap)
+    583:602:private static void formatSrcBitmap(android.graphics.Bitmap,android.graphics.Bitmap)
+    652:661:public void saveFile(android.graphics.Bitmap,java.lang.String,java.lang.String)
+cmccsi.mhealth.app.sports.common.ImageUtil$1:
+    private static final long serialVersionUID
+cmccsi.mhealth.app.sports.common.ImageUtil$DownloadedDrawable:
+    302:305:public ImageUtil$DownloadedDrawable(cmccsi.mhealth.app.sports.common.ImageUtil$BitmapDownloaderTask)
+cmccsi.mhealth.app.sports.common.Logger:
+    14:14:public Logger()
+    55:97:public static boolean write2SDCard(java.lang.String,java.lang.String)
+cmccsi.mhealth.app.sports.common.MathUtil:
+    3:3:public MathUtil()
+cmccsi.mhealth.app.sports.common.MenuDialog
+cmccsi.mhealth.app.sports.common.MenuDialog$1
+cmccsi.mhealth.app.sports.common.MenuDialog$2
+cmccsi.mhealth.app.sports.common.MenuDialog$3
+cmccsi.mhealth.app.sports.common.MenuDialog$GridAdapter
+cmccsi.mhealth.app.sports.common.MenuDialog$GridAdapter$ViewHolder
+cmccsi.mhealth.app.sports.common.MenuDialog$onClickedItemPosition
+cmccsi.mhealth.app.sports.common.MyTime
+cmccsi.mhealth.app.sports.common.PreferencesUtils:
+    28:28:public PreferencesUtils()
+    53:53:public static java.lang.String getKey(android.content.Context,int)
+    119:125:public static void putInt(android.content.Context,java.lang.String,int)
+    136:138:public static long getLong(android.content.Context,java.lang.String)
+    153:159:public static void putLong(android.content.Context,java.lang.String,long)
+    204:210:public static varargs java.util.List getStringArr(android.content.Context,java.lang.String,java.lang.String[])
+    240:247:public static void putString(android.content.Context,java.util.Map)
+cmccsi.mhealth.app.sports.common.Rotate3dAnimation
+cmccsi.mhealth.app.sports.common.SendingPushMessags
+cmccsi.mhealth.app.sports.common.SharedPreferredKey
+cmccsi.mhealth.app.sports.common.ShowProgressDialog:
+    7:7:public ShowProgressDialog()
+cmccsi.mhealth.app.sports.common.StringUtils
+cmccsi.mhealth.app.sports.common.UploadUtil:
+    private static final java.lang.String PREFIX
+    private static final java.lang.String LINE_END
+    private static final java.lang.String CONTENT_TYPE
+    private static final java.lang.String TAG
+    private static final java.lang.String CHARSET
+    public static final int UPLOAD_SUCCESS_CODE
+    public static final int UPLOAD_FILE_NOT_EXISTS_CODE
+    public static final int UPLOAD_SERVER_ERROR_CODE
+    protected static final int WHAT_TO_UPLOAD
+    protected static final int WHAT_UPLOAD_DONE
+    325:325:public int getReadTimeOut()
+    329:330:public void setReadTimeOut(int)
+    333:333:public int getConnectTimeout()
+    337:338:public void setConnectTimeout(int)
+    346:346:public static int getRequestTime()
+cmccsi.mhealth.app.sports.common.UploadUtil$uploadProcessListener
+cmccsi.mhealth.app.sports.common.tasks.BaseTask
+cmccsi.mhealth.app.sports.common.tasks.BaseTask$1
+cmccsi.mhealth.app.sports.common.utils.ArrayUtils
+cmccsi.mhealth.app.sports.common.utils.ChartEngineUtils
+cmccsi.mhealth.app.sports.common.utils.ContactUtil:
+    19:19:public ContactUtil()
+cmccsi.mhealth.app.sports.common.utils.DateFormatUtils:
+    9:9:public DateFormatUtils()
+    103:106:public static java.lang.String MillisToString(long,cmccsi.mhealth.app.sports.common.utils.DateFormatUtils$FormatType)
+cmccsi.mhealth.app.sports.common.utils.DensityUtil:
+    12:12:public DensityUtil()
+    23:24:public static int px2dip(android.content.Context,float)
+    62:63:public static int sp2px(android.content.Context,float)
+cmccsi.mhealth.app.sports.common.utils.LogUtils:
+    6:6:public LogUtils()
+    9:15:public static void d(java.lang.String)
+    18:21:public static void d(java.lang.String,java.lang.String)
+    24:29:public static void e(java.lang.String)
+    38:43:public static void i(java.lang.String)
+    46:49:public static void i(java.lang.String,java.lang.String)
+    52:57:public static void v(java.lang.String)
+    60:63:public static void v(java.lang.String,java.lang.String)
+    66:71:public static void w(java.lang.String)
+    74:77:public static void w(java.lang.String,java.lang.String)
+    80:84:private static java.lang.String generateTag(java.lang.StackTraceElement)
+cmccsi.mhealth.app.sports.common.utils.PedometorUtils:
+    private static final int CALORIE_CANDY
+    private static final int CALORIE_CHOCOLATES
+    private static final int CALORIE_CHICHEN_LEG
+    private static final int CALORIE_PIZZA
+    private static final int TYPE_NULL
+    private static final int TYPE_CANDY
+    private static final int TYPE_CHOCOLATES
+    private static final int TYPE_CHICHEN_LEG
+    private static final int TYPE_PIZZA
+    13:13:public PedometorUtils()
+cmccsi.mhealth.app.sports.common.utils.ReflectUtils
+cmccsi.mhealth.app.sports.common.utils.StringUtils:
+    6:6:public StringUtils()
+    32:38:public static boolean isSame(java.lang.String,java.lang.String)
+    48:50:public static boolean isPhone(java.lang.String)
+    60:62:public static boolean isEmailAddress(java.lang.String)
+    72:74:public static boolean isDigitChar(java.lang.String)
+    84:90:public static java.lang.String parseDistance(java.lang.String)
+    100:105:public static java.lang.String getValidTelNumber(java.lang.String)
+    115:116:public static java.lang.String format(java.lang.String)
+    127:135:public static java.lang.String trimInnerSpaceStr(java.lang.String)
+cmccsi.mhealth.app.sports.common.utils.ToastUtils:
+    6:6:public ToastUtils()
+    21:22:public static void showToast(android.content.Context,int)
+    24:25:public static void showToast_L(android.content.Context,int)
+    40:47:private static synchronized void showToast(android.content.Context,int,int)
+cmccsi.mhealth.app.sports.controller.PedoRankController:
+    public static final java.lang.String DATABASE_NAME
+    73:73:public cmccsi.mhealth.app.sports.bean.PedoRankBriefInfo GetPedoRankBriefInfo(java.lang.String,java.lang.String,java.lang.String,java.lang.String)
+cmccsi.mhealth.app.sports.db.ActivityListDetailTableMetaData:
+    public static final java.lang.String TABLE_NAME
+    public static final java.lang.String MEDAL_NAME
+    public static final java.lang.String MEDAL_DETAIL
+    public static final java.lang.String MEDAL_TYPE
+    public static final java.lang.String MEDAL_ACTIVITYID
+    public static final java.lang.String RANK
+    public static final java.lang.String CLUBID
+    public static final java.lang.String MEDAL_SUM
+    public static final java.lang.String MEDAL_GAP
+    public static final java.lang.String BEATPERCENT
+    public static final java.lang.String SCORE
+    12:12:public ActivityListDetailTableMetaData()
+    41:44:public static void CreateTable(cmccsi.mhealth.app.sports.db.DatabaseHelper)
+    47:55:public static android.database.Cursor GetAllValueCursor(cmccsi.mhealth.app.sports.db.DatabaseHelper,java.lang.String,int)
+    68:87:public static void InsertValue(cmccsi.mhealth.app.sports.db.DatabaseHelper,java.util.List,int)
+    90:92:public static void DeleteData(cmccsi.mhealth.app.sports.db.DatabaseHelper)
+    94:96:public static void DeleteData(cmccsi.mhealth.app.sports.db.DatabaseHelper,int)
+cmccsi.mhealth.app.sports.db.ActivityMyDetailTableMetaData:
+    public static final java.lang.String TABLE_NAME
+    public static final java.lang.String MYNAME
+    public static final java.lang.String MYGROUP
+    public static final java.lang.String AVGSTEP
+    public static final java.lang.String RATESCORE
+    public static final java.lang.String HITDURATION
+    public static final java.lang.String GROUPAVGSTEP
+    public static final java.lang.String GROUP_RATESCORE
+    public static final java.lang.String ACTIVITY_ID
+    public static final java.lang.String CLUBID
+    public static final java.lang.String MYUSERRANK
+    public static final java.lang.String MYGROUPRANK
+    8:8:public ActivityMyDetailTableMetaData()
+    38:41:public static void CreateTable(cmccsi.mhealth.app.sports.db.DatabaseHelper)
+    44:46:public static android.database.Cursor GetAllValueCursor(cmccsi.mhealth.app.sports.db.DatabaseHelper,int)
+    50:54:public static android.database.Cursor GetValueCursorById(cmccsi.mhealth.app.sports.db.DatabaseHelper,java.lang.String,int)
+    61:78:public static void InsertValue(cmccsi.mhealth.app.sports.db.DatabaseHelper,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,int,java.lang.String,java.lang.String)
+    81:83:public static void DeleteData(cmccsi.mhealth.app.sports.db.DatabaseHelper)
+    85:87:public static void DeleteData(cmccsi.mhealth.app.sports.db.DatabaseHelper,int)
+cmccsi.mhealth.app.sports.db.DatabaseHelper:
+    public static final int VERSION
+cmccsi.mhealth.app.sports.db.ECGTableMetaData:
+    public static final java.lang.String TABLE_NAME
+    public static final java.lang.String DATE
+    public static final java.lang.String POWER
+    public static final java.lang.String HR
+    public static final java.lang.String RAWDATA
+    public static final java.lang.String HRV
+    public static final java.lang.String RR_INTERVAL
+    public static final java.lang.String MOOD
+    public static final java.lang.String TRAINING_ZONE
+    public static final java.lang.String MOOD_RECORD
+    public static final java.lang.String MOOD_LEVEL
+    public static final java.lang.String SPORTS_TYPE
+    public static final java.lang.String DEFAULT_SORT_ORDER
+    public static final java.lang.String SORT_ORDER_ASC
+    public static final java.lang.String SORT_ORDER_DATE_ASC
+    10:10:public ECGTableMetaData()
+    61:64:public static android.database.Cursor GetAllValueCursor(cmccsi.mhealth.app.sports.db.DatabaseHelper,java.lang.String)
+    68:71:public static android.database.Cursor GetALLValueCursorByASC(cmccsi.mhealth.app.sports.db.DatabaseHelper)
+    75:78:public static android.database.Cursor GetValueCursor(cmccsi.mhealth.app.sports.db.DatabaseHelper,long)
+    102:106:public static boolean UpdateData(cmccsi.mhealth.app.sports.db.DatabaseHelper,long,int,java.lang.String,int)
+    113:124:public static boolean UpdateValue(cmccsi.mhealth.app.sports.db.DatabaseHelper,long,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)
+    146:148:public static void DeleteData(cmccsi.mhealth.app.sports.db.DatabaseHelper,java.lang.String)
+cmccsi.mhealth.app.sports.db.FriendMetaData:
+    public static final java.lang.String TABLE_NAME
+    public static final java.lang.String MYRANKID
+    public static final java.lang.String MEMBERSEQ
+    public static final java.lang.String FRIENDPHONE
+    public static final java.lang.String SEX
+    public static final java.lang.String MEMBERNAME
+    public static final java.lang.String GROUPNAME
+    public static final java.lang.String MEMBER7AVGSTEP
+    public static final java.lang.String IMAGEURL
+    12:12:public FriendMetaData()
+    35:38:public static void CreateTable(cmccsi.mhealth.app.sports.db.DatabaseHelper)
+cmccsi.mhealth.app.sports.db.GPSListMetaData:
+    public static final java.lang.String TABLE_NAME
+    private static final java.lang.String START_TIME
+    private static final java.lang.String DURATION
+    private static final java.lang.String SPEED
+    private static final java.lang.String DISTANCE
+    private static final java.lang.String CAL
+    private static final java.lang.String STEPNUM
+    private static final java.lang.String DURATIONPERKM
+    private static final java.lang.String SPEEDMAX
+    private static final java.lang.String SPEEDMIN
+    private static final java.lang.String CLIMBSUM
+    private static final java.lang.String SPORTTYPE
+    private static final java.lang.String ISUPLOAD
+    public static final java.lang.String CREATE_TABLE
+    12:12:public GPSListMetaData()
+    46:46:public static java.lang.String deleteSql(java.lang.String)
+    50:58:public static boolean deleteData(cmccsi.mhealth.app.sports.db.DatabaseHelper,java.lang.String)
+    113:142:public static java.util.List getListGPSData(cmccsi.mhealth.app.sports.db.DatabaseHelper)
+    179:192:public static java.lang.String getDataByStartTime(cmccsi.mhealth.app.sports.db.DatabaseHelper,java.lang.String)
+cmccsi.mhealth.app.sports.db.GpsInfoDetailMetaData:
+    public static final java.lang.String TABLE_NAME
+    private static final java.lang.String LATITUDE
+    private static final java.lang.String LONGITUDE
+    private static final java.lang.String START_TIME
+    private static final java.lang.String DETAIL_TIME
+    private static final java.lang.String SPEED
+    private static final java.lang.String ALTITUDE
+    private static final java.lang.String DISTANCE
+    private static final java.lang.String CAL
+    private static final java.lang.String ISPOINTSTOP
+    public static final java.lang.String CREATE_TABLE
+    13:13:public GpsInfoDetailMetaData()
+    137:147:public static int getPointCount(cmccsi.mhealth.app.sports.db.DatabaseHelper)
+cmccsi.mhealth.app.sports.db.GroupInPKTableMetaData:
+    public static final java.lang.String TABLE_NAME
+    public static final java.lang.String MEMBER_SEQ
+    public static final java.lang.String GROUP_ID
+    public static final java.lang.String MEMBER_NAME
+    public static final java.lang.String GROUP_NAME
+    public static final java.lang.String MEMBER7AVGSTEP
+    public static final java.lang.String CLUBID
+    public static final java.lang.String MEMBER7AVGDIST
+    public static final java.lang.String MEMBER_SCORE
+    public static final java.lang.String MEMBER_FORVE1
+    public static final java.lang.String MEMBER_FORVE2
+    public static final java.lang.String AVATER
+    public static final java.lang.String DEFAULT_SORT_ORDER
+    8:8:public GroupInPKTableMetaData()
+    50:53:public static void CreateTable(cmccsi.mhealth.app.sports.db.DatabaseHelper)
+    61:64:public static android.database.Cursor GetAllValueCursor(cmccsi.mhealth.app.sports.db.DatabaseHelper)
+    75:77:public static android.database.Cursor GetValueCursor(cmccsi.mhealth.app.sports.db.DatabaseHelper,int)
+    89:97:public static android.database.Cursor GetYestodayCursor(cmccsi.mhealth.app.sports.db.DatabaseHelper,int,java.lang.String,int)
+    122:139:public static void InsertValue(android.database.sqlite.SQLiteDatabase,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,int)
+    148:151:public static void DeleteData(cmccsi.mhealth.app.sports.db.DatabaseHelper,java.lang.String)
+    153:156:public static void DeleteData(cmccsi.mhealth.app.sports.db.DatabaseHelper,java.lang.String,int)
+    164:166:public static void DeleteData(cmccsi.mhealth.app.sports.db.DatabaseHelper)
+cmccsi.mhealth.app.sports.db.GroupMemberInfoTableMetaData:
+    public static final java.lang.String TABLE_NAME
+    public static final java.lang.String MEMBER_NAME
+    public static final java.lang.String MEMBER_SEQ
+    public static final java.lang.String MEMBER7AVGDIST
+    public static final java.lang.String MEMBER7AVGSTEP
+    public static final java.lang.String MEMBER_SCORE
+    public static final java.lang.String CLUBID
+    public static final java.lang.String RES1
+    public static final java.lang.String RES2
+    public static final java.lang.String RES3
+    public static final java.lang.String DEFAULT_SORT_ORDER
+    9:9:public GroupMemberInfoTableMetaData()
+    46:49:public static void CreateTable(cmccsi.mhealth.app.sports.db.DatabaseHelper)
+    52:55:public static android.database.Cursor GetAllValueCursor(cmccsi.mhealth.app.sports.db.DatabaseHelper)
+    59:62:public static android.database.Cursor GetValueCursor(cmccsi.mhealth.app.sports.db.DatabaseHelper,int)
+    66:69:public static android.database.Cursor GetValueCursorToday(cmccsi.mhealth.app.sports.db.DatabaseHelper,int)
+    73:77:public static android.database.Cursor GetValueCursorYesterday(cmccsi.mhealth.app.sports.db.DatabaseHelper,int)
+    83:98:public static void InsertValue(android.database.sqlite.SQLiteDatabase,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,int)
+    101:103:public static void DeleteData(cmccsi.mhealth.app.sports.db.DatabaseHelper,java.lang.String)
+    105:107:public static void DeleteData(cmccsi.mhealth.app.sports.db.DatabaseHelper,int)
+    110:112:public static void DeleteData(cmccsi.mhealth.app.sports.db.DatabaseHelper)
+cmccsi.mhealth.app.sports.db.GroupPkInfoTableMetaData:
+    public static final java.lang.String TABLE_NAME
+    public static final java.lang.String GROUP_NAME
+    public static final java.lang.String GROUP_ID
+    public static final java.lang.String GROUP_SEQ
+    public static final java.lang.String GROUP7AVGDIST
+    public static final java.lang.String GROUP7AVGSTEP
+    public static final java.lang.String GROUP_SCORE
+    public static final java.lang.String CLUBID
+    public static final java.lang.String RES1
+    public static final java.lang.String RES2
+    public static final java.lang.String RES3
+    public static final java.lang.String DEFAULT_SORT_ORDER
+    9:9:public GroupPkInfoTableMetaData()
+    46:49:public static void CreateTable(cmccsi.mhealth.app.sports.db.DatabaseHelper)
+    52:55:public static android.database.Cursor GetAllValueCursor(cmccsi.mhealth.app.sports.db.DatabaseHelper)
+    59:63:public static android.database.Cursor GetValueCursorToday(cmccsi.mhealth.app.sports.db.DatabaseHelper,int)
+    77:82:public static android.database.Cursor GetGroupIdFromName(cmccsi.mhealth.app.sports.db.DatabaseHelper,java.lang.String,int)
+    86:90:public static android.database.Cursor GetValueCursorYesterday(cmccsi.mhealth.app.sports.db.DatabaseHelper,int)
+    97:113:public static void InsertValue(android.database.sqlite.SQLiteDatabase,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,int)
+    116:118:public static void DeleteData(cmccsi.mhealth.app.sports.db.DatabaseHelper,java.lang.String)
+    120:122:public static void DeleteData(cmccsi.mhealth.app.sports.db.DatabaseHelper,int)
+    125:127:public static void DeleteData(cmccsi.mhealth.app.sports.db.DatabaseHelper)
+cmccsi.mhealth.app.sports.db.HistroyMessageMetaData:
+    public static final java.lang.String TABLE_NAME
+    public static final java.lang.String REQUESTTYPE
+    public static final java.lang.String PHONENUM
+    public static final java.lang.String NAME
+    public static final java.lang.String MSG
+    public static final java.lang.String RACEID
+    public static final java.lang.String RACETYPE
+    public static final java.lang.String SAVEDTIME
+    public static final java.lang.String AVATAR
+    13:13:public HistroyMessageMetaData()
+    38:41:public static void CreateTable(cmccsi.mhealth.app.sports.db.DatabaseHelper)
+    44:61:public static void OldMsgsInsertValue(cmccsi.mhealth.app.sports.db.DatabaseHelper,java.util.List)
+    111:113:public static void DeleteMyOldMsgs(cmccsi.mhealth.app.sports.db.DatabaseHelper)
+cmccsi.mhealth.app.sports.db.ListActivityTableMetaData:
+    public static final java.lang.String TABLE_NAME
+    public static final java.lang.String ACTIVITYID
+    public static final java.lang.String ACTIVITYNAME
+    public static final java.lang.String ACTIVITYTYPE
+    public static final java.lang.String ACTIVITYSLOGAN
+    public static final java.lang.String ACTIVITYSTART
+    public static final java.lang.String ACTIVITYEND
+    public static final java.lang.String COMPANYNAME
+    public static final java.lang.String CLUBID
+    public static final java.lang.String AIMSTEP
+    public static final java.lang.String PERSONNUM
+    public static final java.lang.String PERSONSEQ
+    public static final java.lang.String GROUPNUM
+    public static final java.lang.String GROUPSEQ
+    8:8:public ListActivityTableMetaData()
+    43:45:public static void CreateTable(cmccsi.mhealth.app.sports.db.DatabaseHelper)
+    48:50:public static android.database.Cursor GetAllValueCursor(cmccsi.mhealth.app.sports.db.DatabaseHelper,int)
+    58:76:public static void InsertValue(cmccsi.mhealth.app.sports.db.DatabaseHelper,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,int)
+    79:81:public static void DeleteData(cmccsi.mhealth.app.sports.db.DatabaseHelper)
+    83:85:public static void DeleteData(cmccsi.mhealth.app.sports.db.DatabaseHelper,int)
+cmccsi.mhealth.app.sports.db.MHealthProviderMetaData:
+    private static final java.lang.String TAG
+    private static final java.lang.String TAG2
+    public static final java.lang.String DATABASE_NAME
+    77:77:public android.database.Cursor GetPedometerData()
+    81:94:public cmccsi.mhealth.app.sports.bean.DataPedometor getPedometerLatest()
+    105:118:public cmccsi.mhealth.app.sports.bean.DataPedometor getPedometerByDate(java.lang.String)
+    122:122:public android.database.Cursor GetPedometerData(long)
+    126:145:public long getStartDateOfPedoInfo()
+    155:221:public java.util.ArrayList getPeriodPedoInfoFromLatest(int,int)
+    225:262:public void InsertPedometerData(java.util.List,long,boolean)
+    265:277:public void InsertPedometerData(cmccsi.mhealth.app.sports.bean.DataPedometor)
+    300:311:public void InsertECGData(java.util.List)
+    314:315:public void deleteECGData(java.lang.String)
+    323:328:public void updateECGData(long,cmccsi.mhealth.app.sports.bean.DataECG)
+    331:331:public android.database.Cursor getECGData(long)
+    393:394:public void deletePedometerData(java.lang.String)
+    403:405:public void updatePedometerData(long,cmccsi.mhealth.app.sports.bean.DataPedometor)
+    409:410:public void updatePedometerData(long,int,java.lang.String,int)
+    419:443:public void insertPedoDetailData(cmccsi.mhealth.app.sports.bean.PedoDetailInfo)
+    589:590:public void updatePedoDetailData(long,java.lang.String)
+    597:598:public void deletePedoDetailData(java.lang.String)
+    601:612:public cmccsi.mhealth.app.sports.bean.PedoDetailInfo getPedoDetailLatest()
+    622:645:public cmccsi.mhealth.app.sports.bean.PedoDetailInfo getPedoDetailByDay(java.lang.String)
+    652:653:public void createGroupPkInfoTable()
+    656:673:private cmccsi.mhealth.app.sports.bean.GroupPkInfo getGroupPkInfoFromCursor(android.database.Cursor)
+    677:678:public cmccsi.mhealth.app.sports.bean.GroupPkInfo getGroupPkInfoToday(int)
+    682:691:public java.lang.String getGroupIdFromName(java.lang.String,int)
+    694:703:public java.lang.String getGroupIdFromName1(java.lang.String,int)
+    707:708:public cmccsi.mhealth.app.sports.bean.GroupPkInfo getGroupPkInfoYesterday(int)
+    712:720:public void insertGroupPkInfo(cmccsi.mhealth.app.sports.bean.GroupPkInfo,int)
+    723:724:public void deleteGroupPkInfo()
+    726:727:public void deleteGroupPkInfo(int)
+    731:732:public void createGroupMemberInfoTable()
+    735:736:public cmccsi.mhealth.app.sports.bean.GroupMemberPkInfo getMemberPkInfoToday(int)
+    740:741:public cmccsi.mhealth.app.sports.bean.GroupMemberPkInfo getMemberPkInfoYesterday(int)
+    745:765:private cmccsi.mhealth.app.sports.bean.GroupMemberPkInfo getMemberPkInfoFromCursor(android.database.Cursor)
+    769:777:public void insertMemberPkInfo(cmccsi.mhealth.app.sports.bean.GroupMemberPkInfo,int)
+    780:781:public void deleteMemberPkInfo()
+    784:785:public void deleteMemberPkInfo(int)
+    789:790:public void createOrginzeInfoTable()
+    793:793:public int getOrgnizeMemberSumToday(int)
+    797:797:public int getOrgnizeMemberSumYesterday(int)
+    801:801:public int getGroupSum(int,int)
+    805:805:public int getGroupMemberSum(int,int)
+    809:810:public cmccsi.mhealth.app.sports.bean.OrgnizeMemberPKInfo getOrgnizePkInfoToday(int)
+    814:815:public cmccsi.mhealth.app.sports.bean.OrgnizeMemberPKInfo getOrgnizePkInfoYesterday(int)
+    819:840:private cmccsi.mhealth.app.sports.bean.OrgnizeMemberPKInfo getOrgnizePkInfoFromCursor(android.database.Cursor)
+    844:853:public void insertOrgnizeMemberPkInfo(cmccsi.mhealth.app.sports.bean.OrgnizeMemberPKInfo,int)
+    856:857:public void deleteOrgizePkInfo()
+    860:861:public void deleteOrgizePkInfo(int)
+    866:867:public void createGroupInPkInfoTable()
+    875:897:public cmccsi.mhealth.app.sports.bean.GroupMemberPkInfo getGroupInPkInfo()
+    907:937:public cmccsi.mhealth.app.sports.bean.GroupMemberPkInfo getGroupInPkByIdInfo(java.lang.String,java.lang.String,int)
+    947:955:public void insertGroupInPkInfo(cmccsi.mhealth.app.sports.bean.GroupMemberPkInfo,java.lang.String,java.lang.String,java.lang.String,int)
+    961:963:public void deleteGroupInPkInfo()
+    965:967:public void deleteGroupInPkInfoByGroupId(java.lang.String,int)
+    972:973:public void createListActivityTable()
+    976:1011:public cmccsi.mhealth.app.sports.bean.ActivityInfo getListActivity(int,int,int,int)
+    1027:1032:public void insertListActivity(java.util.List,int)
+    1044:1046:public void deleteListActivity()
+    1048:1050:public void deleteListActivity(int)
+    1065:1068:public void createActivityDetailTable()
+    1086:1132:public cmccsi.mhealth.app.sports.bean.ActivityDetailData getActivityMyDetail(java.lang.String,int)
+    1148:1166:public java.util.ArrayList getActivityListDetail(java.lang.String,int)
+    1184:1202:public void insertActivityDetail(cmccsi.mhealth.app.sports.bean.ActivityMedalInfo,java.lang.String,int)
+    1205:1208:public void deleteActivityMediaInPkInfo()
+    1210:1213:public void deleteActivityMediaInPkInfo(int)
+    1216:1219:public int GetAllDataSumForAll(cmccsi.mhealth.app.sports.db.DatabaseHelper,java.lang.String,java.lang.String,int,int)
+    1249:1250:public void MyRankInsertValue(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,int)
+    1254:1255:public void MyRankInsertValue(java.util.List,java.lang.String,int)
+    1258:1259:public void MyRankInsertValueGP(java.util.List,java.lang.String,int)
+    1263:1264:public void MyRankInsertValueGroup(java.util.List,java.lang.String,int)
+    1268:1269:public void MyRankDeleteData(int)
+    1277:1277:public java.util.List getMyRankByType(int,int)
+    1289:1289:public java.util.List getWeightInRange(long,java.lang.String)
+    1300:1300:public java.util.List getWeightInRange(java.lang.String,java.lang.String)
+    1305:1306:public void addWeightValue(java.util.List)
+    1310:1311:public void addWeightValue(cmccsi.mhealth.app.sports.bean.VitalSignInfoDataBean)
+    1332:1333:public void DeleteMyOldMsgs()
+    1364:1366:public boolean deleteGPSListData(java.lang.String)
+    1401:1401:public java.util.List getAllData()
+    1418:1418:public java.lang.String getGpsInfoByStarttime(java.lang.String)
+    1439:1441:public android.database.Cursor SelectLastCursor(java.lang.String)
+cmccsi.mhealth.app.sports.db.MyRankMetaData:
+    public static final java.lang.String TABLE_NAME
+    public static final java.lang.String MYRANKID
+    public static final java.lang.String MEMBERSEQ
+    public static final java.lang.String MEMBERNAME
+    public static final java.lang.String GROUPNAME
+    public static final java.lang.String MEMBER7AVGSTEP
+    public static final java.lang.String CLUBID
+    public static final java.lang.String TYPE
+    public static final java.lang.String IMAGEURL
+    15:15:public MyRankMetaData()
+    41:44:public static void CreateTable(cmccsi.mhealth.app.sports.db.DatabaseHelper)
+    48:61:public static void MyRankInsertValue(cmccsi.mhealth.app.sports.db.DatabaseHelper,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,int)
+    63:80:public static void MyRankInsertValue(cmccsi.mhealth.app.sports.db.DatabaseHelper,java.util.List,java.lang.String,int)
+    82:99:public static void MyRankInsertValueGP(cmccsi.mhealth.app.sports.db.DatabaseHelper,java.util.List,java.lang.String,int)
+    101:118:public static void MyRankInsertValueGroup(cmccsi.mhealth.app.sports.db.DatabaseHelper,java.util.List,java.lang.String,int)
+    127:155:public static java.util.List getMyRankByType(cmccsi.mhealth.app.sports.db.DatabaseHelper,int,int)
+    159:162:public static void deleteMyRankData(cmccsi.mhealth.app.sports.db.DatabaseHelper,int)
+cmccsi.mhealth.app.sports.db.OrgnizeInfoTableMetaData:
+    public static final java.lang.String TABLE_NAME
+    public static final java.lang.String MEMBER_NAME
+    public static final java.lang.String GROUP_NAME
+    public static final java.lang.String MEMBER_SEQ
+    public static final java.lang.String MEMBER7AVGDIST
+    public static final java.lang.String MEMBER7AVGSTEP
+    public static final java.lang.String MEMBER_SCORE
+    public static final java.lang.String CLUBID
+    public static final java.lang.String MEMBER_FORVE1
+    public static final java.lang.String MEMBER_FORVE2
+    public static final java.lang.String DEFAULT_SORT_ORDER
+    public static final java.lang.String AVATER
+    8:8:public OrgnizeInfoTableMetaData()
+    48:51:public static void CreateTable(cmccsi.mhealth.app.sports.db.DatabaseHelper)
+    54:59:public static int GetAllDataSum(cmccsi.mhealth.app.sports.db.DatabaseHelper,int,int)
+    63:66:public static android.database.Cursor GetAllValueCursor(cmccsi.mhealth.app.sports.db.DatabaseHelper)
+    70:73:public static android.database.Cursor GetValueCursor(cmccsi.mhealth.app.sports.db.DatabaseHelper,long)
+    78:81:public static android.database.Cursor GetValueCursor(cmccsi.mhealth.app.sports.db.DatabaseHelper,int,int)
+    88:104:public static void InsertValue(android.database.sqlite.SQLiteDatabase,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,int)
+    107:109:public static void DeleteData(cmccsi.mhealth.app.sports.db.DatabaseHelper,java.lang.String)
+    112:115:public static void DeleteData(cmccsi.mhealth.app.sports.db.DatabaseHelper,int)
+    118:120:public static void DeleteData(cmccsi.mhealth.app.sports.db.DatabaseHelper)
+cmccsi.mhealth.app.sports.db.PedoDetailTableMetaData:
+    public static final java.lang.String TABLE_NAME
+    public static final java.lang.String DEFAULT_SORT_ORDER
+    public static final java.lang.String PHONE_NUM
+    public static final java.lang.String DATE
+    public static final java.lang.String START_TIME
+    public static final java.lang.String STEP_NUM_PER_FIVE
+    public static final java.lang.String CAL_PER_FIVE
+    public static final java.lang.String STRENGTH_TWO_PER_FIVE
+    public static final java.lang.String STRENGTH_THREE_PER_FIVE
+    public static final java.lang.String STRENGTH_FOUR_PER_FIVE
+    public static final java.lang.String ACC_PER_FIVE
+    public static final java.lang.String EFF_STEPNUM_PER_FIVE
+    public static final java.lang.String RES1
+    public static final java.lang.String RES2
+    8:8:public PedoDetailTableMetaData()
+    46:49:public static android.database.Cursor GetValueCursor(cmccsi.mhealth.app.sports.db.DatabaseHelper)
+    53:56:public static android.database.Cursor GetValueCursor(cmccsi.mhealth.app.sports.db.DatabaseHelper,long)
+    61:64:public static android.database.Cursor GetValueCursor(cmccsi.mhealth.app.sports.db.DatabaseHelper,java.lang.String)
+    67:70:public static android.database.Cursor GetValueCursor(android.database.sqlite.SQLiteDatabase,java.lang.String)
+    151:165:public static void UpdateValue(android.database.sqlite.SQLiteDatabase,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)
+    172:185:public static void UpdateValue(android.database.sqlite.SQLiteDatabase,long,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)
+    209:212:public static boolean UpdateData(cmccsi.mhealth.app.sports.db.DatabaseHelper,long,java.lang.String)
+    222:224:public static void DeleteData(cmccsi.mhealth.app.sports.db.DatabaseHelper,java.lang.String)
+cmccsi.mhealth.app.sports.db.PedoRankBriefTableMetaData:
+    public static final java.lang.String TABLE_NAME
+    public static final java.lang.String DAYCOUNT
+    public static final java.lang.String TYPE
+    public static final java.lang.String LEVEL
+    public static final java.lang.String AREANAME
+    public static final java.lang.String MEMBERNAME
+    public static final java.lang.String MEMBERRANK
+    public static final java.lang.String MEMBERSTEP
+    public static final java.lang.String DEFAULT_SORT_ORDER
+    public static final java.lang.String SORT_ORDER_ASC
+    public static final java.lang.String DATE
+    public static final java.lang.String RANKGROUP
+    23:23:public PedoRankBriefTableMetaData()
+    46:48:public static android.database.Cursor GetAllValueCursor(cmccsi.mhealth.app.sports.db.DatabaseHelper)
+    108:123:public static cmccsi.mhealth.app.sports.bean.PedoRankBriefInfo GetPedoRankBriefInfo(cmccsi.mhealth.app.sports.db.DatabaseHelper,java.lang.String,java.lang.String,java.lang.String,java.lang.String)
+    185:197:public static boolean UpdateValue(cmccsi.mhealth.app.sports.db.DatabaseHelper,cmccsi.mhealth.app.sports.bean.PedoRankBriefInfo)
+    262:264:public static void DeleteData(cmccsi.mhealth.app.sports.db.DatabaseHelper,java.lang.String)
+cmccsi.mhealth.app.sports.db.PedoRankDetailTableMetaData:
+    public static final java.lang.String TABLE_NAME
+    public static final java.lang.String DAYCOUNT
+    public static final java.lang.String TYPE
+    public static final java.lang.String LEVEL
+    public static final java.lang.String RANK
+    public static final java.lang.String NAME
+    public static final java.lang.String GROUP
+    public static final java.lang.String STEP
+    public static final java.lang.String RANKGROUP
+    public static final java.lang.String DATE
+    public static final java.lang.String DEFAULT_SORT_ORDER
+    public static final java.lang.String SORT_ORDER_ASC
+    22:22:public PedoRankDetailTableMetaData()
+    46:48:public static android.database.Cursor GetAllValueCursor(cmccsi.mhealth.app.sports.db.DatabaseHelper)
+    80:91:public static android.database.Cursor GetAllValueCursor(cmccsi.mhealth.app.sports.db.DatabaseHelper,java.lang.String,java.lang.String,java.lang.String)
+    135:147:public static boolean UpdateValue(cmccsi.mhealth.app.sports.db.DatabaseHelper,cmccsi.mhealth.app.sports.bean.PedoRankDetailInfo)
+    178:180:public static void DeleteData(cmccsi.mhealth.app.sports.db.DatabaseHelper,java.lang.String)
+cmccsi.mhealth.app.sports.db.PedometerTableMetaData:
+    public static final java.lang.String TABLE_NAME
+    public static final java.lang.String DATE
+    public static final java.lang.String POWER
+    public static final java.lang.String WEIGHT
+    public static final java.lang.String STEP
+    public static final java.lang.String ENERGY_CONSUMPTION
+    public static final java.lang.String STEP_NUM
+    public static final java.lang.String DISTANCE
+    public static final java.lang.String STRENGTH_ONE
+    public static final java.lang.String STRENGTH_TWO
+    public static final java.lang.String STRENGTH_THREE
+    public static final java.lang.String STRENGTH_FOUR
+    public static final java.lang.String TRANS_TYPE
+    public static final java.lang.String MOOD_RECORD
+    public static final java.lang.String MOOD_LEVEL
+    public static final java.lang.String SPORTS_TYPE
+    public static final java.lang.String RES1
+    public static final java.lang.String RES2
+    public static final java.lang.String RES3
+    public static final java.lang.String DEFAULT_SORT_ORDER
+    public static final java.lang.String SORT_ORDER_ASC
+    15:15:public PedometerTableMetaData()
+    53:56:public static android.database.Cursor GetAllValueCursor(cmccsi.mhealth.app.sports.db.DatabaseHelper)
+    64:79:public static android.database.Cursor GetAllValueCursor(cmccsi.mhealth.app.sports.db.DatabaseHelper,java.lang.String)
+    134:137:public static android.database.Cursor GetALLValueCursorByASC(cmccsi.mhealth.app.sports.db.DatabaseHelper)
+    145:148:public static android.database.Cursor GetTheFirstValue(cmccsi.mhealth.app.sports.db.DatabaseHelper)
+    154:157:public static android.database.Cursor GetValueCursor(cmccsi.mhealth.app.sports.db.DatabaseHelper,long)
+    161:183:public static cmccsi.mhealth.app.sports.bean.DataPedometor GetPedometerFromCursor(android.database.Cursor)
+    215:219:public static boolean UpdateData(cmccsi.mhealth.app.sports.db.DatabaseHelper,long,int,java.lang.String,int)
+    228:244:public static boolean UpdateValue(cmccsi.mhealth.app.sports.db.DatabaseHelper,long,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)
+    279:298:public static void InsertValue(android.database.sqlite.SQLiteDatabase,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)
+    327:329:public static void DeleteData(cmccsi.mhealth.app.sports.db.DatabaseHelper,java.lang.String)
+cmccsi.mhealth.app.sports.db.VitalSignMetaData:
+    private static final java.lang.String TAG
+    public static final int TYPE_WEIGHT
+    public static final int TYPE_XUEYA
+    public static final java.lang.String TYPE_STR_WEIGHT
+    public static final java.lang.String TYPE_STR_XUEYA
+    public static final java.lang.String TABLE_NAME
+    public static final java.lang.String EDITTIMEBYLONGSTYLE
+    public static final java.lang.String EDITTIME
+    public static final java.lang.String MEASUREDATE
+    public static final java.lang.String MEASUREDATEBYLONGSTYLE
+    public static final java.lang.String VALUE
+    public static final java.lang.String DATETYPE
+    15:15:public VitalSignMetaData()
+    43:46:public static void CreateTable(cmccsi.mhealth.app.sports.db.DatabaseHelper)
+    50:83:public static java.util.List getVitalSignInRange(cmccsi.mhealth.app.sports.db.DatabaseHelper,long,int,java.lang.String)
+    88:112:public static void InsertValue(cmccsi.mhealth.app.sports.db.DatabaseHelper,cmccsi.mhealth.app.sports.bean.VitalSignInfoDataBean,int)
+    116:146:public static void InsertValue(cmccsi.mhealth.app.sports.db.DatabaseHelper,java.util.List,int)
+cmccsi.mhealth.app.sports.device.AbstractBeatBandDevice:
+    public abstract void connect(java.lang.String)
+    public abstract void disConnect()
+    public abstract void syncData(java.lang.String,java.lang.String)
+    public abstract int getDeviceStatus()
+    public abstract void startRealTime()
+    public abstract void stopRealTime()
+    public abstract void startRealTimeEKG()
+    public abstract void stopRealTimeEKG()
+    public abstract void clearDeviceData()
+    public abstract void setCallBack(cmccsi.mhealth.app.sports.device.BaseDeviceInterface$BaseCallBack)
+    public abstract void updateOTAData()
+cmccsi.mhealth.app.sports.device.AbstractMobileDevice:
+    public abstract void connect(java.lang.String)
+    public abstract void disConnect()
+    public abstract void syncData(java.lang.String,java.lang.String)
+    public abstract int getDeviceStatus()
+    public abstract void setCallBack(cmccsi.mhealth.app.sports.device.BaseDeviceInterface$BaseCallBack)
+    64:64:public void clearDeviceData()
+    70:70:public void updateOTAData()
+cmccsi.mhealth.app.sports.device.BaseDeviceInterface:
+    public abstract int getDeviceStatus()
+    public abstract void updateOTAData()
+    public abstract void clearDeviceData()
+cmccsi.mhealth.app.sports.device.BaseDeviceInterface$BaseCallBack:
+    public abstract void realTimeEKGDataReceived(int,java.lang.Object)
+cmccsi.mhealth.app.sports.device.BeatBandDevice:
+    114:114:public int getDeviceStatus()
+    172:173:public void clearDeviceData()
+    189:190:public void setNeroBLE()
+    245:301:public void initNeroBLE()
+    749:749:public void updateOTAData()
+cmccsi.mhealth.app.sports.device.DeviceConstants
+cmccsi.mhealth.app.sports.device.DeviceManagerService:
+    private static final java.lang.String TAG
+    373:373:public int getDeviceStatus()
+    407:410:public void clearDeviceData()
+cmccsi.mhealth.app.sports.device.DeviceManagerService$2:
+    220:221:public void realTimeEKGDataReceived(int,java.lang.Object)
+cmccsi.mhealth.app.sports.device.DeviceManagerService$UploadPedoAsk
+cmccsi.mhealth.app.sports.device.MobileDevice:
+    59:59:public int getDeviceStatus()
+    29:29:static synthetic android.content.Context access$0(cmccsi.mhealth.app.sports.device.MobileDevice)
+    27:27:static synthetic java.lang.String access$1(cmccsi.mhealth.app.sports.device.MobileDevice)
+    31:31:static synthetic cmccsi.mhealth.app.sports.device.BaseDeviceInterface$BaseCallBack access$2(cmccsi.mhealth.app.sports.device.MobileDevice)
+cmccsi.mhealth.app.sports.device.MobileDevice$StepServiceUploadReceiver
+cmccsi.mhealth.app.sports.device.PedometorDevice:
+    48:48:public int getDeviceStatus()
+cmccsi.mhealth.app.sports.ecg.activity.DeviceSettingActivity:
+    private static final java.lang.String TAG
+    private static final int REQUEST_ENABLE_BT
+    private static final int REQUEST_ENABLE_DEVICE_ADD
+    private static final int UPLOAD_PERIOD
+    private static final int CONNECT_PERIOD
+    public static final java.lang.String EXTRA_DEVICE_ADDRESS
+    private static final int NET_PROBLEM
+cmccsi.mhealth.app.sports.ecg.activity.DeviceSettingActivity$4:
+    1232:1232:public void realTimeEKGDataReceived(int,java.lang.Object)
+cmccsi.mhealth.app.sports.ecg.activity.DeviceSettingActivityTest:
+    private static final java.lang.String TAG
+    public static final java.lang.String EXTRA_DEVICE_ADDRESS
+    private static final int REQUEST_ENABLE_BT
+    private static final int REQUEST_ENABLE_DEVICE_ADD
+    private static final int REQUEST_ENABLE_FD_DOWNLOAD
+    private static final int REQUEST_ENABLE_FD_UPDATE
+    private static final int NET_PROBLEM
+    522:537:private void connectDevice(java.lang.String)
+    564:570:private boolean checkBlueEnabled()
+cmccsi.mhealth.app.sports.ecg.activity.ECGDetailChartActivity:
+    public static final int TYPE_HR
+    public static final int TYPE_HRV
+    public static final int TYPE_MOOD
+    public static final java.lang.String EXTRA_RANGE
+    public static final java.lang.String EXTRA_TYPE
+cmccsi.mhealth.app.sports.ecg.activity.HistoryECGDetailActivity:
+    private static final java.lang.String TAG
+cmccsi.mhealth.app.sports.ecg.adapter.DeviceListAdapter:
+    55:63:public void clear()
+cmccsi.mhealth.app.sports.ecg.fragment.ECGChartFragment:
+    private static final java.lang.String KEY_RANGE
+cmccsi.mhealth.app.sports.ecg.utils.ChartDataSource:
+    43:44:public void setDateMap(java.util.Map)
+cmccsi.mhealth.app.sports.ecg.utils.DataSourceBuilder:
+    private static final long DAY_MILLSECONDS
+    private static final long WEEK_MILLSECONDS
+cmccsi.mhealth.app.sports.ecg.utils.ECGDataFilter:
+    private static final java.lang.String DAY_START_SUFFIX
+    private static final java.lang.String HOUR_START_SUFFIX
+cmccsi.mhealth.app.sports.ecg.utils.Range:
+    15:17:public void setValue(java.lang.String,java.lang.String)
+cmccsi.mhealth.app.sports.ecg.utils.RangeUtil:
+    public static final int RANGE_TYPE_TODAY
+    public static final int RANGE_TYPE_WEEK
+    public static final int RANGE_TYPE_MONTH
+    public static final int RANGE_TYPE_SEMIANNUAL
+    private static final java.lang.String DAY_START_SUFFIX
+    private static final java.lang.String DAY_END_SUFFIX
+    7:7:public RangeUtil()
+cmccsi.mhealth.app.sports.errorhandler.CrashHandler:
+    public static final java.lang.String TAG
+    public static final boolean DEBUG
+    private static final java.lang.String VERSION_NAME
+    private static final java.lang.String VERSION_CODE
+    private static final java.lang.String STACK_TRACE
+    private static final java.lang.String CRASH_REPORTER_EXTENSION
+    136:137:public void sendPreviousReportsToServer()
+    145:156:private void sendCrashReportsToServer(android.content.Context)
+    162:162:private void postReport(java.io.File)
+    171:177:private java.lang.String[] getCrashReportFiles(android.content.Context)
+cmccsi.mhealth.app.sports.errorhandler.CrashHandler$2
+cmccsi.mhealth.app.sports.errorhandler.EmailSender:
+    113:119:public void addAttachment(java.lang.String)
+cmccsi.mhealth.app.sports.net.DataSyn:
+    public static java.lang.String contactFileUrl
+    public static java.lang.String contactGroupFileUrl
+    private java.lang.String getclubname
+    197:199:public static void setstrAccountHttpURL(java.lang.String)
+    256:329:public int getDataFromNet(java.lang.String,cmccsi.mhealth.app.sports.bean.BaseNetItem,java.io.InputStream)
+    428:442:public int sendTempCode(java.lang.String,cmccsi.mhealth.app.sports.bean.TempCodeInfo,android.content.Context)
+    455:460:public int getGroupRankUpdateVersion(java.lang.String,java.lang.String,int,cmccsi.mhealth.app.sports.bean.GroupRankUpdateVersion)
+    464:465:public int passwordReset(java.lang.String,java.lang.String,java.lang.String,cmccsi.mhealth.app.sports.bean.UpdatePasswordInfo)
+    470:482:public int verifyTempCode(java.lang.String,java.lang.String,java.lang.String,cmccsi.mhealth.app.sports.bean.UpdatePasswordInfo,java.lang.String)
+    486:486:public java.util.ArrayList getContactList(android.content.Context,java.lang.String,java.lang.String,int)
+    490:498:private java.util.ArrayList getContactList(android.content.Context,int)
+    502:502:public java.util.ArrayList getContactGroupList(android.content.Context,java.lang.String,java.lang.String,int)
+    506:514:private java.util.ArrayList getContactGroupList(android.content.Context,int)
+    555:558:public int updatePassWord(java.lang.String,java.lang.String,java.lang.String,java.lang.String,cmccsi.mhealth.app.sports.bean.UpdatePasswordInfo)
+    634:635:public java.lang.String getUserIfoByUid()
+    646:664:public int getPedoInfo(java.lang.String,java.lang.String,java.lang.String,cmccsi.mhealth.app.sports.bean.PedometorInfo)
+    698:715:public int getPedoInfoDetail(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,cmccsi.mhealth.app.sports.bean.PedoDetailInfo)
+    754:754:public int getOrgnizeMembersPkInfoYestoday(java.lang.String,java.lang.String,int,int,int,cmccsi.mhealth.app.sports.bean.OrgnizeMemberPKInfo,java.lang.String,java.lang.String)
+    759:764:public int getOrgnizeMembersPkInfoYestoday(int,int,cmccsi.mhealth.app.sports.bean.OrgnizeMemberPKInfo)
+    775:780:public int getOrgnizeMembersPkInfo7Day(java.lang.String,java.lang.String,int,int,int,cmccsi.mhealth.app.sports.bean.OrgnizeMemberPKInfo)
+    855:862:public int getGroupMembersPkInfoYestoday(java.lang.String,java.lang.String,int,java.lang.String,int,int,cmccsi.mhealth.app.sports.bean.GroupMemberPkInfo,java.lang.String,java.lang.String)
+    872:879:public int getGroupMembersPkInfo7Day(java.lang.String,java.lang.String,int,java.lang.String,int,int,cmccsi.mhealth.app.sports.bean.GroupMemberPkInfo)
+    961:970:public int getGroupPkInfoYestoday(java.lang.String,java.lang.String,int,java.lang.String,int,int,cmccsi.mhealth.app.sports.bean.GroupPkInfo,java.lang.String,java.lang.String)
+    976:986:public int getGroupPkInfo7(java.lang.String,java.lang.String,int,java.lang.String,int,int,cmccsi.mhealth.app.sports.bean.GroupPkInfo)
+    1030:1036:public int getGroupIdInfo(java.lang.String,java.lang.String,int,cmccsi.mhealth.app.sports.bean.GroupIdInfo)
+    1049:1054:public int getPedorgnizeMemberSum(java.lang.String,java.lang.String,int,cmccsi.mhealth.app.sports.bean.OrgnizeMemberSum)
+    1084:1086:public int getPedOrgnizeMemberSeq(java.lang.String,java.lang.String,cmccsi.mhealth.app.sports.bean.OrgnizememSeq)
+    1104:1107:public int getActivityInfo(java.lang.String,java.lang.String,int,cmccsi.mhealth.app.sports.bean.ActivityInfo)
+    1137:1139:public int getActivityDetailMessage(java.lang.String,java.lang.String,java.lang.String,cmccsi.mhealth.app.sports.bean.ActivityDetailMessageInfo)
+    1153:1156:public int getAvtivityMedalInfo(java.lang.String,java.lang.String,java.lang.String,java.lang.String,int,cmccsi.mhealth.app.sports.bean.ActivityMedalInfo,java.lang.String,java.lang.String)
+    1190:1190:public int getPedGroupSeq(java.lang.String,java.lang.String,int,cmccsi.mhealth.app.sports.bean.RankingDate)
+    1194:1199:public int getPedGroupSeq(cmccsi.mhealth.app.sports.bean.RankingDate)
+    1207:1209:public int getLastestWeightInfo(java.lang.String,java.lang.String,java.lang.String,double,int,int,java.lang.String,cmccsi.mhealth.app.sports.bean.WeightInfo)
+    1216:1218:public int getLastestWeightInfoWithOutParams(java.lang.String,java.lang.String,cmccsi.mhealth.app.sports.bean.WeightInfo)
+    1225:1228:public int getSeqsBySearchNumber(java.lang.String,java.lang.String,int,java.lang.String,cmccsi.mhealth.app.sports.bean.RankingDate)
+    1235:1238:public int getGroupSeqsBySearchNumber(java.lang.String,java.lang.String,int,java.lang.String,cmccsi.mhealth.app.sports.bean.RankingDate)
+    1253:1258:public int getVitalSignAfterLastDownloadSuccessTime(java.lang.String,java.lang.String,long,cmccsi.mhealth.app.sports.bean.VitalSignInfo)
+    1273:1278:public int getVitalSignAfterLastDownloadSuccessTime(java.lang.String,java.lang.String,java.lang.String,cmccsi.mhealth.app.sports.bean.VitalSignInfo)
+    1287:1308:public int postVitalSign(java.lang.String,java.lang.String,java.util.List,cmccsi.mhealth.app.sports.bean.VitalSignUploadState,java.lang.String)
+    1316:1316:public int deleteFriend(java.lang.String,java.lang.String,java.lang.String,cmccsi.mhealth.app.sports.bean.AcceptFriendRequestInfo)
+    1350:1350:public int getFriendsList(java.lang.String,java.lang.String,cmccsi.mhealth.app.sports.bean.FriendsInfo)
+    1364:1364:public int getFriendInfo(java.lang.String,java.lang.String,java.lang.String,cmccsi.mhealth.app.sports.bean.FriendPedometorSummary)
+    1368:1374:public int getFriendInfo(java.lang.String,cmccsi.mhealth.app.sports.bean.FriendPedometorSummary)
+    1389:1389:public int addFriendById(java.lang.String,java.lang.String,java.lang.String,cmccsi.mhealth.app.sports.bean.BackInfo)
+    1403:1413:public int getClubList(android.content.Context,java.lang.String,java.lang.String,cmccsi.mhealth.app.sports.bean.ClubListInfo)
+    1417:1425:private int getClubList(java.lang.String,cmccsi.mhealth.app.sports.bean.ClubListInfo)
+    1446:1449:public int getRaceList(java.lang.String,java.lang.String,int,int,int,cmccsi.mhealth.app.sports.bean.RaceInfo)
+    1454:1457:public int getRaceInfo(java.lang.String,java.lang.String,java.lang.String,cmccsi.mhealth.app.sports.bean.RaceMemberInfo)
+    1462:1468:public int getSearchedRace(java.lang.String,java.lang.String,java.lang.String,int,cmccsi.mhealth.app.sports.bean.RaceInfo)
+    1473:1478:public int createRace(java.lang.String,java.lang.String,java.util.List,cmccsi.mhealth.app.sports.bean.BackInfo)
+    1483:1486:public int joinRace(java.lang.String,java.lang.String,java.lang.String,cmccsi.mhealth.app.sports.bean.BackInfo,java.lang.String)
+    1491:1494:public int resignRace(java.lang.String,java.lang.String,java.lang.String,cmccsi.mhealth.app.sports.bean.BackInfo)
+    1499:1502:public int kickRaceMember(java.lang.String,java.lang.String,java.lang.String,java.lang.String,cmccsi.mhealth.app.sports.bean.BackInfo)
+    1507:1510:public int inviteRaceMember(java.lang.String,java.lang.String,java.lang.String,java.lang.String,cmccsi.mhealth.app.sports.bean.BackInfo)
+    1537:1542:public int getUserInfo(java.lang.String,java.lang.String,cmccsi.mhealth.app.sports.bean.UserRegInfo)
+    1605:1610:public int getListGpsData(cmccsi.mhealth.app.sports.bean.ListGPSData,java.lang.String,java.lang.String,android.content.Context)
+    1719:1722:public int uploadBindBtDevice(java.lang.String,boolean,cmccsi.mhealth.app.sports.bean.Response)
+    1859:1860:public void setUserId(java.lang.String)
+    1877:1878:public void setClubid(int)
+    1891:1902:public void loadClubId(android.content.Context)
+    1905:1924:private void loadContect(java.lang.String,android.content.Context)
+    2097:2103:public int getPedoRankListInfo(java.lang.String,java.lang.String,java.lang.String,java.lang.String,int,cmccsi.mhealth.app.sports.bean.PedoRankListInfo)
+    1416:1416:static synthetic int access$0(cmccsi.mhealth.app.sports.net.DataSyn,java.lang.String,cmccsi.mhealth.app.sports.bean.ClubListInfo)
+cmccsi.mhealth.app.sports.net.DataSyn$1
+cmccsi.mhealth.app.sports.net.NetworkTool:
+    private static final java.lang.String TAG
+    public static final int NONE
+    public static final int WIFI
+    public static final int MOBILE
+    9:9:public NetworkTool()
+    48:62:public static int getNetworkStateConnected(android.content.Context)
+cmccsi.mhealth.app.sports.net.SimpleNet:
+    public static final int SIMPLENET_SUCCESS
+    public static final int SIMPLENET_FAIL
+    17:17:public SimpleNet()
+cmccsi.mhealth.app.sports.net.SimplePost
+cmccsi.mhealth.app.sports.net.TestBase:
+    12:12:public TestBase()
+cmccsi.mhealth.app.sports.net.ThreadPoolManager
+cmccsi.mhealth.app.sports.net.UpdateSoftWareTools:
+    5:5:public UpdateSoftWareTools()
+    12:26:public static boolean getServerVerCode()
+cmccsi.mhealth.app.sports.pedo.PedoController:
+    public static final java.lang.String DATABASE_NAME
+    132:138:public java.util.ArrayList getPeriodPedometer(java.lang.String,java.util.Date,java.util.Date)
+    185:206:public java.util.ArrayList getPeriodPedometer(java.lang.String,java.util.Date,int)
+    413:421:public void deletePedoBeforeDay(java.util.Date)
+cmccsi.mhealth.app.sports.pedo.PedometerActivity:
+    718:726:private int getStepTimeFromPedometor(cmccsi.mhealth.app.sports.bean.PedometorDataInfo)
+    743:757:private void showCurrentEquipment(java.lang.String,java.lang.String,java.lang.String)
+cmccsi.mhealth.app.sports.pedo.PedometerActivity$5:
+    1619:1619:public void realTimeEKGDataReceived(int,java.lang.Object)
+cmccsi.mhealth.app.sports.pedo.ShareWeiXin:
+    private static final int THUMB_SIZE
+cmccsi.mhealth.app.sports.pedo.TgbleManagerNeuro:
+    public static final int MSG_SUCCESS
+    public static final int MSG_TRANSPORT
+    public static final int MSG_STATUS
+    public static final int MSG_LOST
+    public static final int MSG_POWER
+    public static final int MSG_BUSY
+    public static final int MSG_CURRENTCOUNT
+    public static final int MSG_FAILED
+    public static final int MSG_EXCEPT
+    public static final int MSG_CONNECTED
+    public static final int MSG_RESET
+    public static final int MSG_EKGSTOP
+    public static final int MSG_DATARECEIVED
+    360:361:public void dismissHandle()
+cmccsi.mhealth.app.sports.pedo.UploadManager:
+    26:26:public UploadManager()
+    123:142:public static boolean uploadBlePedoDetail(cmccsi.mhealth.app.sports.bean.PedoDetailInfo,java.lang.String)
+cmccsi.mhealth.app.sports.phonesteplib.PhoneStepService
+cmccsi.mhealth.app.sports.phonesteplib.PhoneStepService$GetAccThread
+cmccsi.mhealth.app.sports.phonesteplib.PhoneStepService$GetAccThread$1
+cmccsi.mhealth.app.sports.phonesteplib.ProtectionService
+cmccsi.mhealth.app.sports.phonesteplib.SPUtils:
+    41:43:public static boolean hasKey(java.lang.String)
+    54:54:public java.lang.String getString(java.lang.String)
+    79:80:public void putString(java.lang.String,java.lang.String)
+    90:90:public boolean getBoolean(java.lang.String)
+    103:103:public boolean getBoolean(java.lang.String,boolean)
+    115:116:public void putBoolean(java.lang.String,boolean)
+    126:126:public int getInt(java.lang.String)
+    139:139:public int getInt(java.lang.String,int)
+    151:152:public void putInt(java.lang.String,int)
+    162:162:public float getFloat(java.lang.String)
+    175:175:public float getFloat(java.lang.String,float)
+    187:188:public void putFloat(java.lang.String,float)
+    198:198:public long getLong(java.lang.String)
+    211:211:public long getLong(java.lang.String,long)
+    223:224:public void putLong(java.lang.String,long)
+    232:233:public void removeData(java.lang.String)
+    239:240:public void clearData()
+cmccsi.mhealth.app.sports.phonesteplib.StepController:
+    public static final int STEPS_MSG
+    public static final int PACE_MSG
+    public static final int DISTANCE_MSG
+    public static final int SPEED_MSG
+    public static final int CALORIES_MSG
+    public static final int TEST_MSG
+    40:44:public void startStepService(java.lang.String,android.os.Bundle)
+    68:73:public void stopStepServiceWithoutBindService()
+cmccsi.mhealth.app.sports.service.StepService:
+    public static final java.lang.String TARGET_STEP
+    public static final java.lang.String TODAY_STEP
+    public static final java.lang.String TODAY_TIME
+    public static final java.lang.String TODAY_CAL
+    public static final java.lang.String TODAY_DISTANCE
+    public static final java.lang.String UPLOAD_STATUS
+    public static final java.lang.String UPLOAD_STATUS_SUCCESS
+cmccsi.mhealth.app.sports.service.StepService$ICallback
+cmccsi.mhealth.app.sports.service.StepService_GPS:
+    private static final int MAP_GPS_WALK
+    private static final int MAP_GPS_RUNNING
+    private static final int MAP_GPS_CYCLE
+    private static final java.lang.String TAG
+    public static final int NOTIFY_ID
+    boolean threadDisable
+cmccsi.mhealth.app.sports.service.UpdateVersionService:
+    private static final java.lang.String TAG
+cmccsi.mhealth.app.sports.tabhost.CampaignRankFragment:
+    92:103:public void setParams(java.lang.String,int,java.lang.String,int)
+    106:112:public void transportData(cmccsi.mhealth.app.sports.bean.RankListInfo_new)
+cmccsi.mhealth.app.sports.tabhost.Clubarray
+cmccsi.mhealth.app.sports.tabhost.ECGFragment:
+    private static final java.lang.String TAG
+    public static final int MSG_HR
+    public static final int MSG_HRV
+    public static final int MSG_RR
+    public static final int MSG_TRAININGZONE
+    public static final int MSG_MOOD
+    public static final int MSG_ECG
+    public static final int MSG_STATUS
+    public static final int MSG_PERCENT
+    public static final int MSG_POWER
+    public static final int MSG_TIMEOUT
+    public static final int MSG_RR_INTERVAL
+    1107:1117:private void showProgress(java.lang.String)
+cmccsi.mhealth.app.sports.tabhost.ECGFragmentTest:
+    private static final java.lang.String TAG
+    public static final int MSG_HR
+    public static final int MSG_HRV
+    public static final int MSG_RR
+    public static final int MSG_TRAININGZONE
+    public static final int MSG_MOOD
+    public static final int MSG_ECG
+    public static final int MSG_STATUS
+    public static final int MSG_PERCENT
+    public static final int MSG_POWER
+    public static final int MSG_TIMEOUT
+    public static final int MSG_RR_INTERVAL
+    private static final int ECG_REQUEST_ENABLE_BT
+cmccsi.mhealth.app.sports.tabhost.FriendFragment:
+    private static final java.lang.String TAG
+    private java.lang.String fp
+    private java.lang.String membername
+    private cmccsi.mhealth.app.sports.bean.FriendPedometorSummary fpsReqData
+    private cmccsi.mhealth.app.sports.common.CatchUserDialog mCatchDialog
+    private static final int ADD_FRIEND_SUCCESS
+    private static final int ADD_FRIEND_FAIL
+    private static final int NET_PROBLEM
+    private static final int GET_DETAIL_PEDOMETERS_SUCCESS
+    private static final int DELETE_RIEND_SUCCESS
+    private static final int DELETE_RIEND_FAIL
+    private static final int GET_MY_SEQ_SUCCESS
+    private static final int ADD_FRIEND_SOMETHING_WRONG
+    336:359:private void getFriendDetailPedometers(int)
+    385:419:private void getMySeq()
+    544:548:public static void closebigFace()
+    623:639:private void addFriend(java.lang.String)
+    685:685:private android.graphics.drawable.Drawable getImageAsync(android.widget.ImageView,java.lang.String)
+    689:689:private android.graphics.drawable.Drawable getImageAsync(android.widget.ImageView,java.lang.String,java.lang.String)
+    694:694:private android.graphics.drawable.Drawable getImageAsync(android.widget.ImageView,java.lang.String,java.lang.String,int)
+    106:106:static synthetic void access$16(cmccsi.mhealth.app.sports.tabhost.FriendFragment,java.lang.String)
+    107:107:static synthetic void access$17(cmccsi.mhealth.app.sports.tabhost.FriendFragment,java.lang.String)
+    107:107:static synthetic java.lang.String access$18(cmccsi.mhealth.app.sports.tabhost.FriendFragment)
+    106:106:static synthetic java.lang.String access$19(cmccsi.mhealth.app.sports.tabhost.FriendFragment)
+    108:108:static synthetic void access$20(cmccsi.mhealth.app.sports.tabhost.FriendFragment,cmccsi.mhealth.app.sports.bean.FriendPedometorSummary)
+    108:108:static synthetic cmccsi.mhealth.app.sports.bean.FriendPedometorSummary access$21(cmccsi.mhealth.app.sports.tabhost.FriendFragment)
+    98:98:static synthetic cmccsi.mhealth.app.sports.bean.RankingDate access$22(cmccsi.mhealth.app.sports.tabhost.FriendFragment)
+    100:100:static synthetic java.lang.String access$23(cmccsi.mhealth.app.sports.tabhost.FriendFragment)
+    100:100:static synthetic void access$24(cmccsi.mhealth.app.sports.tabhost.FriendFragment,java.lang.String)
+    99:99:static synthetic void access$25(cmccsi.mhealth.app.sports.tabhost.FriendFragment,java.lang.String)
+    1:1:static synthetic android.content.SharedPreferences access$26(cmccsi.mhealth.app.sports.tabhost.FriendFragment,java.lang.String,int)
+cmccsi.mhealth.app.sports.tabhost.FriendFragment$7
+cmccsi.mhealth.app.sports.tabhost.FriendFragment$8
+cmccsi.mhealth.app.sports.tabhost.FriendFragment$9
+cmccsi.mhealth.app.sports.tabhost.GoalFragment$AchievementTypeAdapter:
+    public static final java.lang.String KEY_TYPE
+    public static final java.lang.String KEY_TYPEICON
+    public static final java.lang.String KEY_TYPEDETAIL
+cmccsi.mhealth.app.sports.tabhost.HistoryListFragment$MySimpleAdapter:
+    228:229:public void setVisible()
+cmccsi.mhealth.app.sports.tabhost.HistoryListFragment$ViewHolder:
+    android.widget.ImageView itemIcon
+cmccsi.mhealth.app.sports.tabhost.MainGridFragment:
+    public static final int TAB_HEALTH
+    public static final int TAB_CORPORATION
+    public static final int TAB_PLAY
+cmccsi.mhealth.app.sports.tabhost.MainGridFragment2:
+    public static final int TAB_HEALTH
+    public static final int TAB_CORPORATION
+    public static final int TAB_PLAY
+cmccsi.mhealth.app.sports.tabhost.MapFragment:
+    private static final int HISTORY_DATA
+    public static final java.lang.String KEY_TYPE_ID
+    private double mAlitude
+cmccsi.mhealth.app.sports.tabhost.MessageFragment:
+    private static final java.lang.String TAG
+    private static final int GET_MESSAGE_SUCCESS
+    private static final int NET_PROBLEM
+    private static final int ACCEPT_SUCCESS
+    private static final int NO_MESSAGE
+cmccsi.mhealth.app.sports.tabhost.RankCompanyMenuFragment:
+    private android.widget.ImageButton mBack
+cmccsi.mhealth.app.sports.tabhost.SettingFragment:
+    protected static final java.lang.String TAG
+    private android.widget.TextView mTextViewSettingWeight
+    private android.widget.TextView mTextViewSettingStepLen
+    private java.lang.String mMembername
+    private android.widget.TextView mTextViewNewPwd
+    private static final int IMAGE_REQUEST_CODE
+    private static final int CAPTURE_IMAGE_ACTIVITY_REQUEST_CODE
+    private static final int PHOTO_CROP_REQUEST_CODE
+    private static final int AREA_SETTING_ACTIVITY_REQUEST_CODE
+    protected static final int TO_UPLOAD_FILE
+    protected static final int UPLOAD_FILE_DONE
+    private static final int UPLOAD_IN_PROCESS
+    private static final int UPLOAD_INIT_PROCESS
+    private android.widget.LinearLayout mLinearLayoutHeight
+    private android.widget.LinearLayout mLinearLayoutTargetWeight
+    174:176:public SettingFragment(int)
+cmccsi.mhealth.app.sports.tabhost.TabBaseFragment:
+    private java.lang.String mPhoneNum
+    private java.lang.String mPassword
+    android.support.v4.app.Fragment mContent
+    63:63:public void mgetActivity()
+    66:69:public void back()
+cmccsi.mhealth.app.sports.tabhost.WebViewFragment:
+    private static final java.lang.String TAG
+    private static final int MODIFYED_CALCENDAR_SUCCESS
+    private boolean b
+    private java.lang.String mDate
+    private android.widget.ImageButton mBack
+    private boolean errorFlag
+    67:68:public void setIsNeedCalender(java.lang.Boolean)
+    261:262:public java.lang.String js()
+    272:276:public java.lang.String selectDate()
+    306:312:private void modifyDay(boolean)
+    387:390:public void jumpToIndexAddingPath(int,int)
+    393:400:public void scheduleToTrend(java.lang.String,int,int)
+cmccsi.mhealth.app.sports.view.CenterRollingBall:
+    89:90:public void reDraw()
+    93:94:public CenterRollingBall(android.content.Context,android.util.AttributeSet,int)
+    97:98:public CenterRollingBall(android.content.Context,android.util.AttributeSet)
+cmccsi.mhealth.app.sports.view.CenterRollingBallECG:
+    77:78:public void SetThirdLayer(int)
+    102:103:public void reDraw()
+    106:107:public CenterRollingBallECG(android.content.Context,android.util.AttributeSet,int)
+    110:111:public CenterRollingBallECG(android.content.Context,android.util.AttributeSet)
+    182:184:public android.graphics.Bitmap setScale(android.graphics.Bitmap,float,float)
+cmccsi.mhealth.app.sports.view.CommonAskDialog:
+    public static final int BUTTON_OK
+    public static final int BUTTON_CANCEL
+    public static final int BUTTON_NEUTRAL
+    private static final java.lang.String KEY_MSG
+    private static final java.lang.String KEY_NEUTRAL
+    private static final java.lang.String KEY_CANCEL
+    private static final java.lang.String KEY_BUTTON
+    146:147:public void setOnButtonClickListener(cmccsi.mhealth.app.sports.view.CommonAskDialog$OnButtonClickListener)
+cmccsi.mhealth.app.sports.view.CustomDialog:
+    122:123:private void setDialogView(android.view.View)
+    150:152:public void setTitleString(java.lang.String)
+    169:169:public static cmccsi.mhealth.app.sports.view.CustomDialog showDialog(android.content.Context,int,android.view.View,boolean,int,android.content.DialogInterface$OnClickListener)
+    187:187:public static cmccsi.mhealth.app.sports.view.CustomDialog showDialog(android.content.Context,int,int,boolean,int,android.content.DialogInterface$OnClickListener)
+    207:207:public static cmccsi.mhealth.app.sports.view.CustomDialog showDialog(android.content.Context,int,android.view.View,boolean,int,java.lang.String,android.content.DialogInterface$OnClickListener)
+    227:227:public static cmccsi.mhealth.app.sports.view.CustomDialog showDialog(android.content.Context,int,int,boolean,java.lang.String,android.content.DialogInterface$OnClickListener)
+    248:248:public static cmccsi.mhealth.app.sports.view.CustomDialog showDialog(android.content.Context,int,int,boolean,int,android.content.DialogInterface$OnClickListener,android.content.DialogInterface$OnClickListener)
+    269:269:public static cmccsi.mhealth.app.sports.view.CustomDialog showDialog(android.content.Context,int,android.view.View,boolean,int,android.content.DialogInterface$OnClickListener,android.content.DialogInterface$OnClickListener)
+    296:306:public static cmccsi.mhealth.app.sports.view.CustomDialog showDialog(android.content.Context,int,android.view.View,boolean,int,java.lang.String,android.content.DialogInterface$OnClickListener,java.lang.String,android.content.DialogInterface$OnClickListener)
+    383:389:public static cmccsi.mhealth.app.sports.view.CustomDialog showDialog(android.content.Context,int,android.view.View,boolean,int)
+cmccsi.mhealth.app.sports.view.CustomDialogOK:
+    18:20:public CustomDialogOK(android.content.Context)
+    29:32:public CustomDialogOK(android.content.Context,int)
+cmccsi.mhealth.app.sports.view.CustomListDialog:
+    23:25:public CustomListDialog(android.content.Context)
+cmccsi.mhealth.app.sports.view.CustomProgressDialog:
+    26:28:public CustomProgressDialog(android.content.Context)
+    82:82:public cmccsi.mhealth.app.sports.view.CustomProgressDialog setTitile(java.lang.String)
+cmccsi.mhealth.app.sports.view.DownFlashView:
+    private static final java.lang.String TAG
+    public static final int STATE_NORMAL
+    public static final int STATE_READY
+    public static final int STATE_REFRESHING
+    private int lastX
+    274:279:public void startRefreshDirectlyNoRefresh()
+    284:303:private boolean canScroll()
+cmccsi.mhealth.app.sports.view.DownLoadApkProgress:
+    64:65:private void setText()
+cmccsi.mhealth.app.sports.view.EditTextWithDel:
+    127:131:public void shakeAnimation(int)
+    134:137:private android.view.animation.Animation setShakeAnimation(int)
+cmccsi.mhealth.app.sports.view.PopMenu:
+    59:61:public void addItem(cmccsi.mhealth.app.sports.bean.CommonBottomMenuItem)
+cmccsi.mhealth.app.sports.view.QScrollView
+cmccsi.mhealth.app.sports.view.ScoreBarView:
+    189:191:public android.graphics.Bitmap setScale(android.graphics.Bitmap,float)
+cmccsi.mhealth.app.sports.view.SyncHorizontalScrollView:
+    43:62:public void showAndHideArrow()
+cmccsi.mhealth.app.sports.view.UnScrollViewPager:
+    11:13:public UnScrollViewPager(android.content.Context)
+    15:17:public UnScrollViewPager(android.content.Context,android.util.AttributeSet)
+cmccsi.mhealth.app.sports.view.WiperSwitch:
+    private float downX
+cmccsi.mhealth.app.sports.view.XListView:
+    private static final int SCROLLBACK_HEADER
+    private static final int SCROLLBACK_FOOTER
+    private static final int SCROLL_DURATION
+    private static final int PULL_LOAD_MORE_DELTA
+    private static final float OFFSET_RADIO
+    181:183:public void hide()
+cmccsi.mhealth.app.sports.view.XListViewFooter:
+    public static final int STATE_NORMAL
+    public static final int STATE_READY
+    public static final int STATE_LOADING
+    34:36:public XListViewFooter(android.content.Context,android.util.AttributeSet)
+    71:73:public void normal()
+    80:82:public void loading()
+cmccsi.mhealth.app.sports.view.XListViewHeader:
+    public static final int STATE_NORMAL
+    public static final int STATE_READY
+    public static final int STATE_REFRESHING
+    48:50:public XListViewHeader(android.content.Context,android.util.AttributeSet)
+    53:56:public void hide()
+myjava.awt.datatransfer.MimeTypeProcessor$MimeType:
+    private static final long serialVersionUID
+    241:242:void removeParameter(java.lang.String)
+    245:245:java.lang.Object getSystemParameter(java.lang.String)
+    249:250:void addSystemParameter(java.lang.String,java.lang.Object)
+myjava.awt.datatransfer.Transferable:
+    public abstract boolean isDataFlavorSupported(myjava.awt.datatransfer.DataFlavor)
+    public abstract myjava.awt.datatransfer.DataFlavor[] getTransferDataFlavors()
+myjava.awt.datatransfer.UnsupportedFlavorException:
+    private static final long serialVersionUID

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="achartengine_height">300dp</dimen>
+    <dimen name="height_running_center">80dp</dimen>
+    <dimen name="map_list_height_blue">100dp</dimen>
+    <dimen name="map_list_width_blue">270dp</dimen>
+    <dimen name="menu_name_size">22sp</dimen>
+    <dimen name="text_size_running_date">35sp</dimen>
+    <dimen name="weight_acharview_height">250dp</dimen>
+</resources>

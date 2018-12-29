@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- https://developers.google.com/analytics/devguides/collection/android/v2/#manifest -->
+<resources xmlns:tools="https://schemas.android.com/tools" tools:ignore="TypographyDashes">
+
+    <!-- Replace placeholder ID with your tracking ID -->
+    <!-- <string name="ga_trackingId">UA-39000055-2</string>UA-39613003-2 -->
+    <string name="ga_trackingId">UA-39613003-2</string>
+    <!-- <string name="ga_trackingId">UA-39613003-1</string> -->
+    <!-- 5166551056240ba82b001d3c -->
+    <!-- Enable automatic activity tracking -->
+    <bool name="ga_autoActivityTracking">true</bool>
+
+    <!-- Enable automatic exception tracking -->
+    <bool name="ga_reportUncaughtExceptions">true</bool>
+
+</resources>

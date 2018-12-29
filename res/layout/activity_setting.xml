@@ -1,0 +1,716 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@drawable/sample_background"
+    android:orientation="vertical" >
+
+    <include layout="@layout/title_menu" />
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <RelativeLayout
+                android:id="@+id/setting_face"
+                style="@style/setting_item"
+                android:layout_height="80dp"
+                android:background="@drawable/listitem_round_up"
+                android:clickable="false" >
+
+                <TextView
+                    android:id="@+id/setting_face_image"
+                    style="@style/ListItemTextStyle"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentLeft="true"
+                    android:layout_centerInParent="true"
+                    android:layout_marginLeft="20.0dip"
+                    android:clickable="false"
+                    android:duplicateParentState="true"
+                    android:text="@string/face_image" />
+
+                <cmccsi.mhealth.app.sports.view.RoundAngleImageView
+                    android:id="@+id/imageview_avatar"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginRight="40dp"
+                    android:contentDescription="@null"
+                    android:src="@drawable/noavatar_middle"
+                    android:visibility="visible"
+                    app:roundHeight="10.0dip"
+                    app:roundWidth="10.0dip" />
+
+                <ImageView
+                    android:id="@+id/imageView1"
+                    style="@style/rank_setting_more"
+                    android:contentDescription="@string/image_content_description"
+                    android:visibility="invisible" />
+            </RelativeLayout>
+
+            <ImageView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20.0dip"
+                android:layout_marginRight="20.0dip"
+                android:contentDescription="@string/image_content_description"
+                android:src="@drawable/setting_view_line" />
+
+            <RelativeLayout
+                android:id="@+id/setting_nickname"
+                style="@style/setting_item_and"
+                android:layout_height="40dp"
+                android:layout_marginTop="0dp"
+                android:background="@drawable/listitem_round_center"
+                android:clickable="false" >
+
+                <TextView
+                    android:id="@+id/nickname_textview"
+                    style="@style/ListItemTextStyle"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentLeft="true"
+                    android:layout_centerInParent="true"
+                    android:layout_marginLeft="20.0dip"
+                    android:duplicateParentState="true"
+                    android:text="@string/nickname" />
+
+                <ImageView
+                    style="@style/rank_setting_more"
+                    android:contentDescription="@string/image_content_description"
+                    android:visibility="gone" />
+            </RelativeLayout>
+
+            <ImageView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20.0dip"
+                android:layout_marginRight="20.0dip"
+                android:contentDescription="@string/image_content_description"
+                android:src="@drawable/setting_view_line" />
+
+            <RelativeLayout
+                android:id="@+id/setting_phonenum"
+                style="@style/setting_item_notclick"
+                android:background="@drawable/listitem_round_center" >
+
+                <TextView
+                    android:id="@+id/setting_phone_num"
+                    style="@style/ListItemTextStyle"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentLeft="true"
+                    android:layout_centerInParent="true"
+                    android:layout_marginLeft="20.0dip"
+                    android:clickable="false"
+                    android:duplicateParentState="true"
+                    android:text="@string/telephonenumber" />
+            </RelativeLayout>
+
+            <ImageView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20.0dip"
+                android:layout_marginRight="20.0dip"
+                android:contentDescription="@string/image_content_description"
+                android:src="@drawable/setting_view_line" />
+
+
+            <RelativeLayout
+                style="@style/setting_item_notclick"
+                android:background="@drawable/listitem_round_center" >
+
+                <TextView
+                    android:id="@+id/setting_my_groupname"
+                    style="@style/ListItemTextStyle"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentLeft="true"
+                    android:layout_centerInParent="true"
+                    android:layout_marginLeft="20.0dip"
+                    android:duplicateParentState="true"
+                    android:text="@string/textview_mygroup" />
+            </RelativeLayout>
+
+            <ImageView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20.0dip"
+                android:layout_marginRight="20.0dip"
+                android:contentDescription="@string/image_content_description"
+                android:src="@drawable/setting_view_line" />
+
+            <RelativeLayout
+                android:id="@+id/setting_area"
+                style="@style/setting_item_and"
+                android:layout_height="40dp"
+                android:layout_marginTop="0dp"
+                android:background="@drawable/listitem_round_center" >
+
+                <TextView
+                    android:id="@+id/textview_area"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentLeft="true"
+                    android:layout_centerInParent="true"
+                    android:layout_marginLeft="20.0dip"
+                    android:duplicateParentState="true"
+                    android:text="所属区域:"
+                    android:textColor="#35ACE1"
+                    android:textSize="15sp" />
+
+                <TextView
+                    android:id="@+id/tv_area_detail"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerInParent="true"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginRight="25dp"
+                    android:layout_toRightOf="@+id/textview_area"
+                    android:duplicateParentState="true"
+                    android:text="(请选择您的地域组织信息，加入后可查看所在区域的排行榜)" />
+
+                <ImageView
+                    style="@style/rank_setting_more"
+                    android:contentDescription="@string/image_content_description"
+                    android:visibility="visible" />
+            </RelativeLayout>
+
+            <ImageView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20.0dip"
+                android:layout_marginRight="20.0dip"
+                android:contentDescription="@string/image_content_description"
+                android:src="@drawable/setting_view_line" />
+
+            <RelativeLayout
+                android:id="@+id/setting_birthday"
+                style="@style/setting_item_and"
+                android:layout_height="40dp"
+                android:layout_marginTop="0dp"
+                android:background="#ffffff" >
+
+                <TextView
+                    android:id="@+id/textview_birthday"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentLeft="true"
+                    android:layout_centerInParent="true"
+                    android:layout_marginLeft="20.0dip"
+                    android:duplicateParentState="true"
+                    android:text="@string/string_birthday"
+                    android:textColor="#000000"
+                    android:textSize="15sp" />
+
+                <ImageView
+                    style="@style/rank_setting_more"
+                    android:contentDescription="@string/image_content_description"
+                    android:visibility="gone" />
+            </RelativeLayout>
+
+            <ImageView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20.0dip"
+                android:layout_marginRight="20.0dip"
+                android:contentDescription="@string/image_content_description"
+                android:src="@drawable/setting_view_line" />
+
+            <RelativeLayout
+                android:id="@+id/setting_height"
+                style="@style/setting_item_and"
+                android:layout_height="40dp"
+                android:layout_marginTop="0dp"
+                android:background="#ffffff" >
+
+                <TextView
+                    android:id="@+id/height_textview"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentLeft="true"
+                    android:layout_centerInParent="true"
+                    android:layout_marginLeft="20.0dip"
+                    android:duplicateParentState="true"
+                    android:text="@string/text_height"
+                    android:textColor="#000000" />
+
+                <ImageView
+                    style="@style/rank_setting_more"
+                    android:contentDescription="@string/image_content_description"
+                    android:visibility="gone" />
+            </RelativeLayout>
+
+            <ImageView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20.0dip"
+                android:layout_marginRight="20.0dip"
+                android:contentDescription="@string/image_content_description"
+                android:src="@drawable/setting_view_line" />
+
+            <RelativeLayout
+                android:id="@+id/setting_weight_1"
+                style="@style/setting_item_and"
+                android:layout_height="40dp"
+                android:layout_marginTop="0dp"
+                android:background="@drawable/listitem_round_bottom_normal" >
+
+                <TextView
+                    android:id="@+id/textview_weight"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentLeft="true"
+                    android:layout_centerInParent="true"
+                    android:layout_marginLeft="20.0dip"
+                    android:duplicateParentState="true"
+                    android:text="@string/string_weight"
+                    android:textColor="#000000"
+                    android:textSize="15sp" />
+
+                <ImageView
+                    style="@style/rank_setting_more"
+                    android:contentDescription="@string/image_content_description"
+                    android:visibility="gone" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/setting_aboutIS"
+                style="@style/setting_item"
+                android:layout_height="40dp"
+                android:background="@drawable/listitem_round_up"
+                android:visibility="gone" >
+
+                <TextView
+                    android:id="@+id/tv_ishang"
+                    style="@style/ListItemTextStyle"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentLeft="true"
+                    android:layout_centerInParent="true"
+                    android:layout_marginLeft="20.0dip"
+                    android:duplicateParentState="true"
+                    android:text="@string/textview_aboutapk" />
+
+                <ImageView
+                    style="@style/rank_setting_more"
+                    android:contentDescription="@string/image_content_description" />
+            </RelativeLayout>
+            <!-- 新手导引 -->
+
+            <ImageView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20.0dip"
+                android:layout_marginRight="20.0dip"
+                android:contentDescription="@string/image_content_description"
+                android:src="@drawable/setting_view_line"
+                android:visibility="gone" />
+
+
+            <RelativeLayout
+                android:id="@+id/rl_bracelet_setting"
+                style="@style/setting_item_and"
+                android:layout_height="40dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/listitem_round_up" >
+
+                <TextView
+                    style="@style/ListItemTextStyle"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentLeft="true"
+                    android:layout_centerInParent="true"
+                    android:layout_marginLeft="20dip"
+                    android:clickable="false"
+                    android:duplicateParentState="true"
+                    android:text="@string/bracelet_setting" />
+
+                <ImageView
+                    style="@style/rank_setting_more"
+                    android:contentDescription="@string/image_content_description"
+                    android:visibility="visible" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/rl_step_switch"
+                style="@style/setting_item_notclick"
+                android:layout_height="40dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/listitem_round_up_bottom" >
+
+                <TextView
+                    style="@style/ListItemTextStyle"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentLeft="true"
+                    android:layout_centerInParent="true"
+                    android:layout_marginLeft="20dip"
+                    android:clickable="false"
+                    android:duplicateParentState="true"
+                    android:text="计步开关：" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_toLeftOf="@+id/sw_startStep"
+                    android:text="关"
+                    android:textColor="@color/black" />
+
+                <cmccsi.mhealth.app.sports.view.WiperSwitch
+                    android:id="@+id/sw_startStep"
+                    android:layout_width="60dp"
+                    android:layout_height="30dp"
+                    android:layout_centerVertical="true"
+                    android:layout_toLeftOf="@+id/tv_step_off" />
+
+                <TextView
+                    android:id="@+id/tv_step_off"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginRight="10dp"
+                    android:text="开"
+                    android:textColor="@color/black" />
+            </RelativeLayout>
+            <!-- 检查更新 -->
+
+            <RelativeLayout
+                android:id="@+id/setting_sport_target"
+                style="@style/setting_item_and"
+                android:layout_height="40dp"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/listitem_round_up" >
+
+                <TextView
+                    android:id="@+id/tv_sport_target"
+                    style="@style/ListItemTextStyle"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentLeft="true"
+                    android:layout_centerInParent="true"
+                    android:layout_marginLeft="20.0dip"
+                    android:clickable="false"
+                    android:duplicateParentState="true"
+                    android:text="@string/textview_runtarget" />
+
+                <TextView
+                    android:id="@+id/setting_sport_target_num"
+                    style="@style/ListItemTextStyle"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerInParent="true"
+                    android:layout_toRightOf="@id/tv_sport_target"
+                    android:clickable="false"
+                    android:duplicateParentState="true"
+                    android:text="@string/text_zeronum" />
+
+                <ImageView
+                    style="@style/rank_setting_more"
+                    android:contentDescription="@string/image_content_description" />
+            </RelativeLayout>
+
+            <ImageView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20.0dip"
+                android:layout_marginRight="20.0dip"
+                android:contentDescription="@string/image_content_description"
+                android:src="@drawable/setting_view_line" />
+
+            <RelativeLayout
+                android:id="@+id/setting_target_weight"
+                style="@style/setting_item_and"
+                android:layout_height="40dp"
+                android:layout_marginTop="0dp"
+                android:background="@drawable/listitem_round_bottom" >
+
+                <TextView
+                    android:id="@+id/targetWeight_textview"
+                    style="@style/ListItemTextStyle"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentLeft="true"
+                    android:layout_centerInParent="true"
+                    android:layout_marginLeft="20.0dip"
+                    android:duplicateParentState="true"
+                    android:text="@string/text_target_weight" />
+
+                <ImageView
+                    style="@style/rank_setting_more"
+                    android:contentDescription="@string/image_content_description" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/setting_update"
+                style="@style/setting_item"
+                android:layout_height="40dp"
+                android:background="@drawable/listitem_round_up"
+                android:visibility="gone" >
+
+                <TextView
+                    android:id="@+id/setting_version"
+                    style="@style/ListItemTextStyle"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentLeft="true"
+                    android:layout_centerInParent="true"
+                    android:layout_marginLeft="20.0dip"
+                    android:duplicateParentState="true"
+                    android:text="@string/textview_inspect_version" />
+
+                <TextView
+                    android:id="@+id/tv_version"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerInParent="true"
+                    android:layout_marginLeft="5.0dip"
+                    android:layout_toRightOf="@id/setting_version"
+                    android:duplicateParentState="true"
+                    android:text="@string/textview_version" />
+
+                <ImageView
+                    style="@style/rank_setting_more"
+                    android:contentDescription="@string/image_content_description" />
+            </RelativeLayout>
+
+            <!-- 设置密码 -->
+
+            <ImageView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20.0dip"
+                android:layout_marginRight="20.0dip"
+                android:contentDescription="@string/image_content_description"
+                android:src="@drawable/setting_view_line"
+                android:visibility="gone" />
+
+            
+
+            <RelativeLayout
+                android:id="@+id/rlayout_setting_help"
+                style="@style/setting_item_and"
+                android:layout_height="40dp"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/listitem_round_up" >
+
+                <TextView
+                    style="@style/ListItemTextStyle"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentLeft="true"
+                    android:layout_centerInParent="true"
+                    android:layout_marginLeft="20.0dip"
+                    android:duplicateParentState="true"
+                    android:text="@string/textview_help" />
+
+                <ImageView
+                    style="@style/rank_setting_more"
+                    android:contentDescription="@string/image_content_description" />
+            </RelativeLayout>
+
+            <ImageView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20.0dip"
+                android:layout_marginRight="20.0dip"
+                android:contentDescription="@string/image_content_description"
+                android:src="@drawable/setting_view_line" />
+
+            <!-- 绑定设备隐藏 -->
+
+            <RelativeLayout
+                android:id="@+id/rl_setting_clear"
+                style="@style/setting_item_and"
+                android:layout_height="40dp"
+                android:background="@drawable/listitem_round_center" >
+
+                <TextView
+                    style="@style/ListItemTextStyle"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentLeft="true"
+                    android:layout_centerInParent="true"
+                    android:layout_marginLeft="20.0dip"
+                    android:duplicateParentState="true"
+                    android:text="清除缓存" />
+            </RelativeLayout>
+
+            <ImageView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20.0dip"
+                android:layout_marginRight="20.0dip"
+                android:contentDescription="@string/image_content_description"
+                android:src="@drawable/setting_view_line" />
+
+            <RelativeLayout
+                android:id="@+id/rlayout_setting_device"
+                style="@style/setting_item_and"
+                android:layout_height="40dp"
+                android:background="@drawable/listitem_round_center" >
+
+                <TextView
+                    style="@style/ListItemTextStyle"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentLeft="true"
+                    android:layout_centerInParent="true"
+                    android:layout_marginLeft="20.0dip"
+                    android:duplicateParentState="true"
+                    android:text="@string/textview_binddevice" />
+
+                <ImageView
+                    style="@style/rank_setting_more"
+                    android:contentDescription="@string/image_content_description" />
+            </RelativeLayout>
+
+            <ImageView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20.0dip"
+                android:layout_marginRight="20.0dip"
+                android:contentDescription="@string/image_content_description"
+                android:src="@drawable/setting_view_line" />
+
+            <RelativeLayout
+                android:id="@+id/rlayout_setting_boot_run"
+                style="@style/setting_item_and"
+                android:layout_height="40dp"
+                android:background="@drawable/listitem_round_center" >
+
+                <TextView
+                    style="@style/ListItemTextStyle"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentLeft="true"
+                    android:layout_centerInParent="true"
+                    android:layout_marginLeft="20dip"
+                    android:clickable="false"
+                    android:duplicateParentState="true"
+                    android:text="@string/textview_boot_run" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_toLeftOf="@+id/sw_setting_boot_run"
+                    android:text="关"
+                    android:textColor="@color/black" />
+
+                <cmccsi.mhealth.app.sports.view.WiperSwitch
+                    android:id="@+id/sw_setting_boot_run"
+                    android:layout_width="60dp"
+                    android:layout_height="30dp"
+                    android:layout_centerVertical="true"
+                    android:layout_toLeftOf="@+id/tv_setting_boot_run_off" />
+
+                <TextView
+                    android:id="@+id/tv_setting_boot_run_off"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginRight="10dp"
+                    android:text="开"
+                    android:textColor="@color/black" />
+            </RelativeLayout>
+
+            <ImageView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20.0dip"
+                android:layout_marginRight="20.0dip"
+                android:contentDescription="@string/image_content_description"
+                android:src="@drawable/setting_view_line" />
+
+            <RelativeLayout
+                android:id="@+id/setting_feedback"
+                style="@style/setting_item"
+                android:layout_height="40dp"
+                android:layout_marginTop="0dp"
+                android:background="@drawable/listitem_round_center" >
+
+                <TextView
+                    style="@style/ListItemTextStyle"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentLeft="true"
+                    android:layout_centerInParent="true"
+                    android:layout_marginLeft="20.0dip"
+                    android:duplicateParentState="true"
+                    android:text="@string/textview_feedback" />
+
+                <ImageView
+                    style="@style/rank_setting_more"
+                    android:contentDescription="@string/image_content_description" />
+            </RelativeLayout>
+
+            <ImageView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20.0dip"
+                android:layout_marginRight="20.0dip"
+                android:contentDescription="@string/image_content_description"
+                android:src="@drawable/setting_view_line" />
+
+            <RelativeLayout
+                android:id="@+id/setting_problem"
+                style="@style/setting_item"
+                android:layout_height="40dp"
+                android:layout_marginTop="0dp"
+                android:background="@drawable/listitem_round_bottom" >
+
+                <TextView
+                    style="@style/ListItemTextStyle"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentLeft="true"
+                    android:layout_centerInParent="true"
+                    android:layout_marginLeft="20.0dip"
+                    android:duplicateParentState="true"
+                    android:text="常见问题" />
+
+                <ImageView
+                    style="@style/rank_setting_more"
+                    android:contentDescription="@string/image_content_description" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/setting_exit"
+                style="@style/setting_item_and"
+                android:layout_height="40dp"
+                android:layout_marginBottom="20dip"
+                android:layout_marginTop="10dip"
+                android:background="@drawable/listitem_round"
+                android:visibility="visible" >
+
+                <TextView
+                    style="@style/ListItemTextStyle"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerInParent="true"
+                    android:layout_marginLeft="20.0dip"
+                    android:clickable="false"
+                    android:duplicateParentState="true"
+                    android:text="退出"
+                    android:textColor="#ffffffff" />
+            </RelativeLayout>
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

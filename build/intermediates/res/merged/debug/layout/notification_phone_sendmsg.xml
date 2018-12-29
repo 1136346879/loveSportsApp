@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="60dp"
+    android:gravity="center_vertical"
+    android:orientation="horizontal" >
+
+    <TextView
+        android:id="@+id/notification_phone_sendmsg_text"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center_vertical"
+        android:layout_weight="1"
+        android:drawableLeft="@drawable/i_shang_notifycation"
+        android:drawablePadding="12dp"
+        android:gravity="center_vertical"
+        android:paddingLeft="3dp"
+        android:paddingRight="10dp"
+        android:text="爱动力通知信息"
+        android:textSize="14sp" />
+
+</RelativeLayout>

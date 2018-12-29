@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white" >
+
+    <include
+        android:id="@+id/title"
+        layout="@layout/title_menu" />
+
+    <ImageView
+        android:id="@+id/iv_showGoal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/title"
+        android:scaleType="centerCrop"
+        android:src="@drawable/goal_title_drawable" />
+
+    <cmccsi.mhealth.app.sports.view.HorizontalMarqueeTextView
+        android:id="@+id/tv_showGoal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@id/iv_showGoal"
+        android:background="#aa000000"
+        android:ellipsize="marquee"
+        android:marqueeRepeatLimit="marquee_forever"
+        android:paddingBottom="5dp"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp"
+        android:paddingTop="5dp"
+        android:singleLine="true"
+        android:text="您可以选择下列运动目标                                                                     "
+        android:textColor="@color/white"
+        android:textSize="20sp" />
+
+    <ListView
+        android:id="@+id/lv_achievementTypes"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/iv_showGoal"
+        android:cacheColorHint="@color/transparent"
+        android:divider="@null" >
+    </ListView>
+
+</RelativeLayout>

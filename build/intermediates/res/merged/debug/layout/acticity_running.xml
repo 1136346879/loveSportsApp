@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical" >
+
+    <include
+        android:id="@+id/detail_title"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        layout="@layout/title_menu2" />
+
+    <LinearLayout
+        android:id="@+id/LLayout_map"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1" >
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" >
+
+            <com.baidu.mapapi.map.MapView
+                android:id="@+id/map_start"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:clickable="true" />
+
+            <Button
+                android:id="@+id/button_get_location"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:layout_gravity="bottom"
+                android:layout_marginBottom="8dp"
+                android:layout_marginLeft="8dp"
+                android:background="@drawable/map_location"
+                android:button="@null"
+                android:checked="false" />
+
+            <Button
+                android:id="@+id/button_open_map"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:layout_gravity="bottom|right"
+                android:layout_marginBottom="8dp"
+                android:layout_marginRight="8dp"
+                android:background="@drawable/map_max_min"
+                android:button="@null"
+                android:checked="false" />
+            <ImageView
+                android:id="@+id/iv_map_gps"
+                android:layout_width="52dp"
+                android:layout_height="18dp"
+                android:layout_gravity="top"
+                android:layout_marginTop="8dp"
+                android:layout_marginLeft="8dp"
+                android:button="@null"
+                android:checked="false" />
+
+        </FrameLayout>
+    </LinearLayout>
+
+    <View
+        android:layout_width="wrap_content"
+        android:layout_height="1dp"
+        android:background="@color/gray" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:orientation="horizontal" >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="10dp"
+                android:layout_weight="1.0"
+                android:gravity="center"
+                android:orientation="vertical" >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="距离(公里)"
+                    android:textColor="@color/black" />
+
+                <TextView
+                    android:id="@+id/textview_kilometre"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_marginTop="5dp"
+                    android:text="-.--"
+                    android:textColor="@color/green1"
+                    android:textSize="25sp"
+                    android:textStyle="bold" />
+            </LinearLayout>
+
+            <View
+                android:layout_width="1dp"
+                android:layout_height="match_parent"
+                android:background="@color/gray" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="10dp"
+                android:layout_weight="1.0"
+                android:gravity="center"
+                android:orientation="vertical" >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="用时:"
+                    android:textColor="@color/black" />
+
+                <TextView
+                    android:id="@+id/startmap_timer"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_marginTop="5dp"
+                    android:text="00:00:00"
+                    android:textColor="@color/green1"
+                    android:textSize="25sp"
+                    android:textStyle="bold" />
+            </LinearLayout>
+        </LinearLayout>
+
+	<View
+	    android:layout_width="wrap_content"
+	    android:layout_height="1dp"
+	    android:background="@color/gray" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:layout_alignParentBottom="true"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:orientation="horizontal" >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginBottom="5dp"
+                android:layout_weight="1.0"
+                android:gravity="center"
+                android:orientation="vertical" >
+
+                <TextView
+                    android:id="@+id/textview_speed"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_marginBottom="5dp"
+                    android:text="-.--"
+                    android:textColor="@color/green1"
+                    android:textSize="25sp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="时速(公里/小时)"
+                    android:textColor="@color/black" />
+            </LinearLayout>
+
+			<View
+			    android:layout_width="1dp"
+			    android:layout_height="match_parent"
+			    android:background="@color/gray" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginBottom="5dp"
+                android:layout_weight="1.0"
+                android:gravity="center"
+                android:orientation="vertical" >
+
+                <TextView
+                    android:id="@+id/textview_altitude"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_marginBottom="5dp"
+                    android:text="-.--"
+                    android:textColor="@color/green1"
+                    android:textSize="25sp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="海拔(米)"
+                    android:textColor="@color/black" />
+            </LinearLayout>
+        </LinearLayout>
+        
+	<View
+	    android:layout_width="wrap_content"
+	    android:layout_height="1dp"
+	    android:background="@color/gray" />
+
+    <LinearLayout
+        android:id="@id/linearlayout_null"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginBottom="10dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="10dp"
+        android:gravity="center" >
+
+        <Button
+            android:id="@+id/button_finish_running"
+            android:layout_width="120dp"
+            android:layout_height="50dp"
+            android:layout_marginRight="20dp"
+            android:background="@drawable/button_start_running"
+            android:text="完成" />
+
+        <Button
+            android:id="@+id/button_stop_running"
+            android:layout_width="120dp"
+            android:layout_height="50dp"
+            android:layout_marginLeft="20dp"
+            android:enabled="false"
+            android:text="暂停" />
+    </LinearLayout>
+
+</LinearLayout>
