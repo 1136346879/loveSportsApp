@@ -1,79 +1,59 @@
 [
     {
-        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\img_achievement_qinghailake.png",
-        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\drawable-xhdpi\\img_achievement_qinghailake.png"
-    },
-    {
         "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_ranking_transparent.png",
         "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\drawable-xhdpi\\icon_ranking_transparent.png"
+    },
+    {
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bg_rankid.png",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\drawable-xhdpi\\bg_rankid.png"
     },
     {
         "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\map_cycle_on.png",
         "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\drawable-xhdpi\\map_cycle_on.png"
     },
     {
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\grid_message.png",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\drawable-xhdpi\\grid_message.png"
+    },
+    {
         "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_pedo_distance.png",
         "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\drawable-xhdpi\\icon_pedo_distance.png"
     },
     {
-        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\list_focused_holo.9.png",
-        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\drawable-xhdpi\\list_focused_holo.9.png"
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\list_selector_disabled_holo_light.9.png",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\drawable-xhdpi\\list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_achievement_marathon.png",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\drawable-xhdpi\\icon_achievement_marathon.png"
     },
     {
         "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\list_longpressed_holo.9.png",
         "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\drawable-xhdpi\\list_longpressed_holo.9.png"
     },
     {
-        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\grid_health_selected.png",
-        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\drawable-xhdpi\\grid_health_selected.png"
-    },
-    {
-        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\login_click.png",
-        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\drawable-xhdpi\\login_click.png"
-    },
-    {
-        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_achievement_earth.png",
-        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\drawable-xhdpi\\icon_achievement_earth.png"
-    },
-    {
         "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\tab_main.png",
         "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\drawable-xhdpi\\tab_main.png"
-    },
-    {
-        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\top_menu_history.png",
-        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\drawable-xhdpi\\top_menu_history.png"
     },
     {
         "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_pedo_cal.png",
         "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\drawable-xhdpi\\icon_pedo_cal.png"
     },
     {
-        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\grid_quyu.png",
-        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\drawable-xhdpi\\grid_quyu.png"
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\cal_achieve3_press.png",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\drawable-xhdpi\\cal_achieve3_press.png"
     },
     {
-        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_share.png",
-        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\drawable-xhdpi\\icon_share.png"
-    },
-    {
-        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_achievement_qinghailake.png",
-        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\drawable-xhdpi\\icon_achievement_qinghailake.png"
-    },
-    {
-        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\grid_gui_selected.png",
-        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\drawable-xhdpi\\grid_gui_selected.png"
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\grid_qiye_selected.png",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\drawable-xhdpi\\grid_qiye_selected.png"
     },
     {
         "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\gridecg.png",
         "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\drawable-xhdpi\\gridecg.png"
     },
     {
-        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\day_detail_5.png",
-        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\drawable-xhdpi\\day_detail_5.png"
-    },
-    {
-        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\slidingmenu_8_on.png",
-        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\drawable-xhdpi\\slidingmenu_8_on.png"
+        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_achievement_qinghailake.png",
+        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\drawable-xhdpi\\icon_achievement_qinghailake.png"
     },
     {
         "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\list_pressed_holo_light.9.png",
@@ -96,36 +76,64 @@
         "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\drawable-xhdpi\\cal_achieve3_normal.png"
     },
     {
-        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\cal_achieve3_press.png",
-        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\drawable-xhdpi\\cal_achieve3_press.png"
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\grid_quyu.png",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\drawable-xhdpi\\grid_quyu.png"
+    },
+    {
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\grid_health_selected.png",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\drawable-xhdpi\\grid_health_selected.png"
+    },
+    {
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\grid_health.png",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\drawable-xhdpi\\grid_health.png"
     },
     {
         "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\cal_achieve2_normal.png",
         "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\drawable-xhdpi\\cal_achieve2_normal.png"
     },
     {
-        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\imageview_activitydetails_avg.png",
-        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\drawable-xhdpi\\imageview_activitydetails_avg.png"
-    },
-    {
         "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\map_cycle_off.png",
         "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\drawable-xhdpi\\map_cycle_off.png"
+    },
+    {
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\cal_achieve4_normal.png",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\drawable-xhdpi\\cal_achieve4_normal.png"
+    },
+    {
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\img_achievement_huanghe.png",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\drawable-xhdpi\\img_achievement_huanghe.png"
+    },
+    {
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_achievement_taiwan.png",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\drawable-xhdpi\\icon_achievement_taiwan.png"
+    },
+    {
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\cal_achieve3_normal.png",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\drawable-xhdpi\\cal_achieve3_normal.png"
+    },
+    {
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\cal_achieve2_normal.png",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\drawable-xhdpi\\cal_achieve2_normal.png"
     },
     {
         "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\grid_quyu_selected.png",
         "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\drawable-xhdpi\\grid_quyu_selected.png"
     },
     {
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_achievement_earth.png",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\drawable-xhdpi\\icon_achievement_earth.png"
+    },
+    {
         "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\cal_archive_explain.png",
         "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\drawable-xhdpi\\cal_archive_explain.png"
     },
     {
-        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_achievement_marathon.png",
-        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\drawable-xhdpi\\icon_achievement_marathon.png"
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\map_run_on.png",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\drawable-xhdpi\\map_run_on.png"
     },
     {
-        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\img_achievement_taiwan.png",
-        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\drawable-xhdpi\\img_achievement_taiwan.png"
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\cal_achieve1_normal.png",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\drawable-xhdpi\\cal_achieve1_normal.png"
     },
     {
         "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\grid_achievement_selected.png",
@@ -136,52 +144,76 @@
         "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\drawable-xhdpi\\map_run_on.png"
     },
     {
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\goal_title_drawable.png",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\drawable-xhdpi\\goal_title_drawable.png"
+    },
+    {
         "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\grid_huodong.png",
         "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\drawable-xhdpi\\grid_huodong.png"
+    },
+    {
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_checkoff.png",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\drawable-xhdpi\\icon_checkoff.png"
     },
     {
         "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\menu_more.png",
         "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\drawable-xhdpi\\menu_more.png"
     },
     {
-        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\grid_jingsai_selected.png",
-        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\drawable-xhdpi\\grid_jingsai_selected.png"
-    },
-    {
-        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\map_walk_off.png",
-        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\drawable-xhdpi\\map_walk_off.png"
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\grid_paiming.png",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\drawable-xhdpi\\grid_paiming.png"
     },
     {
         "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\grid_huodong_selected.png",
         "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\drawable-xhdpi\\grid_huodong_selected.png"
     },
     {
-        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\grid_wight.png",
-        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\drawable-xhdpi\\grid_wight.png"
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\grid_haoyou.png",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\drawable-xhdpi\\grid_haoyou.png"
     },
     {
         "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\map_walk_on.png",
         "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\drawable-xhdpi\\map_walk_on.png"
     },
     {
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\switch_btn.png",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\drawable-xhdpi\\switch_btn.png"
+    },
+    {
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\img_achievement_marathon.png",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\drawable-xhdpi\\img_achievement_marathon.png"
+    },
+    {
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\img_achievement_beijing.png",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\drawable-xhdpi\\img_achievement_beijing.png"
+    },
+    {
         "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\login_drawable_user.png",
         "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\drawable-xhdpi\\login_drawable_user.png"
-    },
-    {
-        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\grid_jingsai.png",
-        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\drawable-xhdpi\\grid_jingsai.png"
-    },
-    {
-        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\img_achievement_marathon.png",
-        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\drawable-xhdpi\\img_achievement_marathon.png"
     },
     {
         "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\np_numberpicker_selection_divider.9.png",
         "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\drawable-xhdpi\\np_numberpicker_selection_divider.9.png"
     },
     {
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\gridecg_select.png",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\drawable-xhdpi\\gridecg_select.png"
+    },
+    {
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\map_run_off.png",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\drawable-xhdpi\\map_run_off.png"
+    },
+    {
         "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\grid_message.png",
         "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\drawable-xhdpi\\grid_message.png"
+    },
+    {
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bg_rank_headlayout.png",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\drawable-xhdpi\\bg_rank_headlayout.png"
+    },
+    {
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\cal_archive_process.png",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\drawable-xhdpi\\cal_archive_process.png"
     },
     {
         "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\drawable_load_error.png",
@@ -196,6 +228,14 @@
         "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\drawable-xhdpi\\grid_paiming_selected.png"
     },
     {
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_pedo_cal.png",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\drawable-xhdpi\\icon_pedo_cal.png"
+    },
+    {
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\grid_gui_selected.png",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\drawable-xhdpi\\grid_gui_selected.png"
+    },
+    {
         "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\cal_achieve4_press.png",
         "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\drawable-xhdpi\\cal_achieve4_press.png"
     },
@@ -208,40 +248,48 @@
         "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\drawable-xhdpi\\cal_archive_process.png"
     },
     {
-        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\switch_btn.png",
-        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\drawable-xhdpi\\switch_btn.png"
-    },
-    {
         "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_rank_foot_transparent.png",
         "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\drawable-xhdpi\\icon_rank_foot_transparent.png"
     },
     {
-        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\grid_achievement.png",
-        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\drawable-xhdpi\\grid_achievement.png"
+        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\switch_btn.png",
+        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\drawable-xhdpi\\switch_btn.png"
     },
     {
         "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\gridecg_select.png",
         "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\drawable-xhdpi\\gridecg_select.png"
     },
     {
-        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\grid_health.png",
-        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\drawable-xhdpi\\grid_health.png"
-    },
-    {
-        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_checkon.png",
-        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\drawable-xhdpi\\icon_checkon.png"
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\grid_wight_selected.png",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\drawable-xhdpi\\grid_wight_selected.png"
     },
     {
         "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\top_menu.png",
         "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\drawable-xhdpi\\top_menu.png"
     },
     {
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\list_pressed_holo_light.9.png",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\drawable-xhdpi\\list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\grid_wight.png",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\drawable-xhdpi\\grid_wight.png"
+    },
+    {
         "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_achievement_beijing.png",
         "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\drawable-xhdpi\\icon_achievement_beijing.png"
     },
     {
-        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bg_rankid.png",
-        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\drawable-xhdpi\\bg_rankid.png"
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\img_achievement_earth.png",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\drawable-xhdpi\\img_achievement_earth.png"
+    },
+    {
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\grid_jingsai.png",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\drawable-xhdpi\\grid_jingsai.png"
+    },
+    {
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\drawable_load_error.png",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\drawable-xhdpi\\drawable_load_error.png"
     },
     {
         "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\grid_lishi.png",
@@ -256,28 +304,16 @@
         "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\drawable-xhdpi\\grid_daren.png"
     },
     {
-        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\list_pressed_holo_dark.9.png",
-        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\drawable-xhdpi\\list_pressed_holo_dark.9.png"
-    },
-    {
-        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_achievement_huanghe.png",
-        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\drawable-xhdpi\\icon_achievement_huanghe.png"
-    },
-    {
         "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\grid_lishi_selected.png",
         "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\drawable-xhdpi\\grid_lishi_selected.png"
-    },
-    {
-        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\grid_zhishi_selected.png",
-        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\drawable-xhdpi\\grid_zhishi_selected.png"
     },
     {
         "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\cal_achieve2_press.png",
         "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\drawable-xhdpi\\cal_achieve2_press.png"
     },
     {
-        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\list_selector_disabled_holo_light.9.png",
-        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\drawable-xhdpi\\list_selector_disabled_holo_light.9.png"
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\top_menu.png",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\drawable-xhdpi\\top_menu.png"
     },
     {
         "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bg_rank_headlayout.png",
@@ -292,10 +328,6 @@
         "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\drawable-xhdpi\\icon_achievement_taiwan.png"
     },
     {
-        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\grid_message_selected.png",
-        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\drawable-xhdpi\\grid_message_selected.png"
-    },
-    {
         "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\img_achievement_huanghe.png",
         "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\drawable-xhdpi\\img_achievement_huanghe.png"
     },
@@ -304,24 +336,12 @@
         "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\drawable-xhdpi\\grid_wight_selected.png"
     },
     {
-        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\notificationmsg.png",
-        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\drawable-xhdpi\\notificationmsg.png"
-    },
-    {
         "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\grid_haoyou.png",
         "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\drawable-xhdpi\\grid_haoyou.png"
     },
     {
-        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\grid_gui.png",
-        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\drawable-xhdpi\\grid_gui.png"
-    },
-    {
-        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\img_achievement_beijing.png",
-        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\drawable-xhdpi\\img_achievement_beijing.png"
-    },
-    {
-        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\grid_zhishi.png",
-        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\drawable-xhdpi\\grid_zhishi.png"
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\map_walk_off.png",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\drawable-xhdpi\\map_walk_off.png"
     },
     {
         "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\grid_qiye_selected.png",
@@ -332,16 +352,28 @@
         "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\drawable-xhdpi\\icon_checkoff.png"
     },
     {
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_share.png",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\drawable-xhdpi\\icon_share.png"
+    },
+    {
         "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\cal_achieve1_press.png",
         "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\drawable-xhdpi\\cal_achieve1_press.png"
+    },
+    {
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\grid_zhishi_selected.png",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\drawable-xhdpi\\grid_zhishi_selected.png"
     },
     {
         "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\loading.png",
         "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\drawable-xhdpi\\loading.png"
     },
     {
-        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\list_selector_disabled_holo_dark.9.png",
-        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\drawable-xhdpi\\list_selector_disabled_holo_dark.9.png"
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\grid_daren_selected.png",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\drawable-xhdpi\\grid_daren_selected.png"
+    },
+    {
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_warn.png",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\drawable-xhdpi\\icon_warn.png"
     },
     {
         "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\img_achievement_earth.png",
@@ -364,15 +396,359 @@
         "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\drawable-xhdpi\\icon_pedo_duration.png"
     },
     {
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\grid_lishi.png",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\drawable-xhdpi\\grid_lishi.png"
+    },
+    {
         "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\cutetitle.png",
         "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\drawable-xhdpi\\cutetitle.png"
+    },
+    {
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_achievement_qinghailake.png",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\drawable-xhdpi\\icon_achievement_qinghailake.png"
+    },
+    {
+        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\grid_haoyou_selected.png",
+        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\drawable-xhdpi\\grid_haoyou_selected.png"
+    },
+    {
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\grid_daren.png",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\drawable-xhdpi\\grid_daren.png"
+    },
+    {
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\cutetitle.png",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\drawable-xhdpi\\cutetitle.png"
+    },
+    {
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\np_numberpicker_selection_divider.9.png",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\drawable-xhdpi\\np_numberpicker_selection_divider.9.png"
+    },
+    {
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\cal_archive_explain.png",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\drawable-xhdpi\\cal_archive_explain.png"
+    },
+    {
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\map_cycle_off.png",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\drawable-xhdpi\\map_cycle_off.png"
+    },
+    {
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\map_walk_on.png",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\drawable-xhdpi\\map_walk_on.png"
+    },
+    {
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\tab_main.png",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\drawable-xhdpi\\tab_main.png"
+    },
+    {
+        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\img_achievement_qinghailake.png",
+        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\drawable-xhdpi\\img_achievement_qinghailake.png"
+    },
+    {
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\grid_quyu_selected.png",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\drawable-xhdpi\\grid_quyu_selected.png"
+    },
+    {
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\login_drawable_passwd.png",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\drawable-xhdpi\\login_drawable_passwd.png"
+    },
+    {
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\grid_haoyou_selected.png",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\drawable-xhdpi\\grid_haoyou_selected.png"
+    },
+    {
+        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\list_focused_holo.9.png",
+        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\drawable-xhdpi\\list_focused_holo.9.png"
+    },
+    {
+        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\grid_health_selected.png",
+        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\drawable-xhdpi\\grid_health_selected.png"
+    },
+    {
+        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\login_click.png",
+        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\drawable-xhdpi\\login_click.png"
+    },
+    {
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\grid_paiming_selected.png",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\drawable-xhdpi\\grid_paiming_selected.png"
+    },
+    {
+        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_achievement_earth.png",
+        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\drawable-xhdpi\\icon_achievement_earth.png"
+    },
+    {
+        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\top_menu_history.png",
+        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\drawable-xhdpi\\top_menu_history.png"
+    },
+    {
+        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\grid_quyu.png",
+        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\drawable-xhdpi\\grid_quyu.png"
+    },
+    {
+        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_share.png",
+        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\drawable-xhdpi\\icon_share.png"
+    },
+    {
+        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\grid_gui_selected.png",
+        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\drawable-xhdpi\\grid_gui_selected.png"
+    },
+    {
+        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\day_detail_5.png",
+        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\drawable-xhdpi\\day_detail_5.png"
+    },
+    {
+        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\slidingmenu_8_on.png",
+        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\drawable-xhdpi\\slidingmenu_8_on.png"
+    },
+    {
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\grid_lishi_selected.png",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\drawable-xhdpi\\grid_lishi_selected.png"
+    },
+    {
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\grid_zhishi.png",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\drawable-xhdpi\\grid_zhishi.png"
+    },
+    {
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\grid_jingsai_selected.png",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\drawable-xhdpi\\grid_jingsai_selected.png"
+    },
+    {
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\grid_achievement.png",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\drawable-xhdpi\\grid_achievement.png"
+    },
+    {
+        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\cal_achieve3_press.png",
+        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\drawable-xhdpi\\cal_achieve3_press.png"
+    },
+    {
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\grid_qiye.png",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\drawable-xhdpi\\grid_qiye.png"
+    },
+    {
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_ranking_transparent.png",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\drawable-xhdpi\\icon_ranking_transparent.png"
+    },
+    {
+        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\imageview_activitydetails_avg.png",
+        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\drawable-xhdpi\\imageview_activitydetails_avg.png"
+    },
+    {
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_achievement_huanghe.png",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\drawable-xhdpi\\icon_achievement_huanghe.png"
+    },
+    {
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\top_menu_history.png",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\drawable-xhdpi\\top_menu_history.png"
+    },
+    {
+        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_achievement_marathon.png",
+        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\drawable-xhdpi\\icon_achievement_marathon.png"
+    },
+    {
+        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\img_achievement_taiwan.png",
+        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\drawable-xhdpi\\img_achievement_taiwan.png"
+    },
+    {
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_rank_foot_transparent.png",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\drawable-xhdpi\\icon_rank_foot_transparent.png"
+    },
+    {
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\list_pressed_holo_dark.9.png",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\drawable-xhdpi\\list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_pedo_stepnum.png",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\drawable-xhdpi\\icon_pedo_stepnum.png"
+    },
+    {
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_pedo_distance.png",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\drawable-xhdpi\\icon_pedo_distance.png"
+    },
+    {
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_search.png",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\drawable-xhdpi\\icon_search.png"
+    },
+    {
+        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\grid_jingsai_selected.png",
+        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\drawable-xhdpi\\grid_jingsai_selected.png"
+    },
+    {
+        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\map_walk_off.png",
+        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\drawable-xhdpi\\map_walk_off.png"
+    },
+    {
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\login_click.png",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\drawable-xhdpi\\login_click.png"
+    },
+    {
+        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\grid_wight.png",
+        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\drawable-xhdpi\\grid_wight.png"
+    },
+    {
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_checkon.png",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\drawable-xhdpi\\icon_checkon.png"
+    },
+    {
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\cal_achieve1_press.png",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\drawable-xhdpi\\cal_achieve1_press.png"
+    },
+    {
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_pedo_duration.png",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\drawable-xhdpi\\icon_pedo_duration.png"
+    },
+    {
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\gridecg.png",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\drawable-xhdpi\\gridecg.png"
+    },
+    {
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\menu_more.png",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\drawable-xhdpi\\menu_more.png"
+    },
+    {
+        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\grid_jingsai.png",
+        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\drawable-xhdpi\\grid_jingsai.png"
+    },
+    {
+        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\img_achievement_marathon.png",
+        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\drawable-xhdpi\\img_achievement_marathon.png"
+    },
+    {
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\img_achievement_taiwan.png",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\drawable-xhdpi\\img_achievement_taiwan.png"
+    },
+    {
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\list_longpressed_holo.9.png",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\drawable-xhdpi\\list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\map_cycle_on.png",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\drawable-xhdpi\\map_cycle_on.png"
+    },
+    {
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\grid_achievement_selected.png",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\drawable-xhdpi\\grid_achievement_selected.png"
+    },
+    {
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\cal_achieve2_press.png",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\drawable-xhdpi\\cal_achieve2_press.png"
+    },
+    {
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_achievement_beijing.png",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\drawable-xhdpi\\icon_achievement_beijing.png"
+    },
+    {
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\imageview_activitydetails_avg.png",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\drawable-xhdpi\\imageview_activitydetails_avg.png"
+    },
+    {
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\login_drawable_user.png",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\drawable-xhdpi\\login_drawable_user.png"
+    },
+    {
+        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\grid_achievement.png",
+        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\drawable-xhdpi\\grid_achievement.png"
+    },
+    {
+        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\grid_health.png",
+        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\drawable-xhdpi\\grid_health.png"
+    },
+    {
+        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_checkon.png",
+        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\drawable-xhdpi\\icon_checkon.png"
+    },
+    {
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\grid_huodong.png",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\drawable-xhdpi\\grid_huodong.png"
+    },
+    {
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\grid_huodong_selected.png",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\drawable-xhdpi\\grid_huodong_selected.png"
+    },
+    {
+        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bg_rankid.png",
+        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\drawable-xhdpi\\bg_rankid.png"
+    },
+    {
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\slidingmenu_8_on.png",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\drawable-xhdpi\\slidingmenu_8_on.png"
+    },
+    {
+        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\list_pressed_holo_dark.9.png",
+        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\drawable-xhdpi\\list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\grid_gui.png",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\drawable-xhdpi\\grid_gui.png"
+    },
+    {
+        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_achievement_huanghe.png",
+        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\drawable-xhdpi\\icon_achievement_huanghe.png"
+    },
+    {
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\img_achievement_qinghailake.png",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\drawable-xhdpi\\img_achievement_qinghailake.png"
+    },
+    {
+        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\grid_zhishi_selected.png",
+        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\drawable-xhdpi\\grid_zhishi_selected.png"
+    },
+    {
+        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\list_selector_disabled_holo_light.9.png",
+        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\drawable-xhdpi\\list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\cal_achieve4_press.png",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\drawable-xhdpi\\cal_achieve4_press.png"
+    },
+    {
+        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\grid_message_selected.png",
+        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\drawable-xhdpi\\grid_message_selected.png"
+    },
+    {
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\loading.png",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\drawable-xhdpi\\loading.png"
+    },
+    {
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\notificationmsg.png",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\drawable-xhdpi\\notificationmsg.png"
+    },
+    {
+        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\notificationmsg.png",
+        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\drawable-xhdpi\\notificationmsg.png"
+    },
+    {
+        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\grid_gui.png",
+        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\drawable-xhdpi\\grid_gui.png"
+    },
+    {
+        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\grid_zhishi.png",
+        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\drawable-xhdpi\\grid_zhishi.png"
+    },
+    {
+        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\img_achievement_beijing.png",
+        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\drawable-xhdpi\\img_achievement_beijing.png"
+    },
+    {
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\grid_message_selected.png",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\drawable-xhdpi\\grid_message_selected.png"
+    },
+    {
+        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\list_selector_disabled_holo_dark.9.png",
+        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\drawable-xhdpi\\list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\day_detail_5.png",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\drawable-xhdpi\\day_detail_5.png"
+    },
+    {
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\list_selector_disabled_holo_dark.9.png",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\drawable-xhdpi\\list_selector_disabled_holo_dark.9.png"
     },
     {
         "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_pedo_stepnum.png",
         "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\drawable-xhdpi\\icon_pedo_stepnum.png"
     },
     {
-        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\grid_haoyou_selected.png",
-        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\drawable-xhdpi\\grid_haoyou_selected.png"
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\list_focused_holo.9.png",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\drawable-xhdpi\\list_focused_holo.9.png"
     }
 ]

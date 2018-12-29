@@ -6,7 +6,100 @@
     </shared>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="daa7768b-85a0-4e85-b040-c71a938c9894" name="Default" comment="" />
+    <list default="true" id="0dd80b23-66bf-4bc5-ad13-ec353375443b" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/intermediates/pre-dexed/debug/debug_94c107fb716814a6c92644097e3216d4fa095903.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/outputs/apk/lovesportsApp-debug-unaligned.apk" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/outputs/apk/lovesportsApp-debug.apk" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/lovesportsApp.iml" />
+      <change beforePath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/cache.properties.lock" />
+      <change beforePath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/fileHashes.bin" />
+      <change beforePath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/fileSnapshots.bin" />
+      <change beforePath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/outputFileStates.bin" afterPath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/outputFileStates.bin" />
+      <change beforePath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/taskArtifacts.bin" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle____local_aars___F__minedemo_workspace_as_Sport_androidstudio_app_libs_achartengine_1_1_0_jar_unspecified_jar.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle____local_aars___F__gitDemo_sportlove_lovesportsApp_libs_achartengine_1_1_0_jar_unspecified_jar.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle____local_aars___F__minedemo_workspace_as_Sport_androidstudio_app_libs_activation_jar_unspecified_jar.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle____local_aars___F__gitDemo_sportlove_lovesportsApp_libs_activation_jar_unspecified_jar.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle____local_aars___F__minedemo_workspace_as_Sport_androidstudio_app_libs_additionnal_jar_unspecified_jar.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle____local_aars___F__gitDemo_sportlove_lovesportsApp_libs_additionnal_jar_unspecified_jar.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle____local_aars___F__minedemo_workspace_as_Sport_androidstudio_app_libs_android_support_v4_jar_unspecified_jar.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle____local_aars___F__gitDemo_sportlove_lovesportsApp_libs_android_support_v4_jar_unspecified_jar.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle____local_aars___F__minedemo_workspace_as_Sport_androidstudio_app_libs_baidumapapi_v3_5_0_jar_unspecified_jar.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle____local_aars___F__gitDemo_sportlove_lovesportsApp_libs_baidumapapi_v3_5_0_jar_unspecified_jar.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle____local_aars___F__minedemo_workspace_as_Sport_androidstudio_app_libs_commons_codec_1_8_jar_unspecified_jar.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle____local_aars___F__gitDemo_sportlove_lovesportsApp_libs_commons_codec_1_8_jar_unspecified_jar.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle____local_aars___F__minedemo_workspace_as_Sport_androidstudio_app_libs_commons_lang_2_2_jar_unspecified_jar.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle____local_aars___F__gitDemo_sportlove_lovesportsApp_libs_commons_lang_2_2_jar_unspecified_jar.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle____local_aars___F__minedemo_workspace_as_Sport_androidstudio_app_libs_fastjson_1_1_33_jar_unspecified_jar.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle____local_aars___F__gitDemo_sportlove_lovesportsApp_libs_fastjson_1_1_33_jar_unspecified_jar.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle____local_aars___F__minedemo_workspace_as_Sport_androidstudio_app_libs_gson_2_2_3_jar_unspecified_jar.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle____local_aars___F__gitDemo_sportlove_lovesportsApp_libs_gson_2_2_3_jar_unspecified_jar.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle____local_aars___F__minedemo_workspace_as_Sport_androidstudio_app_libs_httpclient_4_1_3_jar_unspecified_jar.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle____local_aars___F__gitDemo_sportlove_lovesportsApp_libs_httpclient_4_1_3_jar_unspecified_jar.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle____local_aars___F__minedemo_workspace_as_Sport_androidstudio_app_libs_httpcore_4_1_4_jar_unspecified_jar.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle____local_aars___F__gitDemo_sportlove_lovesportsApp_libs_httpcore_4_1_4_jar_unspecified_jar.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle____local_aars___F__minedemo_workspace_as_Sport_androidstudio_app_libs_iShang_lib_ecg_jar_unspecified_jar.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle____local_aars___F__gitDemo_sportlove_lovesportsApp_libs_iShang_lib_ecg_jar_unspecified_jar.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle____local_aars___F__minedemo_workspace_as_Sport_androidstudio_app_libs_libTGEKG_jar_unspecified_jar.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle____local_aars___F__gitDemo_sportlove_lovesportsApp_libs_libTGEKG_jar_unspecified_jar.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle____local_aars___F__minedemo_workspace_as_Sport_androidstudio_app_libs_libTGbleManager_jar_unspecified_jar.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle____local_aars___F__gitDemo_sportlove_lovesportsApp_libs_libTGbleManager_jar_unspecified_jar.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle____local_aars___F__minedemo_workspace_as_Sport_androidstudio_app_libs_libammsdk_jar_unspecified_jar.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle____local_aars___F__gitDemo_sportlove_lovesportsApp_libs_libammsdk_jar_unspecified_jar.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle____local_aars___F__minedemo_workspace_as_Sport_androidstudio_app_libs_libdingdangota_jar_unspecified_jar.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle____local_aars___F__gitDemo_sportlove_lovesportsApp_libs_libdingdangota_jar_unspecified_jar.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle____local_aars___F__minedemo_workspace_as_Sport_androidstudio_app_libs_locSDK_6_05_jar_unspecified_jar.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle____local_aars___F__gitDemo_sportlove_lovesportsApp_libs_locSDK_6_05_jar_unspecified_jar.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle____local_aars___F__minedemo_workspace_as_Sport_androidstudio_app_libs_mail_jar_unspecified_jar.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle____local_aars___F__gitDemo_sportlove_lovesportsApp_libs_mail_jar_unspecified_jar.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle____local_aars___F__minedemo_workspace_as_Sport_androidstudio_app_libs_xUtils_2_6_14_jar_unspecified_jar.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle____local_aars___F__gitDemo_sportlove_lovesportsApp_libs_xUtils_2_6_14_jar_unspecified_jar.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle____local_aars___F__minedemo_workspace_as_Sport_androidstudio_app_libs_xcl_charts_jar_unspecified_jar.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle____local_aars___F__gitDemo_sportlove_lovesportsApp_libs_xcl_charts_jar_unspecified_jar.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/blame/res/debug/multi/values-1280x720.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/debug/multi/values-1280x720.json" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/blame/res/debug/multi/values-1920x1080.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/debug/multi/values-1920x1080.json" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/blame/res/debug/multi/values-v11.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/debug/multi/values-v11.json" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/blame/res/debug/multi/values-v14.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/debug/multi/values-v14.json" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/blame/res/debug/multi/values.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/debug/multi/values.json" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/blame/res/debug/single/anim.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/debug/single/anim.json" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/blame/res/debug/single/drawable-hdpi-v4.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/debug/single/drawable-hdpi-v4.json" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/blame/res/debug/single/drawable-ldpi-v4.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/debug/single/drawable-ldpi-v4.json" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/blame/res/debug/single/drawable-mdpi-v4.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/debug/single/drawable-mdpi-v4.json" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/blame/res/debug/single/drawable-xhdpi-v4.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/debug/single/drawable-xhdpi-v4.json" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/blame/res/debug/single/drawable-xxhdpi-v4.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/debug/single/drawable-xxhdpi-v4.json" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/blame/res/debug/single/drawable.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/debug/single/drawable.json" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/blame/res/debug/single/layout.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/debug/single/layout.json" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/MainFragmentActivity$1$1.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/MainFragmentActivity$1$1.class" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/MainFragmentActivity$1.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/MainFragmentActivity$1.class" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/MainFragmentActivity$2.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/MainFragmentActivity$2.class" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/MainFragmentActivity$3.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/MainFragmentActivity$3.class" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/MainFragmentActivity$4.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/MainFragmentActivity$4.class" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/MainFragmentActivity$ExitRunnable.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/MainFragmentActivity$ExitRunnable.class" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/MainFragmentActivity$FragmentAdapter.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/MainFragmentActivity$FragmentAdapter.class" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/MainFragmentActivity$LoadAchievementTask.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/MainFragmentActivity$LoadAchievementTask.class" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/MainFragmentActivity$LoadFriendListRunnable.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/MainFragmentActivity$LoadFriendListRunnable.class" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/MainFragmentActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/cmccsi/mhealth/app/sports/activity/MainFragmentActivity.class" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" afterPath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeDebugAssets/merger.xml" afterPath="$PROJECT_DIR$/build/intermediates/incremental/mergeDebugAssets/merger.xml" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" afterPath="$PROJECT_DIR$/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeDebugResources/merger.xml" afterPath="$PROJECT_DIR$/build/intermediates/incremental/mergeDebugResources/merger.xml" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/pre-dexed/debug/achartengine-1.1.0_a4a888c5d9e82c10a5f5a73c1bba69382b3b2d78.jar" afterPath="$PROJECT_DIR$/build/intermediates/pre-dexed/debug/achartengine-1.1.0_507981f9933ac956d1f5108fd3282b311414086c.jar" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/pre-dexed/debug/activation_8f9dc47afebb3ec22d3518a484e0e1194e5e5b9f.jar" afterPath="$PROJECT_DIR$/build/intermediates/pre-dexed/debug/activation_1ec25cd91b23da5f93bdd173f7ccded0805dc649.jar" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/pre-dexed/debug/additionnal_04897d69b0a0340c4a2e2e61200c4b3c0effdb6a.jar" afterPath="$PROJECT_DIR$/build/intermediates/pre-dexed/debug/additionnal_27b08ad368c1aa92fec29ccf42bedab6dc56e344.jar" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/pre-dexed/debug/android-support-v4_bb3b517329bb5efd159c7ac25242839e0b8488e2.jar" afterPath="$PROJECT_DIR$/build/intermediates/pre-dexed/debug/android-support-v4_23d2c9b752e0029fecdcde92e6c509b001fd6b59.jar" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/pre-dexed/debug/baidumapapi_v3_5_0_8781ddb9067cf2960722d1642bda5b1d53ffe1d9.jar" afterPath="$PROJECT_DIR$/build/intermediates/pre-dexed/debug/baidumapapi_v3_5_0_f123721d83bca2e4dfdf249f822e8ed1861c826b.jar" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/pre-dexed/debug/commons-codec-1.8_ff18f311e804d28d0a70ae5b0ad695738259eff6.jar" afterPath="$PROJECT_DIR$/build/intermediates/pre-dexed/debug/commons-codec-1.8_ba71b55e11d3503fd74f964493e7f4cb139459c9.jar" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/pre-dexed/debug/commons-lang-2.2_de4335a18934f7e4bc44b0cf8cbafc41abf00f00.jar" afterPath="$PROJECT_DIR$/build/intermediates/pre-dexed/debug/commons-lang-2.2_d26b254dffc9c1729539c18c91f76fe88a8955da.jar" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/pre-dexed/debug/debug_a9ef640d5aac0909424a70262eb68202fe932372.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/pre-dexed/debug/fastjson-1.1.33_a35de0cd0a2970600f7f2cfbeebc8a33fd306895.jar" afterPath="$PROJECT_DIR$/build/intermediates/pre-dexed/debug/fastjson-1.1.33_8632c2fe3877a24bef5c10effb670948653cf7de.jar" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/pre-dexed/debug/gson-2.2.3_ca663ac83a0df90da1db041080c0345ba7a77fe9.jar" afterPath="$PROJECT_DIR$/build/intermediates/pre-dexed/debug/gson-2.2.3_53a22c67cb5e2384c6bfc724f31ffae413f05bba.jar" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/pre-dexed/debug/httpclient-4.1.3_d7005c9f64c865cba3c8fed5b3a29f949fce8875.jar" afterPath="$PROJECT_DIR$/build/intermediates/pre-dexed/debug/httpclient-4.1.3_1ddb794358671dea258255c72a8d4e55113e71f9.jar" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/pre-dexed/debug/httpcore-4.1.4_f1fff60a5df46615ef80dcdbd5665b1288936ac2.jar" afterPath="$PROJECT_DIR$/build/intermediates/pre-dexed/debug/httpcore-4.1.4_0950cdd0bd7fe439ac2ee9b6af1d78f345c67c97.jar" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/pre-dexed/debug/iShang_lib_ecg_2755e229d4e0c395303131f2a1f6a6ce383f4937.jar" afterPath="$PROJECT_DIR$/build/intermediates/pre-dexed/debug/iShang_lib_ecg_f4437c67a9901f8606f909fae50f11d0fa7396dc.jar" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/pre-dexed/debug/libTGEKG_d0bc0c7338290b7b760929c1535798511c02a85c.jar" afterPath="$PROJECT_DIR$/build/intermediates/pre-dexed/debug/libTGEKG_6b6c05a495e8ded3f4812589d7afc1be221f555f.jar" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/pre-dexed/debug/libTGbleManager_f8f300c071cb5c680f1b26a2daa7878f7481eb0e.jar" afterPath="$PROJECT_DIR$/build/intermediates/pre-dexed/debug/libTGbleManager_ad414d97fe478d71130d0c1f071262ed9bbba3ef.jar" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/pre-dexed/debug/libammsdk_2697fbd58a7071c50625fc79c9ea48f4a81ebee0.jar" afterPath="$PROJECT_DIR$/build/intermediates/pre-dexed/debug/libammsdk_92e44990a5af2668c966974e38debdbd049c68ad.jar" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/pre-dexed/debug/libdingdangota_4ab77ee97dd874c3f5b1a0930348fe2888cfffe2.jar" afterPath="$PROJECT_DIR$/build/intermediates/pre-dexed/debug/libdingdangota_446e89fc1e031475a28d8c89e8ebc2308bf5b06e.jar" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/pre-dexed/debug/locSDK_6.05_804d2ff2a09c2611c2ade065cdfdf1c62af45304.jar" afterPath="$PROJECT_DIR$/build/intermediates/pre-dexed/debug/locSDK_6.05_d1bc0d98c7aa5a1da7e54e676edf51d8e1493bf4.jar" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/pre-dexed/debug/mail_e73dcd54a4a7628b497c356497f23ba35baeb1d5.jar" afterPath="$PROJECT_DIR$/build/intermediates/pre-dexed/debug/mail_87dbecafa1a6d270593e6b557b3720c3bc86ac64.jar" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/pre-dexed/debug/xUtils-2.6.14_38ca8ded518a53aa39d5e40bfa0d56cb72e19259.jar" afterPath="$PROJECT_DIR$/build/intermediates/pre-dexed/debug/xUtils-2.6.14_3d0d8c48b9b3b4f743b14540fa55a752be38f7e6.jar" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/pre-dexed/debug/xcl-charts_34d87541ccbcd2662c9efbbebfdaeb8ae6d5ae1d.jar" afterPath="$PROJECT_DIR$/build/intermediates/pre-dexed/debug/xcl-charts_5561b0d233fd48d03fc3aeb8505f18c64986bbc1.jar" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/res/resources-debug.ap_" afterPath="$PROJECT_DIR$/build/intermediates/res/resources-debug.ap_" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex" afterPath="$PROJECT_DIR$/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/transforms/mergeJavaRes/debug/jars/2/1f/main.jar" afterPath="$PROJECT_DIR$/build/intermediates/transforms/mergeJavaRes/debug/jars/2/1f/main.jar" />
+      <change beforePath="$PROJECT_DIR$/build/outputs/logs/manifest-merger-debug-report.txt" afterPath="$PROJECT_DIR$/build/outputs/logs/manifest-merger-debug-report.txt" />
+      <change beforePath="$PROJECT_DIR$/src/cmccsi/mhealth/app/sports/activity/MainFragmentActivity.java" afterPath="$PROJECT_DIR$/src/cmccsi/mhealth/app/sports/activity/MainFragmentActivity.java" />
+      <change beforePath="$PROJECT_DIR$/src/cmccsi/mhealth/app/sports/activity/MainFragmentActivity2.java" afterPath="$PROJECT_DIR$/src/cmccsi/mhealth/app/sports/activity/MainFragmentActivity2.java" />
+      <change beforePath="$PROJECT_DIR$/src/cmccsi/mhealth/app/sports/appversion/PreLoadLoginActivity.java" afterPath="$PROJECT_DIR$/src/cmccsi/mhealth/app/sports/appversion/PreLoadLoginActivity.java" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,61 +111,17 @@
       <ProjectState />
     </projectState>
   </component>
-  <component name="ExternalProjectsManager">
-    <system id="GRADLE">
-      <state>
-        <task path="$PROJECT_DIR$">
-          <activation />
-        </task>
-        <projects_view>
-          <tree_state>
-            <expand>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="Sport_androidstudio_app" type="f1a62948:ProjectNode" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="Sport_androidstudio_app" type="f1a62948:ProjectNode" />
-                <item name="Tasks" type="e4a08cd1:TasksNode" />
-              </path>
-            </expand>
-            <select />
-          </tree_state>
-        </projects_view>
-      </state>
-    </system>
-  </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="MainFragmentActivity.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/cmccsi/mhealth/app/sports/activity/MainFragmentActivity.java">
+      <file leaf-file-name="PreLoadActivity.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/cmccsi/mhealth/app/sports/activity/PreLoadActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-176">
-              <caret line="43" column="57" lean-forward="true" selection-start-line="43" selection-start-column="57" selection-end-line="43" selection-end-column="57" />
+            <state relative-caret-position="160">
+              <caret line="10" column="33" lean-forward="true" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
               <folding>
-                <element signature="e#2638#3706#0" expanded="true" />
-                <element signature="e#3261#3615#0" expanded="true" />
-                <element signature="e#3614#3615#0" expanded="true" />
-                <element signature="e#3705#3706#0" expanded="true" />
-                <element signature="e#3927#3970#0" expanded="true" />
-                <element signature="e#4594#4654#0" expanded="true" />
-                <element signature="e#6877#6916#0" expanded="true" />
-                <element signature="e#7349#7696#0" expanded="true" />
-                <element signature="e#7695#7696#0" expanded="true" />
-                <element signature="e#8556#8896#0" expanded="true" />
-                <element signature="e#8895#8896#0" expanded="true" />
+                <element signature="e#2618#3533#0" expanded="true" />
+                <element signature="e#3532#3533#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MainFragmentActivity2.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/cmccsi/mhealth/app/sports/activity/MainFragmentActivity2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="64">
-              <caret line="46" column="27" lean-forward="false" selection-start-line="46" selection-start-column="27" selection-end-line="46" selection-end-column="27" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -81,14 +130,12 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>爱动力</find>
-      <find>if (isLogin) {</find>
-      <find>if (isLogin)</find>
-      <find>(isLogin)</find>
-      <find>账号</find>
-      <find>PreLoadLoginActivity</find>
-      <find>intent</find>
+      <find>MainFragmentActivity2</find>
+      <find>MainFragmentActivity</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="myGradleHomes">
@@ -106,14 +153,14 @@
         <entry>
           <key>
             <ExternalProjectPojo>
-              <option name="name" value="Sport_androidstudio_app" />
+              <option name="name" value="lovesportsApp" />
               <option name="path" value="$PROJECT_DIR$" />
             </ExternalProjectPojo>
           </key>
           <value>
             <list>
               <ExternalProjectPojo>
-                <option name="name" value="Sport_androidstudio_app" />
+                <option name="name" value="lovesportsApp" />
                 <option name="path" value="$PROJECT_DIR$" />
               </ExternalProjectPojo>
             </list>
@@ -127,7 +174,7 @@
           <value>
             <list>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the sub-projects of root project 'Sport_androidstudio_app'." />
+                <option name="description" value="Displays the sub-projects of root project 'lovesportsApp'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="projects" />
               </ExternalTaskPojo>
@@ -162,12 +209,12 @@
                 <option name="name" value="mockableAndroidJar" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the configuration model of root project 'Sport_androidstudio_app'. [incubating]" />
+                <option name="description" value="Displays the configuration model of root project 'lovesportsApp'. [incubating]" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="model" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the tasks runnable from root project 'Sport_androidstudio_app'." />
+                <option name="description" value="Displays the tasks runnable from root project 'lovesportsApp'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="tasks" />
               </ExternalTaskPojo>
@@ -186,7 +233,7 @@
                 <option name="name" value="deviceCheck" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays all dependencies declared in root project 'Sport_androidstudio_app'." />
+                <option name="description" value="Displays all dependencies declared in root project 'lovesportsApp'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="dependencies" />
               </ExternalTaskPojo>
@@ -242,7 +289,7 @@
                 <option name="name" value="compileDebugAndroidTestJavaWithJavac" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the components produced by root project 'Sport_androidstudio_app'. [incubating]" />
+                <option name="description" value="Displays the components produced by root project 'lovesportsApp'. [incubating]" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="components" />
               </ExternalTaskPojo>
@@ -339,7 +386,7 @@
                 <option name="name" value="uninstallDebugAndroidTest" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the insight into a specific dependency in root project 'Sport_androidstudio_app'." />
+                <option name="description" value="Displays the insight into a specific dependency in root project 'lovesportsApp'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="dependencyInsight" />
               </ExternalTaskPojo>
@@ -678,7 +725,7 @@
                 <option name="name" value="generateReleaseResValues" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the properties of root project 'Sport_androidstudio_app'." />
+                <option name="description" value="Displays the properties of root project 'lovesportsApp'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="properties" />
               </ExternalTaskPojo>
@@ -790,7 +837,7 @@
                   </entry>
                 </map>
               </option>
-              <option name="name" value="Sport_androidstudio_app" />
+              <option name="name" value="lovesportsApp" />
               <option name="projectBuildClasspath">
                 <list>
                   <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/6r4uqcc6ovnq6ac6s0txzcpc0/gradle-2.4/src/announce" />
@@ -927,10 +974,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/settings.gradle" />
-        <option value="$PROJECT_DIR$/src/com/ai/android/picker/Scroller.java" />
+        <option value="$PROJECT_DIR$/src/cmccsi/mhealth/app/sports/appversion/PreLoadLoginActivity.java" />
         <option value="$PROJECT_DIR$/src/cmccsi/mhealth/app/sports/activity/MainFragmentActivity2.java" />
-        <option value="$PROJECT_DIR$/src/cmccsi/mhealth/app/sports/activity/PreLoadActivity.java" />
         <option value="$PROJECT_DIR$/src/cmccsi/mhealth/app/sports/activity/MainFragmentActivity.java" />
       </list>
     </option>
@@ -956,27 +1001,45 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="Sport_androidstudio_app" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Sport_androidstudio_app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="lovesportsApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lovesportsApp" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="lovesportsApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lovesportsApp" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lovesportsApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lovesportsApp" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lovesportsApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lovesportsApp" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="cmcc" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="android.sdk.path" value="D:/proSoft/sdk" />
     <property name="settings.editor.selected.configurable" value="android.sdk-updates" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Sport_androidstudio_h5" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../lovesportsH5" />
     <property name="device.picker.selection" value="1103c4fb" />
   </component>
   <component name="RunDashboard">
@@ -1015,8 +1078,8 @@
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sport_androidstudio_app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
-      <module name="Sport_androidstudio_app" />
+    <configuration name="lovesportsApp" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="lovesportsApp" />
       <option name="DEPLOY" value="true" />
       <option name="ARTIFACT_NAME" value="" />
       <option name="PM_INSTALL_OPTIONS" value="" />
@@ -1131,52 +1194,52 @@
     <option name="remove_strategy" value="false" />
   </component>
   <component name="SvnConfiguration">
-    <configuration>C:\Users\Administrator\AppData\Roaming\Subversion</configuration>
+    <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <created>1546051478664</created>
+      <changelist id="0dd80b23-66bf-4bc5-ad13-ec353375443b" name="Default" comment="" />
+      <created>1546060372986</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1546051478664</updated>
+      <updated>1546060372986</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="7" />
+    <editor active="true" />
     <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Android Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Logcat" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.13154173" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Device File Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32956153" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16831683" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Logcat" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26918074" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2496749" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="SonarLint" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.0" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32964888" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Device File Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -1188,154 +1251,77 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Sport_androidstudio_h5/src/main/java/cmccsi/mhealth/portal/sports/activity/MainFragmentActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="55" column="26" lean-forward="false" selection-start-line="55" selection-start-column="26" selection-end-line="55" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Sport_androidstudio_h5/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/settings.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cmccsi/mhealth/app/sports/pedo/PedometerActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="80" column="13" lean-forward="false" selection-start-line="80" selection-start-column="13" selection-end-line="80" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/layout/activity_login.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/layout/view_basic5.xml">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="13" column="20" lean-forward="false" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="android-designer2">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/values/strings.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="231" column="18" lean-forward="false" selection-start-line="231" selection-start-column="18" selection-end-line="231" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ai/android/picker/Scroller.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="113">
-          <caret line="391" column="35" lean-forward="false" selection-start-line="391" selection-start-column="35" selection-end-line="391" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="433">
-          <caret line="48" column="16" lean-forward="true" selection-start-line="48" selection-start-column="16" selection-end-line="48" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/layout/activity_forgetpwd.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1173">
-          <caret line="40" column="30" lean-forward="false" selection-start-line="40" selection-start-column="30" selection-end-line="40" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cmccsi/mhealth/app/sports/net/DataSyn.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="117" column="34" lean-forward="true" selection-start-line="117" selection-start-column="34" selection-end-line="117" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cmccsi/mhealth/app/sports/activity/PreLoadActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="219" column="15" lean-forward="false" selection-start-line="219" selection-start-column="15" selection-end-line="219" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/cmccsi/mhealth/app/sports/appversion/PreLoadLoginActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2448">
-          <caret line="212" column="34" lean-forward="true" selection-start-line="212" selection-start-column="34" selection-end-line="212" selection-end-column="34" />
-          <folding />
+        <state relative-caret-position="64">
+          <caret line="54" column="17" lean-forward="false" selection-start-line="54" selection-start-column="17" selection-end-line="54" selection-end-column="17" />
+          <folding>
+            <element signature="e#5835#6128#0" expanded="true" />
+            <element signature="e#6127#6128#0" expanded="true" />
+            <element signature="e#6173#6472#0" expanded="true" />
+            <element signature="e#6471#6472#0" expanded="true" />
+            <element signature="e#6743#7256#0" expanded="true" />
+            <element signature="e#7255#7256#0" expanded="true" />
+            <element signature="e#8758#9076#0" expanded="true" />
+            <element signature="e#9075#9076#0" expanded="true" />
+            <element signature="e#9130#9303#0" expanded="true" />
+            <element signature="e#9302#9303#0" expanded="true" />
+            <element signature="e#18361#19200#0" expanded="true" />
+            <element signature="e#19199#19200#0" expanded="true" />
+          </folding>
         </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="363">
-          <caret line="380" column="71" lean-forward="true" selection-start-line="380" selection-start-column="71" selection-end-line="380" selection-end-column="71" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="android-manifest">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/cmccsi/mhealth/app/sports/activity/MainFragmentActivity2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="46" column="27" lean-forward="false" selection-start-line="46" selection-start-column="27" selection-end-line="46" selection-end-column="27" />
-          <folding />
+        <state relative-caret-position="96">
+          <caret line="49" column="23" lean-forward="true" selection-start-line="49" selection-start-column="23" selection-end-line="49" selection-end-column="23" />
+          <folding>
+            <element signature="e#2659#3234#0" expanded="true" />
+            <element signature="e#3233#3234#0" expanded="true" />
+            <element signature="e#7004#7353#0" expanded="true" />
+            <element signature="e#7352#7353#0" expanded="true" />
+            <element signature="e#8571#8913#0" expanded="true" />
+            <element signature="e#8912#8913#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/cmccsi/mhealth/app/sports/activity/MainFragmentActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-176">
-          <caret line="43" column="57" lean-forward="true" selection-start-line="43" selection-start-column="57" selection-end-line="43" selection-end-column="57" />
+        <state relative-caret-position="80">
+          <caret line="47" column="6" lean-forward="false" selection-start-line="47" selection-start-column="6" selection-end-line="47" selection-end-column="6" />
           <folding>
-            <element signature="e#2638#3706#0" expanded="true" />
-            <element signature="e#3261#3615#0" expanded="true" />
-            <element signature="e#3614#3615#0" expanded="true" />
-            <element signature="e#3705#3706#0" expanded="true" />
-            <element signature="e#3927#3970#0" expanded="true" />
-            <element signature="e#4594#4654#0" expanded="true" />
-            <element signature="e#6877#6916#0" expanded="true" />
-            <element signature="e#7349#7696#0" expanded="true" />
-            <element signature="e#7695#7696#0" expanded="true" />
-            <element signature="e#8556#8896#0" expanded="true" />
-            <element signature="e#8895#8896#0" expanded="true" />
+            <element signature="e#2653#3721#0" expanded="true" />
+            <element signature="e#3276#3630#0" expanded="true" />
+            <element signature="e#3629#3630#0" expanded="true" />
+            <element signature="e#3720#3721#0" expanded="true" />
+            <element signature="e#7364#7711#0" expanded="true" />
+            <element signature="e#7710#7711#0" expanded="true" />
+            <element signature="e#8571#8911#0" expanded="true" />
+            <element signature="e#8910#8911#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/activity_loading.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-288">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cmccsi/mhealth/app/sports/activity/PreLoadActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="10" column="33" lean-forward="true" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
+          <folding>
+            <element signature="e#2618#3533#0" expanded="true" />
+            <element signature="e#3532#3533#0" expanded="true" />
           </folding>
         </state>
       </provider>

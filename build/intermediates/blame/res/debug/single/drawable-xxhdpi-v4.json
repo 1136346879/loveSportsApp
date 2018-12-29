@@ -4,15 +4,31 @@
         "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\drawable-xxhdpi\\radio_streth_step_right.png"
     },
     {
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\radio_streth_step_right.png",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\drawable-xxhdpi\\radio_streth_step_right.png"
+    },
+    {
         "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\radio_streth_step_right2.png",
         "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\drawable-xxhdpi\\radio_streth_step_right2.png"
+    },
+    {
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\radio_streth_step_right2.png",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\drawable-xxhdpi\\radio_streth_step_right2.png"
     },
     {
         "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\radio_streth_step_left2.png",
         "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\drawable-xxhdpi\\radio_streth_step_left2.png"
     },
     {
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\radio_streth_step_left.png",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\drawable-xxhdpi\\radio_streth_step_left.png"
+    },
+    {
         "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\radio_streth_step_left.png",
         "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\drawable-xxhdpi\\radio_streth_step_left.png"
+    },
+    {
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\radio_streth_step_left2.png",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\drawable-xxhdpi\\radio_streth_step_left2.png"
     }
 ]

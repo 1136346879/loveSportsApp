@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Sport_androidstudio_app.iml" filepath="$PROJECT_DIR$/Sport_androidstudio_app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lovesportsApp.iml" filepath="$PROJECT_DIR$/lovesportsApp.iml" />
     </modules>
   </component>
 </project>

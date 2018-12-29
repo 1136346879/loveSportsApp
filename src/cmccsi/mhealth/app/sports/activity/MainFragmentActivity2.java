@@ -44,6 +44,9 @@ import cmccsi.mhealth.app.sports.tabhost.MainGridFragment2;
 import cmccsi.mhealth.app.sports.tabhost.TabBaseFragment;
 import cmccsi.mhealth.app.sports.R;
 
+/**
+ * 主页2
+ */
 public class MainFragmentActivity2 extends BaseActivity implements OnClickListener{
 	
 	public static final int TAB_HEALTH = 0;

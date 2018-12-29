@@ -1,5 +1,9 @@
 [
     {
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\layout\\activity_settting_target.xml",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\layout\\activity_settting_target.xml"
+    },
+    {
         "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_dingdang_setting.xml",
         "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\layout\\activity_dingdang_setting.xml"
     },
@@ -8,36 +12,36 @@
         "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\layout\\imageview.xml"
     },
     {
-        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\layout\\xlistview_footer.xml",
-        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\layout\\xlistview_footer.xml"
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\layout\\activity_friend_search.xml",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\layout\\activity_friend_search.xml"
+    },
+    {
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\layout\\notification_phone_step.xml",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\layout\\notification_phone_step.xml"
+    },
+    {
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\layout\\activity_area.xml",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\layout\\activity_area.xml"
     },
     {
         "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_ecg_new.xml",
         "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\layout\\activity_ecg_new.xml"
     },
     {
-        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\layout\\alertdialog_message.xml",
-        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\layout\\alertdialog_message.xml"
-    },
-    {
-        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setting_targetweight.xml",
-        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\layout\\activity_setting_targetweight.xml"
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\layout\\activity_ecg_chart.xml",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\layout\\activity_ecg_chart.xml"
     },
     {
         "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_opinion_list_item.xml",
         "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\layout\\adapter_opinion_list_item.xml"
     },
     {
-        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_deflut.xml",
-        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\layout\\dialog_deflut.xml"
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\layout\\number_picker.xml",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\layout\\number_picker.xml"
     },
     {
-        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_match_contact.xml",
-        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\layout\\activity_match_contact.xml"
-    },
-    {
-        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\layout\\custom_progress_dialog.xml",
-        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\layout\\custom_progress_dialog.xml"
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\layout\\title_menu.xml",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\layout\\title_menu.xml"
     },
     {
         "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_opinion_list.xml",
@@ -48,10 +52,6 @@
         "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\layout\\racelist_expandablelist.xml"
     },
     {
-        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_select_run_type.xml",
-        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\layout\\activity_select_run_type.xml"
-    },
-    {
         "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_inviting.xml",
         "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\layout\\list_item_inviting.xml"
     },
@@ -60,116 +60,140 @@
         "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\layout\\activity_forgetpwd.xml"
     },
     {
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\layout\\activity_select_run_type.xml",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\layout\\activity_select_run_type.xml"
+    },
+    {
         "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_friend_search.xml",
         "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\layout\\activity_friend_search.xml"
-    },
-    {
-        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_feed_back.xml",
-        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\layout\\activity_feed_back.xml"
-    },
-    {
-        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setting.xml",
-        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\layout\\activity_setting.xml"
     },
     {
         "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setting_app.xml",
         "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\layout\\activity_setting_app.xml"
     },
     {
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\layout\\device_type_item.xml",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\layout\\device_type_item.xml"
+    },
+    {
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main_fragment.xml",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\layout\\activity_main_fragment.xml"
+    },
+    {
         "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_rank_companymenu.xml",
         "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\layout\\activity_rank_companymenu.xml"
+    },
+    {
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_simpletext.xml",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\layout\\list_item_simpletext.xml"
     },
     {
         "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main_fragment2.xml",
         "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\layout\\activity_main_fragment2.xml"
     },
     {
-        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_area_item.xml",
-        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\layout\\activity_area_item.xml"
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\layout\\date_picker.xml",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\layout\\date_picker.xml"
     },
     {
         "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\layout\\device_type_item.xml",
         "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\layout\\device_type_item.xml"
     },
     {
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\layout\\activity_ecg_new.xml",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\layout\\activity_ecg_new.xml"
+    },
+    {
         "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_list_sports_history.xml",
         "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\layout\\activity_list_sports_history.xml"
+    },
+    {
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\layout\\device_name.xml",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\layout\\device_name.xml"
+    },
+    {
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\layout\\activity_bracelet_setting.xml",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\layout\\activity_bracelet_setting.xml"
     },
     {
         "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\layout\\title_item.xml",
         "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\layout\\title_item.xml"
     },
     {
-        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_details_new.xml",
-        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\layout\\activity_details_new.xml"
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\layout\\layout_gps_dialog.xml",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\layout\\layout_gps_dialog.xml"
     },
     {
-        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_campaign_rank.xml",
-        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\layout\\fragment_campaign_rank.xml"
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\layout\\activity_details_new.xml",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\layout\\activity_details_new.xml"
     },
     {
-        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_phone_step.xml",
-        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\layout\\notification_phone_step.xml"
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\layout\\ecg_dialog.xml",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\layout\\ecg_dialog.xml"
+    },
+    {
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\layout\\activity_sharepager.xml",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\layout\\activity_sharepager.xml"
     },
     {
         "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\layout\\date_picker.xml",
         "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\layout\\date_picker.xml"
     },
     {
-        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\layout\\title_menu.xml",
-        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\layout\\title_menu.xml"
-    },
-    {
         "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\layout\\refresh_top_item.xml",
         "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\layout\\refresh_top_item.xml"
     },
     {
-        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_ecg_detail.xml",
-        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\layout\\fragment_ecg_detail.xml"
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_goal.xml",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\layout\\fragment_goal.xml"
     },
     {
-        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_phone_sendmsg.xml",
-        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\layout\\notification_phone_sendmsg.xml"
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\layout\\xlistview_header.xml",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\layout\\xlistview_header.xml"
     },
     {
-        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_match_contact_items.xml",
-        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\layout\\activity_match_contact_items.xml"
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\layout\\time_picker.xml",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\layout\\time_picker.xml"
     },
     {
         "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\layout\\acticity_running.xml",
         "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\layout\\acticity_running.xml"
     },
     {
-        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_friend.xml",
-        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\layout\\activity_friend.xml"
-    },
-    {
-        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_hrv.xml",
-        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\layout\\dialog_hrv.xml"
-    },
-    {
         "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\layout\\opinion_spinner_item.xml",
         "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\layout\\opinion_spinner_item.xml"
-    },
-    {
-        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\layout\\popmenu.xml",
-        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\layout\\popmenu.xml"
     },
     {
         "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_device.xml",
         "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\layout\\list_item_device.xml"
     },
     {
-        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_his.xml",
-        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\layout\\list_item_his.xml"
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_friend.xml",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\layout\\list_item_friend.xml"
     },
     {
         "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_goal.xml",
         "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\layout\\fragment_goal.xml"
     },
     {
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\layout\\alertdialog_message.xml",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\layout\\alertdialog_message.xml"
+    },
+    {
         "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_webview.xml",
         "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\layout\\fragment_webview.xml"
+    },
+    {
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_detail_race.xml",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\layout\\list_item_detail_race.xml"
+    },
+    {
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\layout\\activity_progress_new.xml",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\layout\\activity_progress_new.xml"
+    },
+    {
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\layout\\item_searchlist.xml",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\layout\\item_searchlist.xml"
     },
     {
         "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\layout\\item_searchlist.xml",
@@ -180,44 +204,40 @@
         "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\layout\\dialog_common_ask.xml"
     },
     {
-        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\layout\\tab_main_gridview_layout.xml",
-        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\layout\\tab_main_gridview_layout.xml"
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_rank.xml",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\layout\\list_item_rank.xml"
     },
     {
-        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_opinion_new.xml",
-        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\layout\\activity_opinion_new.xml"
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\layout\\activity_match_contact_items.xml",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\layout\\activity_match_contact_items.xml"
     },
     {
-        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\layout\\main_menu_frid.xml",
-        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\layout\\main_menu_frid.xml"
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_hrv.xml",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\layout\\dialog_hrv.xml"
     },
     {
-        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_device_add.xml",
-        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\layout\\activity_device_add.xml"
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_main_grid.xml",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\layout\\fragment_main_grid.xml"
     },
     {
-        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_opinion_view.xml",
-        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\layout\\activity_opinion_view.xml"
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\layout\\activity_login.xml"
     },
     {
-        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_sharepager.xml",
-        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\layout\\activity_sharepager.xml"
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\layout\\frament_activity.xml",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\layout\\frament_activity.xml"
     },
     {
-        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\layout\\view_basic5.xml",
-        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\layout\\view_basic5.xml"
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_ecg_detail.xml",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\layout\\fragment_ecg_detail.xml"
     },
     {
-        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\layout\\cropimage.xml",
-        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\layout\\cropimage.xml"
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\layout\\activity_device_add.xml",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\layout\\activity_device_add.xml"
     },
     {
-        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_settting_target.xml",
-        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\layout\\activity_settting_target.xml"
-    },
-    {
-        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_rankinglist.xml",
-        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\layout\\fragment_rankinglist.xml"
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_rankinglist.xml",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\layout\\fragment_rankinglist.xml"
     },
     {
         "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\layout\\device_name.xml",
@@ -228,16 +248,20 @@
         "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\layout\\activity_ecg_chart.xml"
     },
     {
-        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\layout\\number_picker.xml",
-        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\layout\\number_picker.xml"
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\layout\\activity_opinion_new.xml",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\layout\\activity_opinion_new.xml"
     },
     {
-        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\layout\\opinion_simple_spinner_dropdown_item.xml",
-        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\layout\\opinion_simple_spinner_dropdown_item.xml"
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\layout\\activity_pedo.xml",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\layout\\activity_pedo.xml"
     },
     {
-        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\layout\\title_menu2.xml",
-        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\layout\\title_menu2.xml"
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setting_targetweight.xml",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\layout\\activity_setting_targetweight.xml"
+    },
+    {
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main_fragment2.xml",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\layout\\activity_main_fragment2.xml"
     },
     {
         "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\layout\\alertdialog_addfriend.xml",
@@ -248,16 +272,28 @@
         "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\layout\\popwindow_wenxininfo_new.xml"
     },
     {
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\layout\\activity_area_item.xml",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\layout\\activity_area_item.xml"
+    },
+    {
         "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\layout\\customlistdialog.xml",
         "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\layout\\customlistdialog.xml"
     },
     {
-        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\layout\\map_list_item.xml",
-        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\layout\\map_list_item.xml"
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\layout\\nav_radiogroup_item.xml",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\layout\\nav_radiogroup_item.xml"
+    },
+    {
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\layout\\title_menu2.xml",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\layout\\title_menu2.xml"
     },
     {
         "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_map_history_orbit.xml",
         "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\layout\\activity_map_history_orbit.xml"
+    },
+    {
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\layout\\customlistdialog.xml",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\layout\\customlistdialog.xml"
     },
     {
         "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_detail_race.xml",
@@ -272,20 +308,12 @@
         "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\layout\\activity_progress_new.xml"
     },
     {
-        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\layout\\sample_fragment_blank.xml",
-        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\layout\\sample_fragment_blank.xml"
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\layout\\activity_loading.xml",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\layout\\activity_loading.xml"
     },
     {
         "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_map_orbit.xml",
         "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\layout\\fragment_map_orbit.xml"
-    },
-    {
-        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_loading.xml",
-        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\layout\\activity_loading.xml"
-    },
-    {
-        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_goal_type.xml",
-        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\layout\\list_item_goal_type.xml"
     },
     {
         "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\layout\\nav_radiogroup_item.xml",
@@ -296,32 +324,32 @@
         "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\layout\\activity_bracelet_setting.xml"
     },
     {
-        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_registe.xml",
-        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\layout\\activity_registe.xml"
-    },
-    {
-        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_area.xml",
-        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\layout\\activity_area.xml"
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\layout\\popup_arrow.xml",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\layout\\popup_arrow.xml"
     },
     {
         "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_map_type.xml",
         "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\layout\\list_item_map_type.xml"
     },
     {
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\layout\\imageview.xml",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\layout\\imageview.xml"
+    },
+    {
         "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\layout\\device_type_list.xml",
         "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\layout\\device_type_list.xml"
     },
     {
-        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_friend.xml",
-        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\layout\\list_item_friend.xml"
-    },
-    {
-        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_ranking.xml",
-        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\layout\\activity_ranking.xml"
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\layout\\activity_progressupdate.xml",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\layout\\activity_progressupdate.xml"
     },
     {
         "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_simpletext.xml",
         "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\layout\\list_item_simpletext.xml"
+    },
+    {
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\layout\\tab_main_gridview_layout.xml",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\layout\\tab_main_gridview_layout.xml"
     },
     {
         "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\layout\\customdialog.xml",
@@ -344,40 +372,36 @@
         "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\layout\\activity_main_fragment.xml"
     },
     {
-        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_progressupdate.xml",
-        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\layout\\activity_progressupdate.xml"
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\layout\\customdialog.xml",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\layout\\customdialog.xml"
     },
     {
-        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_racelist1.xml",
-        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\layout\\activity_racelist1.xml"
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\layout\\device_type_list.xml",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\layout\\device_type_list.xml"
+    },
+    {
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\layout\\view_basic5.xml",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\layout\\view_basic5.xml"
+    },
+    {
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\layout\\activity_friend.xml",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\layout\\activity_friend.xml"
     },
     {
         "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_rank_areamenu.xml",
         "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\layout\\activity_rank_areamenu.xml"
     },
     {
-        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\layout\\simple_imagetext_listitem.xml",
-        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\layout\\simple_imagetext_listitem.xml"
-    },
-    {
         "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_main_grid.xml",
         "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\layout\\fragment_main_grid.xml"
     },
     {
-        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_ecg_detail1.xml",
-        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\layout\\activity_ecg_detail1.xml"
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_map_type.xml",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\layout\\list_item_map_type.xml"
     },
     {
         "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\layout\\xlistview_header.xml",
         "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\layout\\xlistview_header.xml"
-    },
-    {
-        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_historysport.xml",
-        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\layout\\activity_historysport.xml"
-    },
-    {
-        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_delete.xml",
-        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\layout\\dialog_delete.xml"
     },
     {
         "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\layout\\frament_activity.xml",
@@ -388,6 +412,386 @@
         "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\layout\\activity_login.xml"
     },
     {
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\layout\\activity_rank_companymenu.xml",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\layout\\activity_rank_companymenu.xml"
+    },
+    {
+        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\layout\\setting_help.xml",
+        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\layout\\setting_help.xml"
+    },
+    {
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\layout\\activity_resetpwd.xml",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\layout\\activity_resetpwd.xml"
+    },
+    {
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_map_orbit.xml",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\layout\\fragment_map_orbit.xml"
+    },
+    {
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\layout\\activity_rank_areamenu.xml",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\layout\\activity_rank_areamenu.xml"
+    },
+    {
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_webview.xml",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\layout\\fragment_webview.xml"
+    },
+    {
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_inviting.xml",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\layout\\list_item_inviting.xml"
+    },
+    {
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\layout\\racelist_expandablelist.xml",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\layout\\racelist_expandablelist.xml"
+    },
+    {
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\layout\\refresh_top_item.xml",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\layout\\refresh_top_item.xml"
+    },
+    {
+        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_message.xml",
+        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\layout\\activity_message.xml"
+    },
+    {
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\layout\\alertdialog_addfriend.xml",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\layout\\alertdialog_addfriend.xml"
+    },
+    {
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\layout\\cropimage.xml",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\layout\\cropimage.xml"
+    },
+    {
+        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\layout\\xlistview_footer.xml",
+        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\layout\\xlistview_footer.xml"
+    },
+    {
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\layout\\activity_about.xml",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\layout\\activity_about.xml"
+    },
+    {
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\layout\\map_list_item.xml",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\layout\\map_list_item.xml"
+    },
+    {
+        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\layout\\alertdialog_message.xml",
+        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\layout\\alertdialog_message.xml"
+    },
+    {
+        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setting_targetweight.xml",
+        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\layout\\activity_setting_targetweight.xml"
+    },
+    {
+        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_deflut.xml",
+        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\layout\\dialog_deflut.xml"
+    },
+    {
+        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_match_contact.xml",
+        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\layout\\activity_match_contact.xml"
+    },
+    {
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\layout\\activity_match_contact.xml",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\layout\\activity_match_contact.xml"
+    },
+    {
+        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\layout\\custom_progress_dialog.xml",
+        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\layout\\custom_progress_dialog.xml"
+    },
+    {
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\layout\\activity_ecg_detail1.xml",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\layout\\activity_ecg_detail1.xml"
+    },
+    {
+        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_select_run_type.xml",
+        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\layout\\activity_select_run_type.xml"
+    },
+    {
+        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_feed_back.xml",
+        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\layout\\activity_feed_back.xml"
+    },
+    {
+        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setting.xml",
+        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\layout\\activity_setting.xml"
+    },
+    {
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\layout\\activity_opinion_view.xml",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\layout\\activity_opinion_view.xml"
+    },
+    {
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_activity_rank.xml",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\layout\\list_item_activity_rank.xml"
+    },
+    {
+        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_area_item.xml",
+        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\layout\\activity_area_item.xml"
+    },
+    {
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\layout\\hr_activity.xml",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\layout\\hr_activity.xml"
+    },
+    {
+        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_details_new.xml",
+        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\layout\\activity_details_new.xml"
+    },
+    {
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\layout\\xlistview_footer.xml",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\layout\\xlistview_footer.xml"
+    },
+    {
+        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_campaign_rank.xml",
+        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\layout\\fragment_campaign_rank.xml"
+    },
+    {
+        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_phone_step.xml",
+        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\layout\\notification_phone_step.xml"
+    },
+    {
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_opinion_list_item.xml",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\layout\\adapter_opinion_list_item.xml"
+    },
+    {
+        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\layout\\title_menu.xml",
+        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\layout\\title_menu.xml"
+    },
+    {
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_delete.xml",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\layout\\dialog_delete.xml"
+    },
+    {
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_common_ask.xml",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\layout\\dialog_common_ask.xml"
+    },
+    {
+        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_ecg_detail.xml",
+        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\layout\\fragment_ecg_detail.xml"
+    },
+    {
+        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_match_contact_items.xml",
+        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\layout\\activity_match_contact_items.xml"
+    },
+    {
+        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_phone_sendmsg.xml",
+        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\layout\\notification_phone_sendmsg.xml"
+    },
+    {
+        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_friend.xml",
+        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\layout\\activity_friend.xml"
+    },
+    {
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\layout\\activity_message.xml",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\layout\\activity_message.xml"
+    },
+    {
+        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_hrv.xml",
+        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\layout\\dialog_hrv.xml"
+    },
+    {
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\layout\\custom_progress_dialog.xml",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\layout\\custom_progress_dialog.xml"
+    },
+    {
+        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\layout\\popmenu.xml",
+        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\layout\\popmenu.xml"
+    },
+    {
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\layout\\map_fragment.xml",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\layout\\map_fragment.xml"
+    },
+    {
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\layout\\popwindow_wenxininfo_new.xml",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\layout\\popwindow_wenxininfo_new.xml"
+    },
+    {
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setting.xml",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\layout\\activity_setting.xml"
+    },
+    {
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_goal_type.xml",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\layout\\list_item_goal_type.xml"
+    },
+    {
+        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_his.xml",
+        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\layout\\list_item_his.xml"
+    },
+    {
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_messages.xml",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\layout\\list_item_messages.xml"
+    },
+    {
+        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\layout\\tab_main_gridview_layout.xml",
+        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\layout\\tab_main_gridview_layout.xml"
+    },
+    {
+        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_opinion_new.xml",
+        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\layout\\activity_opinion_new.xml"
+    },
+    {
+        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\layout\\main_menu_frid.xml",
+        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\layout\\main_menu_frid.xml"
+    },
+    {
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\layout\\setting_help.xml",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\layout\\setting_help.xml"
+    },
+    {
+        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_device_add.xml",
+        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\layout\\activity_device_add.xml"
+    },
+    {
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\layout\\activity_racelist1.xml",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\layout\\activity_racelist1.xml"
+    },
+    {
+        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_opinion_view.xml",
+        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\layout\\activity_opinion_view.xml"
+    },
+    {
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\layout\\activity_list_sports_history.xml",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\layout\\activity_list_sports_history.xml"
+    },
+    {
+        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_sharepager.xml",
+        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\layout\\activity_sharepager.xml"
+    },
+    {
+        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\layout\\view_basic5.xml",
+        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\layout\\view_basic5.xml"
+    },
+    {
+        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\layout\\cropimage.xml",
+        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\layout\\cropimage.xml"
+    },
+    {
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_campaign_rank.xml",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\layout\\fragment_campaign_rank.xml"
+    },
+    {
+        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_rankinglist.xml",
+        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\layout\\fragment_rankinglist.xml"
+    },
+    {
+        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_settting_target.xml",
+        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\layout\\activity_settting_target.xml"
+    },
+    {
+        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\layout\\number_picker.xml",
+        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\layout\\number_picker.xml"
+    },
+    {
+        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\layout\\opinion_simple_spinner_dropdown_item.xml",
+        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\layout\\opinion_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\layout\\popmenu.xml",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\layout\\popmenu.xml"
+    },
+    {
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\layout\\activity_device_setting.xml",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\layout\\activity_device_setting.xml"
+    },
+    {
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\layout\\title_item.xml",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\layout\\title_item.xml"
+    },
+    {
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\layout\\opinion_spinner_item.xml",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\layout\\opinion_spinner_item.xml"
+    },
+    {
+        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\layout\\title_menu2.xml",
+        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\layout\\title_menu2.xml"
+    },
+    {
+        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\layout\\map_list_item.xml",
+        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\layout\\map_list_item.xml"
+    },
+    {
+        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\layout\\sample_fragment_blank.xml",
+        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\layout\\sample_fragment_blank.xml"
+    },
+    {
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\layout\\activity_ranking.xml",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\layout\\activity_ranking.xml"
+    },
+    {
+        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_loading.xml",
+        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\layout\\activity_loading.xml"
+    },
+    {
+        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_goal_type.xml",
+        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\layout\\list_item_goal_type.xml"
+    },
+    {
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\layout\\activity_map_history_orbit.xml",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\layout\\activity_map_history_orbit.xml"
+    },
+    {
+        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_registe.xml",
+        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\layout\\activity_registe.xml"
+    },
+    {
+        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_area.xml",
+        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\layout\\activity_area.xml"
+    },
+    {
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setting_app.xml",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\layout\\activity_setting_app.xml"
+    },
+    {
+        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_friend.xml",
+        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\layout\\list_item_friend.xml"
+    },
+    {
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\layout\\activity_forgetpwd.xml",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\layout\\activity_forgetpwd.xml"
+    },
+    {
+        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_ranking.xml",
+        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\layout\\activity_ranking.xml"
+    },
+    {
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\layout\\activity_dingdang_setting.xml",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\layout\\activity_dingdang_setting.xml"
+    },
+    {
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\layout\\activity_opinion_list.xml",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\layout\\activity_opinion_list.xml"
+    },
+    {
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\layout\\notification_phone_sendmsg.xml",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\layout\\notification_phone_sendmsg.xml"
+    },
+    {
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\layout\\activity_registe.xml",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\layout\\activity_registe.xml"
+    },
+    {
+        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_progressupdate.xml",
+        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\layout\\activity_progressupdate.xml"
+    },
+    {
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_his.xml",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\layout\\list_item_his.xml"
+    },
+    {
+        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_racelist1.xml",
+        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\layout\\activity_racelist1.xml"
+    },
+    {
+        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\layout\\simple_imagetext_listitem.xml",
+        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\layout\\simple_imagetext_listitem.xml"
+    },
+    {
+        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_ecg_detail1.xml",
+        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\layout\\activity_ecg_detail1.xml"
+    },
+    {
+        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_historysport.xml",
+        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\layout\\activity_historysport.xml"
+    },
+    {
+        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_delete.xml",
+        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\layout\\dialog_delete.xml"
+    },
+    {
         "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_campaignlist.xml",
         "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\layout\\fragment_campaignlist.xml"
     },
@@ -396,16 +800,40 @@
         "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\layout\\list_item_messages.xml"
     },
     {
-        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\layout\\setting_help.xml",
-        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\layout\\setting_help.xml"
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\layout\\opinion_simple_spinner_dropdown_item.xml",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\layout\\opinion_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\layout\\acticity_running.xml",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\layout\\acticity_running.xml"
+    },
+    {
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_deflut.xml",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\layout\\dialog_deflut.xml"
+    },
+    {
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\layout\\sample_fragment_blank.xml",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\layout\\sample_fragment_blank.xml"
     },
     {
         "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_pedo.xml",
         "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\layout\\activity_pedo.xml"
     },
     {
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\layout\\activity_feed_back.xml",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\layout\\activity_feed_back.xml"
+    },
+    {
         "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_rank.xml",
         "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\layout\\list_item_rank.xml"
+    },
+    {
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_device.xml",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\layout\\list_item_device.xml"
+    },
+    {
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\layout\\simple_imagetext_listitem.xml",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\layout\\simple_imagetext_listitem.xml"
     },
     {
         "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_activity_rank.xml",
@@ -416,12 +844,16 @@
         "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\layout\\ecg_dialog.xml"
     },
     {
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\layout\\activity_historysport.xml",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\layout\\activity_historysport.xml"
+    },
+    {
         "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\layout\\time_picker.xml",
         "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\layout\\time_picker.xml"
     },
     {
-        "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_message.xml",
-        "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\layout\\activity_message.xml"
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\layout\\main_menu_frid.xml",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\layout\\main_menu_frid.xml"
     },
     {
         "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_resetpwd.xml",
@@ -434,5 +866,9 @@
     {
         "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\layout\\map_fragment.xml",
         "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\layout\\map_fragment.xml"
+    },
+    {
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_campaignlist.xml",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\layout\\fragment_campaignlist.xml"
     }
 ]

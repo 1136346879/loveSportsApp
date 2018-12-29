@@ -1,5 +1,13 @@
 [
     {
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\home_btn_bg_d.png",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\drawable-ldpi\\home_btn_bg_d.png"
+    },
+    {
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\tab_setting.png",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\drawable-ldpi\\tab_setting.png"
+    },
+    {
         "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\tab_setting.png",
         "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\drawable-ldpi\\tab_setting.png"
     },
@@ -12,11 +20,23 @@
         "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\drawable-ldpi\\home_btn_bg_s.png"
     },
     {
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\his_titlebar_jiao.png",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\drawable-ldpi\\his_titlebar_jiao.png"
+    },
+    {
         "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\imageview_activitydetails_avg.png",
         "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\drawable-ldpi\\imageview_activitydetails_avg.png"
     },
     {
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\home_btn_bg_s.png",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\drawable-ldpi\\home_btn_bg_s.png"
+    },
+    {
         "merged": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\home_btn_bg_d.png",
         "source": "F:\\minedemo\\workspace_as\\Sport_androidstudio_app\\res\\drawable-ldpi\\home_btn_bg_d.png"
+    },
+    {
+        "merged": "F:\\gitDemo\\sportlove\\lovesportsApp\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\imageview_activitydetails_avg.png",
+        "source": "F:\\gitDemo\\sportlove\\lovesportsApp\\res\\drawable-ldpi\\imageview_activitydetails_avg.png"
     }
 ]

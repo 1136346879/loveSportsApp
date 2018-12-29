@@ -51,6 +51,9 @@ import cmccsi.mhealth.app.sports.service.StepService_GPS;
 import cmccsi.mhealth.app.sports.service.UpdateVersionService;
 import cmccsi.mhealth.app.sports.R;
 
+/**
+ * 登录页  现在直接越过登录页
+ */
 public class PreLoadLoginActivity extends BaseActivity implements
 		OnClickListener {
 	private static String TAG = "LoginActivity";
